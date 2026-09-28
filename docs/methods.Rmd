@@ -1,0 +1,198 @@
+---
+output:
+  github_document:
+    html_preview: false
+    keep_html: false
+---
+
+```{r setup, include=FALSE}
+source("scripts/00_setup.R")
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+comparison <- read_table("out/tab/comparison.csv")
+diagnostics <- read_table("out/tab/diagnostics.csv")
+estimates <- read_table("out/tab/estimates.csv")
+bootstrap <- read_table("out/tab/bootstrap_audit.csv")
+review <- read_table("out/tab/review.csv")
+normalization <- read_table("out/tab/normalization.csv")
+pct <- function(x) sprintf("%.2f", 100 * x)
+```
+
+# Methods revision and migration audit
+
+The archived Python estimates reproduce, but their original interpretation
+was stronger than the collection design supports. The R pipeline preserves
+all archived inputs, reports captured-listing shares, and separates
+classification uncertainty from conditional bootstrap variation. No new
+collection or model calls were made for this migration.
+
+## Claims and estimands
+
+| Claim | Unit and denominator | Measurement and comparison | Supported interpretation |
+|---|---|---|---|
+| Identity branding varies across districts | Unique captured restaurant listing, within district | Union of confirmed dictionary groups; sampled collections in 2026 | Descriptive share in captured listings, conditional on the dictionary and saved verdicts |
+| Branding composition differs regionally | Same listing denominator for each group | Regional, surname/title, merchant, explicit upper-caste indicators; groups may overlap | Descriptive composition, without a causal explanation for regional differences |
+| SC/ST-informative surnames are rare | Unique captured listing; names selected from an external weighted lookup | Dictionary candidates require contextual review | Candidate screening only; owner caste and previously claimed manual exclusions are not established |
+| Historical branding was common | Listed eating house within year, city, and coded segment | Broader identity/purity labels in directories | Within-corpus description; historical and modern coding/source coverage are not directly comparable |
+
+## Numerical changes
+
+```{r changes, results='asis'}
+comparison |>
+  filter(group == "any") |>
+  transmute(Collection = paste(unname(region_names[region_id]),
+    if_else(region_id %in% c("blr", "maa", "mys"), "grid", "sampled")),
+    `Old n` = old_n, `New n` = new_n,
+    `Old confirmed` = old_confirmed, `New confirmed` = new_confirmed,
+    `Old %` = pct(old_p), `New confirmed %` = pct(new_p), Unresolved = unresolved) |>
+  knitr::kable()
+```
+
+All original sampled point estimates and density-weighted sensitivities
+match the archived tables within their six-decimal rounding. Grid group
+estimates and frozen screening-sample counts reproduce as well. These gates
+run on the data and numerical outputs, not assertions about README content.
+`out/tab/parity.csv` records the comparisons.
+
+The new grid analysis applies the v3 dictionary consistently with the
+sampled analysis. ICU normalization changes
+`r nrow(normalization)` retained names; these changes and their old keys
+are listed in `out/tab/normalization.csv`. The match-level differences are
+in `out/tab/match_changes.csv`. There are `r nrow(review)` unresolved
+restaurant–label pairs (`r n_distinct(review$item_id)` distinct verdict
+keys). The confirmed share is a lower endpoint for unresolved dictionary
+matches. `identification_upper` counts those matches as positive while
+holding all other coding decisions fixed; it does not bound dictionary
+false negatives or platform selection.
+
+The R linker searches all candidates within 200 m instead of using the
+old fixed spatial bucket neighborhood. It chooses the highest token
+Jaccard score, breaking ties by input order, and enforces one-to-one links.
+Normalization and candidate-order changes can change matches even where
+the old counts reproduced. Grid denominators change as shown above;
+`out/tab/linkage_changes.csv` records changed links for inspection.
+Linkage uncertainty is not included in any interval.
+
+## Query-point bootstrap and selection
+
+```{r collection-diagnostics, results='asis'}
+diagnostics |>
+  filter(design == "sampled") |>
+  transmute(District = unname(region_names[region_id]), Listings = n,
+    Queries = query_points, `With first captures` = occupied_points,
+    `Without first captures` = no_first_capture,
+    `At 20-result cap, %` = pct(capped_share)) |>
+  knitr::kable()
+```
+
+The old bootstrap conditioned on points with retained restaurants. The
+revised bootstrap resamples all selected query points, including those
+with no retained first captures, and recomputes the ratio of confirmed
+listings to all retained listings. The same seeded R draws compare the
+two conventions below, holding the archived classification fixed. R and
+Python seeds do not imply identical random draws.
+
+```{r bootstrap-comparison, results='asis'}
+bootstrap |>
+  filter(group == "any", estimator == "unweighted") |>
+  transmute(District = unname(region_names[region_id]),
+    `Occupied only, %` = sprintf("[%.2f, %.2f]", 100 * occupied_ci_low, 100 * occupied_ci_high),
+    `All query points, %` = sprintf("[%.2f, %.2f]", 100 * all_ci_low, 100 * all_ci_high)) |>
+  knitr::kable()
+```
+
+Both calculations remain approximations conditional on first-capture
+assignments. The collector discards repeat encounters across queries, so
+we cannot reconstruct the restaurant union for hypothetical resampled
+query sets. No finite-population or true restaurant inclusion-probability
+correction is claimed. Query caps are frequent in some districts, and
+captured listings may include establishments outside the intended restaurant
+concept. These limitations can vary by district; equal dilution is not assumed.
+
+Settings are 2,000 draws, seed 7, sampling query points with replacement,
+and R type-7 percentile endpoints. Draws with zero retained denominator are
+counted and excluded; intervals are withheld if fewer than 95% of draws are
+usable, fewer than two occupied points exist, or no successes are observed.
+A zero observed count therefore does not become a claim of zero population
+uncertainty. Intervals condition on the classification of confirmed hits;
+they do not propagate dictionary, transliteration, or model errors.
+
+Inverse frame density at the first capturing point gives the separate
+`density_sensitivity` series. It is a different weighted descriptive
+quantity. The pipeline also reports excluding own-city Mysore/Mysuru terms
+and ignoring the regional model veto in `out/tab/sensitivity.csv`.
+Those alternatives retain the same denominator and expose measurement
+choices without presenting them as competing causal models.
+
+## Screening and supplementary analyses
+
+The frozen false-negative sample was reconstructed with the original Python
+`random.Random(42)` procedure, in sorted grid-region order, from the v1
+unmatched pool. Repeated restaurant names retain their original sampling
+multiplicity, while saved verdicts join by name. The R pipeline restricts
+that sample to names still unmatched under the revised dictionary and
+reports missing first- or second-pass verdicts explicitly. Model-positive
+screening calls remain model judgments, not independently verified ground
+truth. We therefore report the screen separately rather than promoting
+its implied prevalence adjustment to the primary result.
+
+```{r screening, results='asis'}
+read_table("out/tab/screening.csv") |>
+  transmute(City = unname(region_names[region_id]), Sample = n,
+    `Two-pass positives` = confirmed, `Missing verdicts` = unresolved,
+    `Confirmed screen share, %` = pct(p)) |>
+  knitr::kable()
+```
+
+The SC/ST supplement uses the archived lookup threshold
+`p_sc + p_st >= 0.8`, at least 10,000 carriers, and normalized terms of at
+least four characters. A listing matching multiple terms counts once in
+the candidate summary. The lookup is external and its checksum is recorded
+in the input manifest. Missing lookup data fail the full analysis with an
+explicit path message; it is not silently skipped.
+
+Historical coding is summarized directly from the committed hand-coded
+CSV, with source-line references required. The OCR excerpts support source
+inspection but the migration does not claim a fresh manual transcription
+audit. Identity markers include the coded regional-place category, which
+accounts for the fifteenth marked Indian-run Madras entry in 1925; the
+previous prose enumerated only fourteen of the fifteen.
+
+## Check matrix
+
+| Check | Finding or applicability |
+|---|---|
+| Denominator and unit | Entity-level unions prevent double counting across dictionary hits; modern captured listings and historical eating-house entries remain separate universes |
+| Missing versus zero | Missing verdicts are unresolved; missing point assignments/density and incomplete query coverage fail; zero observed groups remain in all outputs |
+| Aggregation | Shares are ratios of listing counts, not averages of point-level shares; density-weighted shares are separately labeled |
+| Provenance | Frozen inputs and external lookup are checksummed; generated tables, plots, and prose share outputs; original tables reproduce |
+| Internal consistency | Group numerators cannot exceed denominators; intervals, proportions, historical counts, and generated report numbers are checked during the build |
+| EDA and support | Query occupancy and capped shares are reported for each district; zeros and small supports are explicit |
+| Joins and construction | Keys and join cardinalities are enforced; normalization mapping, exclusions, verdicts, and source linkage are inspectable |
+| Estimand and inference | Captured-listing description; query-point bootstrap is conditional and approximate; no design-based district-population claim |
+| Skew and influence | Unequal cluster sizes are retained in ratio estimates; leave-one-point-out ranges are exported; inverse-density weighting remains sensitivity only |
+| Design and measurement | Fixed dictionary and archived coding are preserved for the baseline; revised normalization and dictionary scope are disclosed; labels are not owner attributes |
+| Statistical tests and causal designs | No randomized treatment, regression, panel, IV, RD, or causal effect is estimated; significance-filter, power, and interaction-test checks are inapplicable |
+| Generated labels | Conditional intervals exclude classification uncertainty; unresolved-hit bounds and alternative coding rules are provided |
+| Validation | Hand-calculated fixtures, deterministic simulation, archived numerical gates, Python mocked requests, checkpoint tests, linting, and rendered-figure checks |
+
+Rejected or qualified concerns: excluding no-first-capture points changes
+bootstrap intervals but not the point estimate; these points cannot be
+identified as truly empty queries from retained rows. Density weighting
+and unweighted shares need not coincide because they describe different
+quantities. Reproducing the old output establishes numerical parity, not
+valid population inference.
+
+Untestable with the retained files: full query-overlap histories, coverage
+of restaurants absent from either platform, independent correctness of all
+model labels, and the README's former hand-reviewed surname claims. These
+are limitations of the retained evidence, not repairs accomplished by a
+language port.
+
+## Implementation references
+
+The R implementation uses explicit join relationships from the
+[dplyr join documentation](https://dplyr.tidyverse.org/reference/mutate-joins.html),
+ICU transformations through [stringi](https://stringi.gagolewski.com/),
+and the standard [ggplot2 interval geoms](https://ggplot2.tidyverse.org/reference/geom_linerange.html).
+Dependency environments follow [renv](https://rstudio.github.io/renv/)
+and [uv project configuration](https://docs.astral.sh/uv/concepts/projects/config/).

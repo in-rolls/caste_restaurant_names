@@ -23,7 +23,7 @@ Multi-region support
     At least one of (city) OR (center_lat,center_lon,radius_km) must be present.
 
 Dependencies
-  pip install googlemaps requests
+  uv sync
 
 Notes
   • Nearby Search returns capped, prominence-ranked results per cell. Grid density
@@ -255,7 +255,7 @@ def collect_places_new_for_region(
     """Places API (New) searchNearby. No pagination: each query returns at
     most 20 places, so the radius should be small enough that circles rarely
     hold more; capped_queries in the meta counts the ones that did (those
-    circles are truncated, prominence-first)."""
+    circles are truncated, distance-first)."""
     meta = {
         "region_id": region.region_id,
         "api": "places_new",

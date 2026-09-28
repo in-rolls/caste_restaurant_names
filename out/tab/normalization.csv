@@ -1,0 +1,1007 @@
+region_id,entity_id,name,legacy_normalized,name_normalized
+blr,blr:places:ChIJfw0MC9lFrjsRhnwmT6Mwljg,ಟೈಮ್ ಟು ಟೈಮ್ ಬಾರ್ & ರೆಸ್ಟೋರೆಂಟ್,taim tu taim bar & restoremt,taim tu taim bar & restorent
+blr,blr:places:ChIJE2UfCtlFrjsRPSDdMBxxRFI,ಶ್ರೀ ಕಬ್ಬಾಳಮ್ಮ ಹೋಟೆಲ್,sri kabbalamma hotel,sri kabbalam'ma hotel
+blr,blr:places:ChIJdfJj0N5DrjsRkcwZULmfa0M,ಎಸ್.ವಿ.ಟಿ ಗಾರ್ಡನ್ ಬಾರ್ & ರೆಸ್ಟೋರೆಂಟ್,es.vi.ti gardan bar & restoremt,es.vi.ti gardan bar & restorent
+blr,blr:places:ChIJibuthdNprjsRybw-BYo7sTs,ಲೇಕ್ ವ್ಯೂ ಢಾಬಾ ಮತ್ತು ಫ್ಯಾಮಿಲಿ ರೆಸ್ಟೋರೆಂಟ್,lek vyu dhaba mattu phyamili restoremt,lek vyu dhaba mattu phyamili restorent
+blr,blr:places:ChIJ6dP41jBprjsRSkYHoYcLvCo,ಲಕ್ಷ್ಮಿ ಅಮ್ಮ ಫುಡ್ ಕೋರ್ಟ್,laksmi amma phud kort,laksmi am'ma phud kort
+blr,blr:places:ChIJaSnX4T1prjsRBBYkCG6nSr0,ಮುನಿಯಮ್ಮ,muniyamma,muniyam'ma
+blr,blr:places:ChIJAZFDMMturjsRqdNVzTyYNHA,ಮಂಜುನಾಥ ಹೋಟೆಲ್ ಹಾರಗದ್ದೆ,mamjunatha hotel haragadde,manjunatha hotel haragadde
+blr,blr:places:ChIJz8XvQtBvrjsRR0f8kxnDSH8,ಮೊಹಬತ್ ದೇಸಿ ರೆಸ್ಟೋರೆಂಟ್,mohabat desi restoremt,mohabat desi restorent
+blr,blr:places:ChIJu9dRBFxvrjsRYAnLD9V5VWA,ಓಂ ಶ್ರೀ ಶಿವ ಶಕ್ತಿ ಟಿಫಿನ್ ಸೆಂಟರ್,om sri siva sakti tiphin semtar,om sri siva sakti tiphin sentar
+blr,blr:places:ChIJFYFoR_VvrjsRE4a9m72RGGA,ಶ್ರೀ ಬಾಲಾಜಿ ಚಿಕನ್ ಅಂಡ್ ಮಟನ್ ಸೆಂಟರ್,sri balaji cikan amd matan semtar,sri balaji cikan and matan sentar
+blr,blr:places:ChIJUwE1gDJvrjsRTm9WnCjOX9A,ಎಂಸಿಎಂ ಹೋಟೆಲ್ ( ವೆಜ್ ಅಂಡ್ ನಾನ್ ವೆಜ್ ),emsiem hotel ( vej amd nan vej ),ensi'em hotel ( vej and nan vej )
+blr,blr:places:ChIJg_9U4PRvrjsRTbDhSs0D6Mc,ಗುಲ್ಲಮ್ಮ,gullamma,gullam'ma
+blr,blr:places:ChIJC6ytEh5urjsReZT_Ou2YFao,ಚಂದ್ರು ಚಿಕನ್ ಸೆಂಟರ್ 2,camdru cikan semtar 2,candru cikan sentar 2
+blr,blr:places:ChIJYS33-tNxrjsRZG68O3wSBlc,ಶ್ರೀ ಗೌಡಾಸ್ ಬಾರ್ ಅಂಡ್ ರೆಸ್ಟೋರೆಂಟ್,sri gaudas bar amd restoremt,sri gaudas bar and restorent
+blr,blr:places:ChIJ5SN02eNxrjsR_AmnG8RWegI,ವೆಂಕಟೇಶ್,vemkates,venkates
+blr,blr:places:ChIJL0Z5ApVxrjsR9DE5v3_KTEw,ಅನ್ನಪೂರ್ಣ ಕ್ಯಾಟ್ರಿಂಗ್,annapurna kyatrimg,annapurna kyatring
+blr,blr:places:ChIJtS_wfZhxrjsRIRrKjXhd8HU,ಗ್ರೀನ್ ಪ್ಯಾಲೇಸ್ ಫ್ಯಾಮಿಲಿ ರೆಸ್ಟೋರೆಂಟ್,grin pyales phyamili restoremt,grin pyales phyamili restorent
+blr,blr:places:ChIJ50eMLhZxrjsRh4yDwhSoBnY,ಸುಕ್ಕ್ಯನ್ಯ,sukkyanya,sukkyan'ya
+blr,blr:places:ChIJAZ8F3AdxrjsRm9Gb34_j0NU,ஹோட்டல் அன்னை,hodhdhal annai,hottal annai
+blr,blr:places:ChIJ5WaKSYhGrjsRhiWbCVxYAuY,ಹೋಟಲ್ ಮೈಲಾರಿ ಫ್ರೆಶ್ ಅಂಡ್ ಫಾಸ್ಟ್ ಫುಡ್,hotal mailari phres amd phast phud,hotal mailari phres and phast phud
+blr,blr:places:ChIJM_llodBrrjsR5lzkNHWuHMA,ವಿಎಲ್ಎನ್ ನಿರ್ಮಾಣ್ ಲೋಟಸ್ ರೆಸ್ಟೋರೆಂಟ್,vielen nirman lotas restoremt,vi'elen nirman lotas restorent
+blr,blr:places:ChIJuZzgG9lrrjsRTZqQjA6d020,ರಘು ಚಿಕನ್ ಸೆಂಟರ್,raghu cikan semtar,raghu cikan sentar
+blr,blr:places:ChIJASaeiMBrrjsRUrK-TleutE0,ಸಮೃದ್ಧಿ ಗಾರ್ಡನ್ - Pure Veg,samrddhi gardan - pure veg,samrd'dhi gardan - pure veg
+blr,blr:places:ChIJ5zPmJdlrrjsRAQzN8da-FjU,ನ್ಯೂ ಕಬಾಬ್ ಝೋನ್,nyu kabab jhon,n'yu kabab jhon
+blr,blr:places:ChIJjTOAU1lprjsR1gwl7Faa4Cs,ಶ್ರೀ ಸಾಯಿ ಕ್ಯಾಂಟೀನ್,sriೕ sayi kyamtiೕn,sri sayi kyantin
+blr,blr:places:ChIJ3fufQc1prjsRyhEiNfvlBJk,ಹೋಟೆಲ್ ನ್ಯೂ ಕರಾವಳಿ,hotel nyu karavali,hotel n'yu karavali
+blr,blr:places:ChIJfVi6tZJvrjsRxvhYwkPEnXs,ಗೌರಮ್ಮ ಹೋಟೆಲ್,gauramma hotel,gauram'ma hotel
+blr,blr:places:ChIJ421TigBtrjsRp3My7PoRqas,"Evening Chats and Snacks Centre ✴️srirampura ,jigani","evening chats and snacks centre ✴️srirampura ,jigani","evening chats and snacks centre ✴srirampura ,jigani"
+blr,blr:places:ChIJqVGjAvptrjsR5vTDVfMUIcA,ಶ್ರೀ ಗುರು ಸಾಯಿ ಹೋಟೆಲ್ ಅಂಡ್ ಕ್ಯಾಟರಿಂಗ್,sri guru sayi hotel amd kyatarimg,sri guru sayi hotel and kyataring
+blr,blr:places:ChIJS2Ez7dZtrjsRCsPvMxfw4Kc,ಮೇ (ಮೀಟ್ ಅಂಡ್ ಈಟ್),me (mit amd it),me (mit and it)
+blr,blr:places:ChIJRZoTTgxurjsRwQNVSWMYyfo,ಒಎಂಬಿಆರ್ ಲೇಔಟ್,oembiar leaut,o'embi'ar le'aut
+blr,blr:places:ChIJ66RWv-1xrjsRjV1rp_m7bvg,ನರ್ಮದಾ ಬಾರ್ & ರೆಸ್ಟೋರೆಂಟ್,narmada bar & restoremt,narmada bar & restorent
+blr,blr:places:ChIJufYJNh9GrjsRSgOQrKMNFq0,ಕರ್ನಾಟಕ ಹಿಂದೂ ಮಿಲ್ಟ್ರಿ ರೆಸ್ಟೋರೆಂಟ್,karnataka himdu miltri restoremt,karnataka hindu miltri restorent
+blr,blr:places:ChIJK-xq-8w4rjsRS_4At5j3XJQ,ಗೋಲ್ಡನ್ ಗ್ರೀನ್ ಪ್ಯಾಲೇಸ್,geuೕldan grin pyaleೕs,goldan grin pyales
+blr,blr:places:ChIJj-ZAz0hGrjsRVF1XaIXn_1c,ಕೆಫೆ ಕಾಫಿ ಡೇ,kephe kaphi deೕ,kephe kaphi de
+blr,blr:places:ChIJDfglYD5GrjsR5C6L719tP5U,ಮಾರುತಿ ಫ್ಯಾಮಿಲಿ ರೆಸ್ಟೋರೆಂಟ್,maruti phyamili restoremt,maruti phyamili restorent
+blr,blr:places:ChIJPR0lqFxGrjsRHHP2J0PUXuM,ಕ್ಲಬ್ ಮ್ಯಾಗ್ನೋಲಿಯಾ,klab myagneuೕliya,klab myagnoliya
+blr,blr:places:ChIJf4XvNllGrjsRCK2KJDv4W3M,ಮಾತೃಕ ಟಿಫನ್ ಮತ್ತು ಚಾಟ್ಸ್ ಸೆಂಟರ್,matrka tiphan mattu cats semtar,matrka tiphan mattu cats sentar
+blr,blr:places:ChIJW2lKxE5GrjsRkFX1gWib0Bo,ಶ್ರೀ ನಂಜುಂಡೇಶ್ವರ ಹೋಟೆಲ್,sri namjumdesvara hotel,sri nanjundesvara hotel
+blr,blr:places:ChIJ5ZnUPgBHrjsRk3AdnE6Q6Qs,"ಶ್ರೀ ಭುವನೇಶ್ವರಿ ಚಿಕನ್ ಬಿರಿಯಾನಿ,ಎಗ್ ರೈಸ್,ಕಬಾಬ್ ಸೆಂಟರ್","sri bhuvanesvari cikan biriyani,eg rais,kabab semtar","sri bhuvanesvari cikan biriyani,eg rais,kabab sentar"
+blr,blr:places:ChIJj2vEPAlBrjsRzenNxQsRJ_w,ಕೆಫೆ ಕಾಫಿ ಡೇ,kephe kaphi deೕ,kephe kaphi de
+blr,blr:places:ChIJrRAQyHJBrjsRZuYnwxLeqho,ಪ್ರಮೋದ್ ಗಾರ್ಡನ್ ಬಾರ್ & ರೆಸ್ಟೋರೆಂಟ್,pramod gardan bar & restoremt,pramod gardan bar & restorent
+blr,blr:places:ChIJr0jRbRFqrjsRFoS_mJXNLEg,ಮಯೂರ ವನಶ್ರೀ ರೆಸ್ಟೋರೆಂಟ್,mayura vanasri restoremt,mayura vanasri restorent
+blr,blr:places:ChIJrSCTwkFsrjsRDNaHPeasVpA,ಇ ರೆಸ್ಟೋರೆಂಟ್,i resteuೕremt,i restorent
+blr,blr:places:ChIJ7VcOZjNsrjsR88oQJA5Q2xc,ಅಡ್ಯಾರ್ ಆನಂದ ಭವನ,adyar anamda bhavana,adyar ananda bhavana
+blr,blr:places:ChIJpTqhcDRsrjsR2bp_gzfSbj8,ಫುಡ್ ಝೋನ್ ನಾನ್ ವೆಜ್ ರೆಸ್ಟೋರೆಂಟ್,phud jhon nan vej restoremt,phud jhon nan vej restorent
+blr,blr:places:ChIJZ2xg0-xtrjsREuUiuBwpgVo,ತೆಂದೊರ್,temdor,tendor
+blr,blr:places:ChIJCyN6g9FtrjsR8NEXBS_QB5w,ನಿಮ್ಮ ಮನೆ ಊಟ,nimma mane uta,nim'ma mane uta
+blr,blr:places:ChIJ2UQTw5RtrjsRhyBHVmFfT5w,ಚಿಕ್ಕಮಗಳೂರು ಕಾಫಿ ತಿಂಡಿ ಮನೆ,cikkamagaluru kaphi timdi mane,cikkamagaluru kaphi tindi mane
+blr,blr:places:ChIJAwMS-9ptrjsRd8YJgiJSuvo,ಆರ್ ಕೆ ಬಾರ್ & ರೆಸ್ಟೋರೆಂಟ್,ar ke bar & restoremt,ar ke bar & restorent
+blr,blr:places:ChIJIXOigB9zrjsR_i_yiiwl60M,ನಾಟಿ ಫಿಶ್ ಫ್ರೈ ಸೆಂಟರ್ nati Fish Fry Centre,nati phis phrai semtar nati fish fry centre,nati phis phrai sentar nati fish fry centre
+blr,blr:places:ChIJ__ARB01GrjsRoxg3B9mpeDg,ಶ್ರೀ ಕಬ್ಬಾಳಮ್ಮ ಹೋಟೆಲ್,sri kabbalamma hotel,sri kabbalam'ma hotel
+blr,blr:places:ChIJg2wqA_9ArjsRDPhtwR2NX9s,ಕೆಫೆ ಕಾಫಿ ಡೇ,kephe kaphi deೕ,kephe kaphi de
+blr,blr:places:ChIJUUA0E6RBrjsRBbKK--UZNbY,ಕ್ಯಾಂಟೀನ್,kyamtin,kyantin
+blr,blr:places:ChIJm-Xb6wJBrjsR4XAE4XBbrbw,ಶ್ರೀ ಶ್ರೀ ತತ್ತ್ವ ಪಂಚಾಮೃತ,sri sri tattva pamcamrta,sri sri tattva pancamrta
+blr,blr:places:ChIJzf-p0w1BrjsR2NUEcPL1Bq0,ಕರ್ನಾಟಕ ಸರಕಾರ ಸಮಗ್ರ ಶಿಶು ಅಭಿವೃದ್ಧಿ ಯೋಜನೆ,karnataka sarakara samagra sisu abhivrddhi yojane,karnataka sarakara samagra sisu abhivrd'dhi yojane
+blr,blr:places:ChIJhwlZAgBBrjsRsESF1hUAq5E,ಹೋಟೆಲ್ ಅಮ್ಮ ಕೈರುಚಿ ( Hotel Amma KAIRUCHI),hotel amma kairuci ( hotel amma kairuchi),hotel am'ma kairuci ( hotel amma kairuchi)
+blr,blr:places:ChIJNWTu_6tBrjsRI3Edk6xShDw,ಶ್ರೀ ಶ್ರೀ ಆಯುರ್ವೇದ ಹಾಸ್ಪಿಟಲ್ ಕ್ಯಾಂಟೀನ್,sri sri ayurveda haspital kyamtin,sri sri ayurveda haspital kyantin
+blr,blr:places:ChIJq34aXSVrrjsR1pmCZJpHoOA,ಎಸ್ಎಲ್‌ವಿ ಕಾಫಿ ಕೇಂದ್ರ,esel‌vi kaphi kemdra,esel‌vi kaphi kendra
+blr,blr:places:ChIJ_d7sAKxrrjsRAAAAMOO-gBM,ಸುಂದರ್,sumdar,sundar
+blr,blr:places:ChIJ4Sk1km5srjsRGasw-oJJOHo,ಸಾಗರ್ ಸುಮಂತ್ ಹೋಟೆಲ್,sagar sumamt hotel,sagar sumant hotel
+blr,blr:places:ChIJW_2EemtsrjsRYBCxUAI9Npo,ಆರ್‌ಕೆ ಬಾರ್ ಅಂಡ್ ರೆಸ್ಟೋರೆಂಟ್,ar‌ke bar amd restoremt,ar‌ke bar and restorent
+blr,blr:places:ChIJc2w_sz9srjsRcagOztETkrs,ಹೋಟೆಲ್ ವಾವ್ ಮಂಗಳೂರು,hotel vav mamgaluru,hotel vav mangaluru
+blr,blr:places:ChIJdy9mPgBtrjsRLAJ_R9ACTZc,ಬೊಮ್ಮಸಂದ್ರ,bommasamdra,bom'masandra
+blr,blr:places:ChIJMeKVgsRtrjsRCU8D4rp3dfs,ಹಂಗ್ರಿ ಐಸ್,hamgri ais,hangri ais
+blr,blr:places:ChIJDcKZ7TVtrjsRWerEvFoz40U,ರೆಸ್ಟುರಾಂಟ್,resturamt,resturant
+blr,blr:places:ChIJhUyJorhHrjsRBUcXbAxDy7Q,ವುಡ್ಸ್ ರೆಸ್ಟೋರೆಂಟ್,vuds restoremt,vuds restorent
+blr,blr:places:ChIJD9SgjsdHrjsRX4g4lQSQ1PY,ಪಾರ್ಕ್ ವ್ಯೂ ರೆಸ್ಟೋರೆಂಟ್,park vyu restoremt,park vyu restorent
+blr,blr:places:ChIJHfxmhT5HrjsRz8OHtjsskcE,ಚಿಲಿಎಸ್,cilies,cili'es
+blr,blr:places:ChIJuc31BnZHrjsRMx9LcilbBgE,ಒಗ್ಗರಣೆ ಡಬ್ಬಿ ಚಂದ್ರಪ್ಪ ಹೋಟೆಲ್,oggarane dabbi camdrappa hotel,oggarane dabbi candrappa hotel
+blr,blr:places:ChIJI7hHRABHrjsR1_Hv4-Wzv0w,"Canteen, Dalai Lama College ಕ್ಯಾಂಟೀನ್, ದಲೈ ಲಾಮಾ ಕಾಲೇಜು","canteen, dalai lama college kyamtin, dalai lama kaleju","canteen, dalai lama college kyantin, dalai lama kaleju"
+blr,blr:places:ChIJV8c5ZvFArjsRPEev_o07MmQ,ಕಾಂತಿ ಬಸವೇಶ್ವರ ಹೋಟೆಲ್,kamti basavesvara hotel,kanti basavesvara hotel
+blr,blr:places:ChIJe-5nWfA_rjsR8-rnxirEY0k,ವೈಷ್ಣವಿ ಪ್ಯಾಲೇಸ್,veೖsnavi pyales,vaisnavi pyales
+blr,blr:places:ChIJ_66gzdprrjsRw7kwwCKW9uo,ರೆಸ್ತುರಂತ್,resturamt,resturant
+blr,blr:places:ChIJVVVVEHX5rjsRf9XiWT6oWZ0,ರೇಡಿಯಂಟ್ ರೆಸಾರ್ಟ್,rediyamt resart,rediyant resart
+blr,blr:places:ChIJG-3XZ_JqrjsR7-demu-g1K0,ಪಾರ್ಕ್ ಇನ್ ಹೋಟೆಲ್,park in heuೕtel,park in hotel
+blr,blr:places:ChIJN9qPRdBrrjsRtkTwqoHf5Po,ಚೈತ್ರ ಶ್ರೀ ಬಾರ್& ರೆಸ್ಟೋರೆಂಟ್,caitra sri bar& restoremt,caitra sri bar& restorent
+blr,blr:places:ChIJo0czjBNrrjsRHyeUiaSQCjw,ಅಲಂಕರ್ ಮಿಲಿಟರಿ,alamkar militari,alankar militari
+blr,blr:places:ChIJk57PS81qrjsR4ZD_bVW2GqM,ಉತ್ಸವ್ ಮಲ್ಟಿಕ್ಯುಸಿನ್ ರೆಸ್ಟೋರೆಂಟ್,utsav maltikyusin restoremt,utsav maltikyusin restorent
+blr,blr:places:ChIJF--jlntrrjsRMuO_g_DGXsA,ಬಾರ್ಬೆಕ್ಯು ನೇಷನ್ - ಬೆಂಗಳೂರು - ಎಲೆಕ್ಟ್ರಾನಿಕ್ ಸಿಟಿ,barbekyu neೕsan - bemgaluru - elektranik siti,barbekyu nesan - bengaluru - elektranik siti
+blr,blr:places:ChIJ60o0T7VrrjsR7P8Z2BMXt7w,ಅಡ್ಯಾರ್ ಆನಂದ ಭವನ - ಎಲೆಕ್ಟ್ರಾನಿಕ್ ಸಿಟಿ,adyar anamda bhavana - elektranik siti,adyar ananda bhavana - elektranik siti
+blr,blr:places:ChIJscWCJnNrrjsRazNLCD2EZ_g,ಹೋಟೆಲ್ ಶ್ರೀ ಬ್ರಹ್ಮಲಿಂಗೇಶ್ವರ,hotel sri brahmalimgesvara,hotel sri brahmalingesvara
+blr,blr:places:ChIJUwyGG7ZrrjsRhUhhy3DUEs8,ನ್ಯೂ ಅಂಬೂರ್ ಹಾಟ್ ದಮ್ ಬಿರಿಯಾನಿ,nyu ambur hat dam biriyani,n'yu ambur hat dam biriyani
+blr,blr:places:ChIJJaoWAYRsrjsRE6DCSaUMIj4,"ನಿಂಬೆ ಟ್ರೀ ಹೋಟೆಲ್, ಎಲೆಕ್ಟ್ರಾನಿಕ್ಸ್ ಸಿಟಿ","nimbe triೕ heuೕtel, elektraniks siti","nimbe tri hotel, elektraniks siti"
+blr,blr:places:ChIJ3fc2TYFsrjsRZzVFWPuGCt8,ಕೆಎಫ್ಸಿ,keephsi,ke'ephsi
+blr,blr:places:ChIJVbSudoZsrjsRcT2G1VRl0Z4,ಓವೆನ್ ಫ್ರೆಶ್ ಕೆಫೆ ಬೇಕ್ & ರೆಸ್ಟೋರೆಂಟ್,oven phres kephe bek & restoremt,oven phres kephe bek & restorent
+blr,blr:places:ChIJUfdtEoZsrjsRX9DffiYCtSQ,ಹೈದರಾಬಾದಿ ಸ್ಪೈಸ್,heೖdarabadi speೖs,haidarabadi spais
+blr,blr:places:ChIJj0YVX5xsrjsRH9IbLjfSn9Y,ಬೀಜಿಂಗ್ ಬೈಟ್ಸ್,bijimg baits,bijing baits
+blr,blr:places:ChIJ3ZnNYP1trjsRYOE035qPhBg,ಸಿತಾರಾ ವೆಜ್ ರೆಸ್ಟೋರೆಂಟ್,sitara vej restoremt,sitara vej restorent
+blr,blr:places:ChIJP5fXdV9srjsRSdES8Q7WKxg,ಹೋಟೆಲ್ ಮಿಲೇನಿಯಮ್ ಪ್ಲಾಜಾ,heuೕtel mileೕniyam plaja,hotel mileniyam plaja
+blr,blr:places:ChIJTW2rUuxsrjsRGmqVtYwvyZc,ಹೈದರಾಬಾದ್ ಸ್ಪೈಸ್,heೖdarabad speೖs,haidarabad spais
+blr,blr:places:ChIJGV_YCHRtrjsRo_mXGIsd3Pw,ಶ್ರೀ ಸಾಯಿ ಉಪಹಾರ ಮಂದಿರ,sri sayi upahara mamdira,sri sayi upahara mandira
+blr,blr:places:ChIJ5UMEinlHrjsRb57Anc2QgRs,ಕುಬೇರ ಗ್ರೀನ್ ಪ್ಯಾಲೇಸ್ ಫ್ಯಾಮಿಲಿ ರೆಸ್ಟೋರೆಂಟ್,kubera grin pyales phyamili restoremt,kubera grin pyales phyamili restorent
+blr,blr:places:ChIJk9uF9ERHrjsRmAfxLQPUTqE,ವೀಟ್ ಕಾಲೇಜ್ ಕ್ಯಾಂಟೀನ್,vit kalej kyamtin,vit kalej kyantin
+blr,blr:places:ChIJpY0OZ2RHrjsRy3jI_HlZ0YQ,ಸೌತ್ ಕ್ಯಾಂಟೀನ್,saut kyamtin,saut kyantin
+blr,blr:places:ChIJN6CXTZZHrjsRiTOlrKJeUCI,ಲೋಟಸ್ ರೆಸ್ಟೋರೆಂಟ್ (ದಿ ಗಾರ್ಡನ್ ಏಷ್ಯಾ),lotas restoremt (di gardan esya),lotas restorent (di gardan esya)
+blr,blr:places:ChIJZ5Ce13FArjsRV8TqizGg8mM,ಶೆಲ್ ಪೆಟ್ರೋಲ್ ಬಂಕ್,sel petreuೕl bamk,sel petrol bank
+blr,blr:places:ChIJOVyHngpArjsRlMvR_FkB0nY,ಹಾಲಿಡೇ ವಿಲೇಜ್ ರೆಸಾರ್ಟ್,halideೕ vileೕj resart,halide vilej resart
+blr,blr:places:ChIJ275ucUpBrjsRY9xmsTCj8J0,ಕುಇಸಿನೋವ,kuisinova,ku'isinova
+blr,blr:places:ChIJF9BycB1ArjsRcZvIb98hNFI,ಶ್ರೀ ಮಂಜುನಾಥ ಟಿಫಿನ್ ಸೆಂಟರ್,sri mamjunatha tiphin semtar,sri manjunatha tiphin sentar
+blr,blr:places:ChIJwea3u6dqrjsRXNP52GGIJgI,ಎಸ್ಎಂಡಿ ಟಿಫನ್,esemdi tiphan,esendi tiphan
+blr,blr:places:ChIJWyQU2sFqrjsRIU9-yV3aBmU,ನ್ಯೂ ಕಬಾಬ್ ಝೋನ್,nyu kabab jhon,n'yu kabab jhon
+blr,blr:places:ChIJc4VQ5shrrjsRYCvV76dwzhY,ವಿ ಬಾರ್ & ರೆಸ್ಟೋರೆಂಟ್,vi bar & restoremt,vi bar & restorent
+blr,blr:places:ChIJC3Z7d9pqrjsRP7XzUZqss0Y,ದಾರ್ಜೀಲಿಂಗ್ ಮೊಮೊಸ್ & ಫಾಸ್ಟ್ ಫುಡ್ ಸೆಂಟರ್,darjilimg momos & phast phud semtar,darjiling momos & phast phud sentar
+blr,blr:places:ChIJwXaeNwBrrjsRDQqEOG9mH9I,আমি তোমার ফটো,আমি তোমার ফটো,ami tomara phato
+blr,blr:places:ChIJg2dEsWlrrjsR1JLInSt7-j8,Lbk food point ಎಲ್ ಬಿ ಕೆ ಫುಡ್ ಪಾಯಿಂಟ್,lbk food point el bi ke phud payimt,lbk food point el bi ke phud payint
+blr,blr:places:ChIJqaBwBJNsrjsRiCgPoB84xkY,ಇಂಡಿಯನ್ ಫುಡ್ ಕೋರ್ಟ್,imdiyan phud kort,indiyan phud kort
+blr,blr:places:ChIJqVi3OThzrjsRuMFoG89aFE4,ಸಂತ್ರಪ್ತಿ,samtrapti,santrapti
+blr,blr:places:ChIJ2cnesedyrjsR349YfzJOELY,ಸ್ಟಾರ್ ಚಿಕನ್ ಸೆಂಟರ್,star cikan semtar,star cikan sentar
+blr,blr:places:ChIJ1_z8bEk_rjsRfLvCl9W59WY,ಬ್ಲೂಮಿಂಗ್ ಫಾರ್ಮ್ಸ್,blumimg pharms,bluming pharms
+blr,blr:places:ChIJqYbZegA_rjsR9ccN7Y0K9wA,GVR ತಿಂಡಿ ಮನೆ,gvr timdi mane,gvr tindi mane
+blr,blr:places:ChIJYV0QdE4_rjsRJMiaNMU8Mcg,Hotel Sukanya HemmingePura ಹೋಟೆಲ್ ಸುಕನ್ಯ ಹೆಮ್ಮಿಗೇಪುರ,hotel sukanya hemmingepura hotel sukanya hemmigepura,hotel sukanya hemmingepura hotel sukan'ya hem'migepura
+blr,blr:places:ChIJBV4lvG4_rjsRKKgFu055XmQ,ಯಶೋದಮ್ಮ,yasodamma,yasodam'ma
+blr,blr:places:ChIJF2SGFfE_rjsRB6-XiV1yhSA,ಹೊಸ ಬಿರಿಯಾನಿ ಮನೆ,heusa biriyani mane,hosa biriyani mane
+blr,blr:places:ChIJdZOXXPA_rjsRNgfp-V1D028,ಅಡ್ಯಾರ್ ಆನಂದ ಭವನ,adyar anamda bhavana,adyar ananda bhavana
+blr,blr:places:ChIJAXnTXAo_rjsRKhiNJ3TSEJE,"ಮೈಸೂರು ತಿಂಡೀಸ್, ದೊಡ್ಡಕಲ್ಲಸಂದ್ರ","maisuru timdis, doddakallasamdra","maisuru tindis, doddakallasandra"
+blr,blr:places:ChIJTXQdY0gVrjsRNMI7w3aDE34,ಗೋಲಿ ವಡಾ ಪಾವ್,geuೕli vada pav,goli vada pav
+blr,blr:places:ChIJdYNYWs1qrjsRNVaozqTgWow,ಖಾಂದಾನೀ ರಾಜಧಾನಿ,khamdani rajadhani,khandani rajadhani
+blr,blr:places:ChIJ9QwaQ81qrjsRBIUhH4QtIIg,ಕೆಎಫ್ಸಿ,keephsi,ke'ephsi
+blr,blr:places:ChIJlfJjZh1rrjsRX1Bo-7LCFqA,ಯು ಆಂಡ್ ವೀ ಹಾಬಿ ಲಾಬಿ,yu amd vi habi labi,yu and vi habi labi
+blr,blr:places:ChIJYycvRc1qrjsRa17qa8wtbW0,ಮೆಕ್ ಡೊನಾಲ್ಡ್,mek deunald,mek donald
+blr,blr:places:ChIJ6U1yUs1qrjsR0eoZAuT6R78,ಆನಂದ್ ಸ್ವೀಟ್ಸ್,anamd sviೕts,anand svits
+blr,blr:places:ChIJpaue0NUUrjsRQQLaYxD-3CA,ಟೇಸ್ಟಿ ಪಾಯಿಂಟ್,testi payimt,testi payint
+blr,blr:places:ChIJE1Xy8DoVrjsRgSkrgNRNAFQ,ಬಿಕಾನೆರಿ ಸ್ವೀಟ್ಸ್ ಬೆಂಗಳೂರು,bikaneri sviೕts bemgaluru,bikaneri svits bengaluru
+blr,blr:places:ChIJd12e0i1rrjsRhPP6561c9uQ,ಕುಂದಾಪುರ ಕಾಫಿ,kumdapura kaphi,kundapura kaphi
+blr,blr:places:ChIJV79w705rrjsRjknwqz5puJg,ಬಿಸ್ಮಿಲ್ಲಾ ಸೂಪರ್ ಚಿಕನ್ ಸೆಂಟರ್,bismilla supar cikan semtar,bismilla supar cikan sentar
+blr,blr:places:ChIJyaY119FtrjsR1QCJD9mC090,ನ್ಯೂ ಬಸವೇಶ್ವರ ಲಿಂಗಾಯತ ಖಾನಾವಳಿ,nyu basavesvara limgayata khanavali,n'yu basavesvara lingayata khanavali
+blr,blr:places:ChIJq-PKWqtyrjsRYDtZ1CZ7wYA,ಅಮೃತ ಪಾರ್ಕ್ ಲ್ಯಾಂಡ್,amrta park lyamd,amrta park lyand
+blr,blr:places:ChIJi81BYA0TrjsRUkvoWHfbGfc,ಇಂಡಿಯನ್ ಹವೇಲಿ,imdiyan haveli,indiyan haveli
+blr,blr:places:ChIJTRMtwlQNrjsRsFhe2m64_tc,ಸ್ಯ್ಜ್ಯ್ಗಿಉಮ್,syjygium,syjygi'um
+blr,blr:places:ChIJeSeA9Q85rjsRAqDTLYw1evk,ಶ್ರೀ ಮಂಜುನಾಥ ಮೆಸ್,sri mamjunatha mes,sri manjunatha mes
+blr,blr:places:ChIJ6W_uJgA5rjsRPQY5R6yhWMc,"ಅರಳಿ ಕಟ್ಟೆ ತಾಜಾ ತಿಂಡಿ, ARALI KATTE TAZAA THINDI","arali katte taja timdi, arali katte tazaa thindi","arali katte taja tindi, arali katte tazaa thindi"
+blr,blr:places:ChIJgSxiq8Y5rjsRiTVq6bLpqds,ಗಂಗಾಧರ,gamgadhara,gangadhara
+blr,blr:places:ChIJK8zY6Uo_rjsR6IKVAhZ4Qd4,ಮಂಜುನಾಥ ಟಿಫನ್ ಸೆಂಟರ್,mamjunatha tiphan semtar,manjunatha tiphan sentar
+blr,blr:places:ChIJPVnEsj4_rjsRwmJvK-Dfq1k,ಹೇಮಾವತಿ ಫ್ರೆಶ್ ಚಿಕನ್ ಸೆಂಟರ್,hemavati phres cikan semtar,hemavati phres cikan sentar
+blr,blr:places:ChIJNfjC1HQ_rjsRoTgqlzJA5oM,ಪ್ರಿನ್ಸ್ ಫ್ಯಾಮಿಲಿ ರೆಸ್ಟೋರೆಂಟ್,prins phyamili restoremt,prins phyamili restorent
+blr,blr:places:ChIJAUU9EQs_rjsRuzk0J3s0Eg0,ಸಂಕ್ರಾಂತಿ ಫ್ಯಾಮಿಲಿ ಗಾರ್ಡನ್ & ರೆಸ್ಟೋರೆಂಟ್,samkramti phyamili gardan & restoremt,sankranti phyamili gardan & restorent
+blr,blr:places:ChIJkd6xEqY_rjsR15SyIRWNd9U,ರಾಯಲ್ ಆಂಧ್ರ ಸ್ಪೈಸ್,rayal amdhra speೖs,rayal andhra spais
+blr,blr:places:ChIJK77IZKY_rjsRsCAYmJU38QY,ನಂದನ ಪ್ಯಾಲೇಸ್,namdana pyales,nandana pyales
+blr,blr:places:ChIJKZIMxKY_rjsRxgftoJWmhkE,ಶ್ರೀ ಕೃಷ್ಣ ಸಾಗರ್,sriೕ krsna sagar,sri krsna sagar
+blr,blr:places:ChIJFV-jKOI_rjsR55bFEuHFTr8,ಫೈನ್ ಫ್ಲೇವರ್ಸ್,pheೖn phleೕvars,phain phlevars
+blr,blr:places:ChIJn9-44hY_rjsRTIeECNFXjN4,ರೆಸ್ಟುರಾಂಟ್,resturamt,resturant
+blr,blr:places:ChIJuQm08fE_rjsRAAAAMN2TVWQ,ಅಂಜನ್ ಚುರುಮುರಿ ಸ್ಟಾಲ್ - Anjan Churumuri Stall,amjan curumuri stal - anjan churumuri stall,anjan curumuri stal - anjan churumuri stall
+blr,blr:places:ChIJZ35aJFwVrjsR4HNhYlq5N2Y,ಡೊಮಿನೊಸ್ ಪಿಜ್ಜಾ,deumineus pijja,dominos pijja
+blr,blr:places:ChIJlU_1O2sVrjsRA1kIjOan2qw,ಇಂಚರ ಫ್ಯಾಮಿಲಿ ಗಾರ್ಡನ್ ರೆಸ್ಟೋರೆಂಟ್,imcara phyamili gardan restoremt,incara phyamili gardan restorent
+blr,blr:places:ChIJlzmxOBUVrjsRHpLEWQj7Xis,ಗ್ರಿಲ್ಸ್ ಆಂಡ್ ರೋಲ್ಸ್,grils amd reuೕls,grils and rols
+blr,blr:places:ChIJkwTdRhUVrjsRqExqh1GpZkc,ಫಂಕಿ ಪಂಜಾಬ್,phamki pamjab,phanki panjab
+blr,blr:places:ChIJ9aEJxxQVrjsRc3mHMsXeLak,ಜೈತೂನ್ ರೆಸ್ಟೋರೆಂಟ್,jaitun restoremt,jaitun restorent
+blr,blr:places:ChIJhVfzRRMVrjsRME1YiUa382k,ನಂದಿನಿ ಹೋಟೆಲ್,namdini hotel,nandini hotel
+blr,blr:places:ChIJL0NcPSUVrjsRutbUqKvzUH8,ಚುಂಗ್ ವಾಹ್,cumg vah,cung vah
+blr,blr:places:ChIJ_RrU7SQVrjsRarBi1OWMFWM,ಬೀಜಿಂಗ್ ಬೈಟ್ಸ್,biೕjimg beೖts,bijing baits
+blr,blr:places:ChIJyfPQjiQVrjsREe05h8Eb9fE,ಅಡ್ಯಾರ್ ಆನಂದ ಭವನ ಸಿಹಿತಿಂಡಿಗಳು,adyar anamda bhavana sihitimdigalu,adyar ananda bhavana sihitindigalu
+blr,blr:places:ChIJ48uBmyYVrjsRAYwm7iDUliU,ಚಾವಡಿ ರೆಸ್ಟೋರೆಂಟ್,cavadi resteuೕremt,cavadi restorent
+blr,blr:places:ChIJc8CXteMUrjsR517N30yNtyY,ಕಾಳಿಂಗಾಸ್,kalimgas,kalingas
+blr,blr:places:ChIJGzlZh9gUrjsRBUx7D2dw1rE,ಕೆಫೆ ಕಾಫಿ ಡೇ,kephe kaphi deೕ,kephe kaphi de
+blr,blr:places:ChIJVQXTFNkUrjsRLjXZTKe4OFc,"ಸ್ಪೂರ್ತಿ ಫುಡ್ಸ್, ಬಿಟಿಎಂ","spurti phuds, bitiem","spurti phuds, biti'em"
+blr,blr:places:ChIJfc_hC9sUrjsRgEAQcYWPcdU,Indira Canteen ಇಂದಿರಾ ಕ್ಯಾಂಟೀನ್,indira canteen imdira kyamtin,indira canteen indira kyantin
+blr,blr:places:ChIJPaf9zL8UrjsRx2CA0u4t_pM,ಶೆಲ್ ಪೆಟ್ರೋಲ್ ಪಂಪ್,sel petreuೕl pamp,sel petrol pamp
+blr,blr:places:ChIJqWQbLvEUrjsR6ROMtLY52LA,ತರವಾಡು ರೆಸ್ಟೋರೆಂಟ್,taravadu resteuೕremt,taravadu restorent
+blr,blr:places:ChIJTbTwnOsUrjsRGyxiXJOgapM,ಅಭಿರುಚಿ ಹೋಟೆಲ್ (ಬೊಮ್ಮನಹಳ್ಳಿ),abhiruci hotel (bommanahalli),abhiruci hotel (bom'manahalli)
+blr,blr:places:ChIJM9fGyLkUrjsRlujo8ZJk_3U,ನ್ಯೂ ಟೇಸ್ಟಿ ಹೋಟೆಲ್,nyu testi hotel,n'yu testi hotel
+blr,blr:places:ChIJKROxXIIUrjsRjRi-nsXaj9M,ಮೊಘಲ್ ಟ್ರೀಟ್,meughal triೕt,moghal trit
+blr,blr:places:ChIJj2u82p0UrjsRtkwD7c8UmBA,ಮೀನು ಮತ್ತು ಫ್ರೈಸ್ ರೆಸ್ಟೋರೆಂಟ್,miೕnu mattu phreೖs resteuೕremt,minu mattu phrais restorent
+blr,blr:places:ChIJv7pQqnITrjsRkcipP515Yo8,ಖಾನ್ ಸಾಹೇಬ್ ಗ್ರಿಲ್ ಅಂಡ್ ರೋಲ್ಸ್,khan saheb gril amd rols,khan saheb gril and rols
+blr,blr:places:ChIJeVq-lEATrjsRrE6lRyUNM_A,ಶೆಲ್ ಪೆಟ್ರೋಲ್ ಪಂಪ್,sel petreuೕl pamp,sel petrol pamp
+blr,blr:places:ChIJ6UBti0ATrjsREAh4yQZVL9M,ಲುಂಗೀಸ್ ರೆಸ್ಟೋರೆಂಟ್,lumgis restoremt,lungis restorent
+blr,blr:places:ChIJzf5VrmoTrjsRwBKucIO-GEw,ವಿಷ್ಣು ಗಾರ್ಡನ್ ಬಾರ್ ಅಂಡ್ ರೆಸ್ಟೋರೆಂಟ್ಸ್,visnu gardan bar amd restoremts,visnu gardan bar and restorents
+blr,blr:places:ChIJh7Cw290SrjsRdPRyrjRxoDQ,ಬೀರಬಲ್ ದರ್ಬಾರ್,biೕrabal darbar,birabal darbar
+blr,blr:places:ChIJEcjZ_IcTrjsRct5ugOPSoIg,ದಿ ಫಾರ್ಮರ್ ಅಂಡ್ ದಿ ಚೆಫ್,di pharmar amd di ceph,di pharmar and di ceph
+blr,blr:places:ChIJH_AYyEMTrjsRC6m4a7DKR_0,ಪಂಜುರ್ಲಿ,pamjurli,panjurli
+blr,blr:places:ChIJ3xhrHNoSrjsRosVgfgQqpnw,ಚಟೊರಿ ಟಂಗ್,catori tamg,catori tang
+blr,blr:places:ChIJ5WXFN7cSrjsRi-L1_-S88xA,ಗಬ್ಬರ್ ಚಾಯ್ - ಸುಲಿಕುಂಟೆ,gabbar cay - sulikumte,gabbar cay - sulikunte
+blr,blr:places:ChIJO9c5mcITrjsREK3S_sQD_7U,ಬೀರಬಲ್ ಬಿರಿಯಾನಿ - ಸುಲಿಕುಂಟೆ,birabal biriyani - sulikumte,birabal biriyani - sulikunte
+blr,blr:places:ChIJvR4okKsSrjsRqvq-dRfagu0,ಶ್ರೀ ಕೃಷ್ಣ ಸಾಗರ್,sriೕ krsna sagar,sri krsna sagar
+blr,blr:places:ChIJ8xNFt24NrjsRssIJ-4erl0s,ಟೇಸ್ಟ್ ಆಫ್ ನಾರ್ತ್ ಟಿಫಿನ್ ಸರ್ವಿಸಸ್ ಇನ್ ಸರ್ಜಾಪುರ ರೋಡ್ - ನಾರ್ತ್ ಇಂಡಿಯನ್ ಫುಡ್-ಹೋಮ್ ಫುಡ್- ಮೆಸ್ ಇನ್ ಸರ್ಜಾಪುರ,test aph nart tiphin sarvisas in sarjapura rod - nart imdiyan phud-hom phud- mes in sarjapura,test aph nart tiphin sarvisas in sarjapura rod - nart indiyan phud-hom phud- mes in sarjapura
+blr,blr:places:ChIJodEvDYA3rjsRE4raCMCGWcE,ಓಂಕಾರ್ ಸ್ಟಾಲ್ ಅಂಡ್ ನಂದು ಚಾಟ್ಸ್,omkar stal amd namdu cats,onkar stal and nandu cats
+blr,blr:places:ChIJI-Y0Qu03rjsRPJK2bCGOJKY,ಅನುಬಂಧ ಹೋಟೆಲ್,anubamdha hotel,anubandha hotel
+blr,blr:places:ChIJYR76Uic3rjsRoAyfOxeueLU,ಶ್ರೀ ಶುಭಶ್ರೀ ಮದನ್ ರೆಸ್ಟೋರೆಂಟ್,sri subhasri madan restoremt,sri subhasri madan restorent
+blr,blr:places:ChIJPe6AezM4rjsRcrbQAHMyi_A,ಫ್ರೆಂಝ್ ಕಾರ್ನರ್,phremjh karnar,phrenjh karnar
+blr,blr:places:ChIJ4SCdeGw5rjsR7UfjDLl-ELk,ಸುಮುಖ ಗ್ರಾಂಡ್,sumukha gramd,sumukha grand
+blr,blr:places:ChIJ3X-3wVw5rjsRHC03HNmeiPc,Jayram Non-Veg Hotel ಹೋಟೆಲ್ ಜಯರಾಮ್ ಮಾಂಸಾಹಾರಿ,jayram non-veg hotel hotel jayaram mamsahari,jayram non-veg hotel hotel jayaram mansahari
+blr,blr:places:ChIJXybwiDQ4rjsR-1Gi0efOrqo,ಹೋಟೆಲ್ ಸಮೃದ್ಧಿ,hotel samrddhi,hotel samrd'dhi
+blr,blr:places:ChIJHys44ic_rjsRLgP5h3CbIA0,ಶೆಲ್ ಪೆಟ್ರೋಲ್ ಪಂಪ್,sel petreuೕl pamp,sel petrol pamp
+blr,blr:places:ChIJe5bQlwU-rjsRjAIi6WyW6us,ಶೆಲ್ ಪೆಟ್ರೋಲ್ ಬಂಕ್,sel petreuೕl bamk,sel petrol bank
+blr,blr:places:ChIJNZdkMsw4rjsRGXgv-BrFuJI,ಮಂಜುನಾಥ ದರ್ಶಿನಿ,mamjunatha darsini,manjunatha darsini
+blr,blr:places:ChIJL7ZvITo_rjsRAjIbAUUPK44,ಕರ್ನಾಟಕ ಹಿಂದೂ ಮಿಲಿಟರಿ ಹೋಟೆಲ್,karnataka himdu militari hotel,karnataka hindu militari hotel
+blr,blr:places:ChIJzZ5vYVQ-rjsRE-spb3FNX78,ಬೀಜಿಂಗ್ ಬೈಟ್ಸ್,biೕjimg beೖts,bijing baits
+blr,blr:places:ChIJMVml3w8_rjsRE_fkYHIr5hM,ದಿ ಹ್ಯಾಂಗ್ಔಟ್,di hyamgaut,di hyangaut
+blr,blr:places:ChIJvVhuSgA_rjsRVOWM37_i9kM,ಅಲ್ ಬೇಕ್ ರೆಸ್ಟೋರೆಂಟ್,al bek restoremt,al bek restorent
+blr,blr:places:ChIJC8KH7c8_rjsRiiLaZalCDFU,ಸೌತ್ ಗ್ರ್ಯಾಂಡ್,saut gryamd,saut gryand
+blr,blr:places:ChIJE8R9PncWrjsRWN42hSCHXao,1947 ರೆಸ್ಟೋರೆಂಟ್,1947 restoremt,1947 restorent
+blr,blr:places:ChIJmzC03GIVrjsRYYEOThbX6w0,ಸ್ಟೂಡೆಂಟ್ಸ್ ಕಾರ್ನರ್,studemts karnar,students karnar
+blr,blr:places:ChIJZx4XK30VrjsR5il6S_YX3Ws,ಗೋಲಿ ವಡಾ ಪಾವ್,geuೕli vada pav,goli vada pav
+blr,blr:places:ChIJFxUk50YVrjsROb4Il9tbAyk,ಪಂಜಾಬಿ ಫುಡ್ ಕಾರ್ನರ್,pamjabi phud karnar,panjabi phud karnar
+blr,blr:places:ChIJn3mYfiw-rjsRF7nOp3NfZHk,ಲಿನ್ನೆಟ್ ಬಾರ್ & ರೆಸ್ಟೋರೆಂಟ್,linnet bar & restoremt,linnet bar & restorent
+blr,blr:places:ChIJnZP1uwwVrjsRq7zA-FopgQY,ಕೆಂಟಕಿ ಫ್ರೈಡ್ ಚಿಕನ್,kemtaki phreೖd cikan,kentaki phraid cikan
+blr,blr:places:ChIJUQJXPnUVrjsRvqx6_Q1pYuM,ಮೇನ್ ಲ್ಯಾಂಡ್ ಚೈನಾ,men lyamd caina,men lyand caina
+blr,blr:places:ChIJQVZPiQwVrjsRghHUsJd6ARY,ಆರೋಗ್ಯ ಆಹಾರ(ನಮ್ಮೂರ),arogya ahara(nammura),arogya ahara(nam'mura)
+blr,blr:places:ChIJL-yKLw0VrjsR4PMS3QRi4ls,ಕೆಫೆ ಕಾಫಿ ಡೇ - ಜೆ.ಪಿ.ನಗರ ಮೊದಲ ಹಂತ,kephe kaphi deೕ - je.pi.nagara meudala hamta,kephe kaphi de - je.pi.nagara modala hanta
+blr,blr:places:ChIJT7Ym8AUVrjsRX0v_ytjzBtc,ಹೋಟೆಲ್ ಆಂಬಿಯೆಂಟ್ ತುರ್ರೆಟ್ - ಬ್ಯಾಂಕ್ವೆಟ್ಸ್ & ಹೋಟೆಲ್ ರೂಮ್ಸ್,hotel ambiyemt turret - byamkvets & hotel rums,hotel ambiyent turret - byankvets & hotel rums
+blr,blr:places:ChIJ20AKGf0UrjsREZOA71FjlcA,"ಬೀಜಿಂಗ್ ಬೈಟ್ಸ್, ಬಿಟಿಎಂ","bijimg baits, bitiem","bijing baits, biti'em"
+blr,blr:places:ChIJ36xaLwYVrjsR-qS0PJjB9NQ,ನವಮಿ ಆಂಧ್ರ ಶೈಲಿ ಬಹು ತಿನಿಸು,navami amdhra seೖli bahu tinisu,navami andhra saili bahu tinisu
+blr,blr:places:ChIJD0Y6zv0UrjsRf9ZeniQ70d4,ಅಡ್ಯಾರ್ ಆನಂದ ಭವನ ರೆಸ್ಟೋರೆಂಟ್,adyar anamda bhavana resteuೕremt,adyar ananda bhavana restorent
+blr,blr:places:ChIJWUkaUQAVrjsRC_vuODMQmdw,DIL Foods ❣️,dil foods ❣️,dil foods ❣
+blr,blr:places:ChIJ3wP-ImIUrjsRnZ7Rr7BisQI,ಬಾರ್ಬೆಕ್ಯು ನೇಷನ್,barbekyu neೕsan,barbekyu nesan
+blr,blr:places:ChIJnX46NIwUrjsRKyiFX2itWzo,ಡೋಂಟ್ ಟೆಲ್ ಮಾಮ,domt tel mama,dont tel mama
+blr,blr:places:ChIJBRtV-5EUrjsRAqbtFGlMlTk,ಬಾಂಬೆ ಸ್ಯಾಂಡ್ವಿಚ್ & ರೋಲ್,bambe syamdvic & rol,bambe syandvic & rol
+blr,blr:places:ChIJFctwRYIUrjsRRUqAa3GAyew,ಶ್ರೀ ಕೃಷ್ಣ ಸಾಗರ್,sriೕ krsna sagar,sri krsna sagar
+blr,blr:places:ChIJs_Li6IIUrjsRRZHpu_EmK_k,ಜ್ಯೂಸ್ ಜಂಕ್ಷನ್,jyus jamksan,jyus janksan
+blr,blr:places:ChIJD1b-wYMUrjsREiet67ZtmqY,ಲೈಫ್ ಲೈನ್ ನ ಟೆಂಡರ್ ಚಿಕನ್,leೖph leೖn na temdar cikan,laiph lain na tendar cikan
+blr,blr:osm:osm_4385108289,ಕೋಮಲ ರಿಫ್ರೆಷ್‌ಮೆಂಟ್ಸ್,komala riphres‌memts,komala riphres‌ments
+blr,blr:osm:osm_4391177991,ಮ್ಯಾಂಗಲೋರ್ ಪರ್ಲ್,myamgalor parl,myangalor parl
+blr,blr:osm:osm_6033054486,ਨਿਉੁੂ ਮਸਤ ਪੰਜਾਬੀ,ਨਿਉੁੂ ਮਸਤ ਪੰਜਾਬੀ,niuuu masata pajabi
+maa,maa:places:ChIJrY4DoiP1UjoRjQ-V5HxiWoM,தேநீர் இடைவேளை,dhenir idhaivelai,tenir itaivelai
+maa,maa:places:ChIJX6r8CJL1UjoRlAbk0QAtq6w,SKY STARS ENGINEERING ஸ்கை ஸ்டார்ஸ் இன்ஜினியரிங்,sky stars engineering sghai sdhars injiniyarin,sky stars engineering skai stars injiniyarin
+maa,maa:places:ChIJAxMF9Pz1UjoRh2fVLY-oXCM,ಸಂಗೀತ ವೆಜ್ ರೆಸ್ಟೋರೆಂಟ್,samgita vej restoremt,sangita vej restorent
+maa,maa:places:ChIJA7l1Ign2UjoRW6UGXjCVP-o,ಮದೀನಾ ರೆಸ್ಟೋರೆಂಟ್,madina restoremt,madina restorent
+maa,maa:places:ChIJEae8_A32UjoR0uX563ne0UU,ನ್ಯೂ ಫ್ರೆಂಡ್ಸ್ ಹೋಟೆಲ್,nyu phremds hotel,n'yu phrends hotel
+maa,maa:places:ChIJpSiTBLf1UjoRCaEhSwQDfok,இரும்பு கடை ashirjabas,irumbhu ghadhai ashirjabas,irumpu katai ashirjabas
+maa,maa:places:ChIJI9piDdVZUjoRHagkwPV65zs,ಬ್ರಂಚ್ ಡಿ,bramc di,branc di
+maa,maa:places:ChIJ1ZEpB6JYUjoRqngHSL7AwcU,ஆகாஷ் பிரியாணி சென்டர்,aghas bhiriyani jhendhar,akas piriyani centar
+maa,maa:places:ChIJxZyfdMhZUjoRk1T6Xc0Qsjk,ತೂತುಕುಡಿ ಪರೋಟ ಅಂಡ್ ಬಿರಿಯಾನಿ ಸೆಂಟರ್,tutukudi parota amd biriyani semtar,tutukudi parota and biriyani sentar
+maa,maa:places:ChIJ30XWyMBZUjoRC3MeggUDi1M,பாய் அம்மா இட்லி கடை,bhay amma idhli ghadhai,pay am'ma itli katai
+maa,maa:places:ChIJNeHz_ylZUjoRr8wNmGRcF3g,ರಾಜ್ ಟಿಫಿನ್ ಸೆಂಟರ್,raj tiphin semtar,raj tiphin sentar
+maa,maa:places:ChIJvRXQ3a1ZUjoRN559IILEWUw,சண்முகம் சைவ உணவகம்,jhanmugham jhaiva unavagham,canmukam caiva unavakam
+maa,maa:places:ChIJk_YCqMteUjoRsXYHa8TeoY8,ஹோட்டல் துளசி பவன்,hodhdhal dhulajhi bhavan,hottal tulaci pavan
+maa,maa:places:ChIJDX5JjHNfUjoRQkp2H56D8RY,Suguna Chickens(பிரியா சிக்கன்),suguna chickens(bhiriya jhighghan),suguna chickens(piriya cikkan)
+maa,maa:places:ChIJYVguF5VbUjoRVBAM71PJRuQ,ಅಮ್ಮ ಉಣಗವಾಂ,amma unagavam,am'ma unagavam
+maa,maa:places:ChIJsTbN0OVbUjoRmFmigfnKDBY,ஆச்சி செட்டிநாடு மெஸ்,ajhjhi jhedhdhinadhu mes,acci cettinatu mes
+maa,maa:places:ChIJaxGHMSxnUjoR2pDDmlxGZgU,ಅಹದ್ ರೆಸ್ಟೋರೆಂಟ್ ಅಂಡ್ ಚಿಕನ್ ಸೆಂಟರ್,ahad restoremt amd cikan semtar,ahad restorent and cikan sentar
+maa,maa:places:ChIJLboqYGVbUjoRb8z2blvp-IU,ಅಮ್ಮ ಉಣವಗಂ,amma unavagam,am'ma unavagam
+maa,maa:places:ChIJKTV6VqFbUjoR8d7jhnJTgTE,ರಸವಿಡ್ ಮಲ್ಟಿ ಕ್ಯುಸಿನ್ ರೆಸ್ಟೋರೆಂಟ್,rasavid malti kyusin restoremt,rasavid malti kyusin restorent
+maa,maa:places:ChIJH0r_mzBbUjoRHOxBuy75SHw,ಇನ್ಫ್ಯಾಂಟ್ ಜೀಸಸ್ ಆಟೋ ವರ್ಕ್ಸ್,inphyamt jisas ato varks,inphyant jisas ato varks
+maa,maa:places:ChIJi0ZqSJxbUjoRmzhIsAguMDM,ಯಮ್ಮಿ ಯಮ್ಮಿ ಟಿಫಿನ್ ಹೋಟೆಲ್,yammi yammi tiphin hotel,yam'mi yam'mi tiphin hotel
+maa,maa:places:ChIJLdh8uxRbUjoR-zgYqDTUFkI,ಅಮ್ಮ ಉಣವಗಂ,amma unavagam,am'ma unavagam
+maa,maa:places:ChIJUScGwACvJzoR5FX3v8Njw80,ಕಿಪ್ಲಿಂಗ್ ಕೆಫೆ,kiplimg kephe,kipling kephe
+maa,maa:places:ChIJmwDrfa9bUjoRAeIIDaWMZ2s,ಇಟಾಲಿಯನ್ ಚೈನೀಸ್ ಕಾಂಟಿನೆಂಟಲ್ ಪಂಜಾಬಿ ಜೈನ್ ಮರ್ವಾರಿ ಮೆಕ್ಸಿಕನ್ ಗ್ಲೋಬಲ್ ವೆಜ್ ಫುಡ್,italiyan cainis kamtinemtal pamjabi jain marvari meksikan global vej phud,italiyan cainis kantinental panjabi jain marvari meksikan global vej phud
+maa,maa:places:ChIJTw4L2JFbUjoRsssCfbphZno,ECR STREET FOOD (வீட்டுசமையல்,ecr street food (vidhdhujhamaiyal,ecr street food (vittucamaiyal
+maa,maa:places:ChIJ4RXG2iT1UjoRxHwOI2TL3Oo,ஆனந்தா ஹோட்டல்,anandha hodhdhal,ananta hottal
+maa,maa:places:ChIJR7Fu3c_1UjoRGNM9kH_FfVw,ராபின் ஸ்டோர்ஸ்,rabhin sdhors,rapin stors
+maa,maa:places:ChIJGVdUn-_1UjoRohBdcwFAGf4,மாதா tiffen centre,madha tiffen centre,mata tiffen centre
+maa,maa:places:ChIJPY-lNNn1UjoRuvzfPN8NqKs,ஓட்டல் சாய்ராம்,odhdhal jhayram,ottal cayram
+maa,maa:places:ChIJc-poiPn1UjoROuQUTI-gDeM,ಎಸ್ಡಿ ಪ್ರಿಯ ಚಿಕನ್ ಸೆಂಟರ್,esdi priya cikan semtar,esdi priya cikan sentar
+maa,maa:places:ChIJoT2PeTL1UjoRPVQ6lS4cP4I,ಪಾಂಡಿಯನ್ ಎಲೈಟ್ ಸುಗುಣ ಚಿಕನ್ ಹೋಲ್ ಸಲೆ ಶಾಪ್,pamdiyan elait suguna cikan hol sale sap,pandiyan elait suguna cikan hol sale sap
+maa,maa:places:ChIJYaO21Qn2UjoRllaIe0Jb3xY,ಅರುಲ್ ವೆಜ್ ರೆಸ್ಟೋರೆಂಟ್ ಅಂಡ್ ಕಾಫಿ ಶಾಪ್,arul vej restoremt amd kaphi sap,arul vej restorent and kaphi sap
+maa,maa:places:ChIJxddKKPr1UjoRIiaFKSP17U0,சிவா ஸ்டோர்,jhiva sdhor,civa stor
+maa,maa:places:ChIJuWSl_vf1UjoR8ofi1JJTlpQ,ஸ்ரீ தேவி பிராபர்ட்டீஸ்,sri dhevi bhirabhardhdhis,sri tevi piraparttis
+maa,maa:places:ChIJ2QN3oupfUjoRVroqnnoamgw,Amma Mess அம்மா மெஸ்,amma mess amma mes,amma mess am'ma mes
+maa,maa:places:ChIJkUnPUHdfUjoRunRv5fmX0Ts,ಮಧೀನ ಚಿಕನ್ ಸೆಂಟರ್,madhina cikan semtar,madhina cikan sentar
+maa,maa:places:ChIJF96Y98VeUjoRcyoUiekDUbI,ಮಹಾಶ್ರೀ ಕ್ಯಾಟರಿಂಗ್ ಸರ್ವಿಸಸ್,mahasri kyatarimg sarvisas,mahasri kyataring sarvisas
+maa,maa:places:ChIJ3wGQAzhfUjoRUSHsaK9h7w0,காளிமுத்து வடை கடை,ghalimudhdhu vadhai ghadhai,kalimuttu vatai katai
+maa,maa:places:ChIJtTj2haJeUjoRanCWU4EirpQ,ಎಜಿಎಸ್ ರೆಸ್ಟೋರೆಂಟ್,ejies restoremt,eji'es restorent
+maa,maa:places:ChIJiT3PrFNfUjoRLvZT6WcuC_4,ಅಯ್ಯನಾರ್ ಟಿಫಿನ್ ಸೆಂಟರ್,ayyanar tiphin semtar,ayyanar tiphin sentar
+maa,maa:places:ChIJwantOABfUjoRFGc-2Yohhog,PARAMBARIYAM UNAVAGAM ( பாரம்பரியம் உணவகம் ),parambariyam unavagam ( bharambhariyam unavagham ),parambariyam unavagam ( parampariyam unavakam )
+maa,maa:places:ChIJmyl8vB9cUjoRREYhrEcVmNk,ಆರ್ಆರ್ ಸ್ಯಾಂಡ್ವಿಚ್ ಶಾಪ್,arar syamdvic sap,ar'ar syandvic sap
+maa,maa:places:ChIJSSuKjANcUjoRnYmQIPHzQEU,முருகன் ஸ்டோர்,murughan sdhor,murukan stor
+maa,maa:places:ChIJYbiWPY9dUjoRgyPFzxqF8u8,ஸ்ரீ அம்பாள் உணவகம்,sri ambhal unavagham,sri ampal unavakam
+maa,maa:places:ChIJ615Ba3xcUjoRxkurEiLtnmA,ಶ್ರೀನಿವಾಸ ಆಂಧ್ರ ಮೆಸ್,srinivasa amdhra mes,srinivasa andhra mes
+maa,maa:places:ChIJMW5wOWNcUjoRDOorVXDxqXI,ಅರ್ಬನ್ ಲೌಂಜ್,arban laumj,arban launj
+maa,maa:places:ChIJ39pBInFcUjoRSbDgpO6NCms,ರೌಂಡ್ ಕೆಫೆಟೇರಿಯಾ ಅಕ ಕೆಫೆಟೇರಿಯಾ 2,raumd kepheteriya aka kepheteriya 2,raund kepheteriya aka kepheteriya 2
+maa,maa:places:ChIJfRxwF3FcUjoRDJKg-7k-UPM,ನಮ್ಮ ವೀಡು ವಸಂತ ಭವನ್,namma vidu vasamta bhavan,nam'ma vidu vasanta bhavan
+maa,maa:places:ChIJ0QJhF3FcUjoRo29QSVdTYsQ,ಕರ್ಸ್ ಎನ್ ಕ್ರಂಚ್ ನಾನ್ ವೆಜ್,kars en kramc nan vej,kars en kranc nan vej
+maa,maa:places:ChIJW5VXVpdcUjoRBdbM3sfHSFk,ಎಂಜಿಎಂ ಈಸ್ಟ್‌ವುಡ್ಸ್,emjiem ist‌vuds,enji'em ist‌vuds
+maa,maa:places:ChIJ8Tu3jIlcUjoR5elvAx7v3zw,ಅಮ್ಮ ಉಣವಗಂ,amma unavagam,am'ma unavagam
+maa,maa:places:ChIJo-0PVABdUjoRu2z8po6S9yk,Annan kadai [அண்ணன் கடை],annan kadai [annan ghadhai],annan kadai [annan katai]
+maa,maa:places:ChIJ-WCFW5dcUjoRwqQfo7y8Ntk,ನ್ಯೂ ಟೌನ್ ರೆಸ್ಟೋರೆಂಟ್,nyu taun restoremt,n'yu taun restorent
+maa,maa:places:ChIJU6nRH5VcUjoRI51sy1qPRnI,ಅಮ್ಮ ಉಣವಗಂ,amma unavagam,am'ma unavagam
+maa,maa:places:ChIJm1wWkVv1UjoRypTtrDoMwzw,ಸಂಕರ,samkara,sankara
+maa,maa:places:ChIJU2dtmn_1UjoRgXZJjtsBETo,KAAHA TEA COFFEE SHOP - காஹா கூல் பார்,kaaha tea coffee shop - ghaha ghul bhar,kaaha tea coffee shop - kaha kul par
+maa,maa:places:ChIJk0BvnsD1UjoRH2wquKwolVw,நியூ குவாலிட்டி ஸ்டோர்,niyu ghuvalidhdhi sdhor,niyu kuvalitti stor
+maa,maa:places:ChIJY-N6PIr1UjoRFzpYjuGQTjA,காயத்ரி டிபன் & ஸ்நாக்ஸ் சென்டர்,ghayadhri dhibhan & snaghs jhendhar,kayatri tipan & snaks centar
+maa,maa:places:ChIJFURRdAD1UjoR-n-gxFD-Wmo,தளவாய் கடை,dhalavay ghadhai,talavay katai
+maa,maa:places:ChIJ25t3TDj1UjoR25_dUwsf-KM,பாரதி காலை உணவகம்,bharadhi ghalai unavagham,parati kalai unavakam
+maa,maa:places:ChIJEU7u-3FfUjoRv9X4rEsap_g,ಹಾಟ್ ಚಿಪ್ಸ್ ವೆಜ್ ರೆಸ್ಟೋರೆಂಟ್,hat cips vej restoremt,hat cips vej restorent
+maa,maa:places:ChIJk5epA2NfUjoRgJ7CmKfHMpA,ಮೀಟ್ ಅಂಡ್ ಈಟ್,mit amd it,mit and it
+maa,maa:places:ChIJT5ml42RfUjoRJtPSF4blBCs,ಡೊಮಿನೊ ಪಿಜ್ಜಾ,deumineu pijja,domino pijja
+maa,maa:places:ChIJ00RRhG1fUjoRaLcM4sY7HBg,ಟಾರ್ ಕನ ಕಬಾಬ್ & ತಂದೂರ್,tar kana kabab & tamdur,tar kana kabab & tandur
+maa,maa:places:ChIJPwUxL3JfUjoRUsrv3MHxGw0,ಇ ಸೈಟ್ ಬಿರಿಯಾನಿ ಸೆಂಟರ್,i sait biriyani semtar,i sait biriyani sentar
+maa,maa:places:ChIJq6qqqnZfUjoRqyl6qJ0NpF4,ಶ್ರೀ ಬಾಲಾಜಿ ವೆಜ್ ರೆಸ್ಟೋರೆಂಟ್,sri balaji vej restoremt,sri balaji vej restorent
+maa,maa:places:ChIJC7LPdhlfUjoR3PLe_YhPgiY,ಅಮ್ಮ ಉಣವಗಂ,amma unavagam,am'ma unavagam
+maa,maa:places:ChIJVSUEEglfUjoRusbgzppm8H4,ಶ್ರೀ ಅನ್ನಪೂರ್ಣ ಆಂಧ್ರ ಮೆಸ್ & ಕ್ಯಾಟರಿಂಗ್ ಸರ್ವಿಸಸ್,sri annapurna amdhra mes & kyatarimg sarvisas,sri annapurna andhra mes & kyataring sarvisas
+maa,maa:places:ChIJS-2mzuFeUjoRhBd8OLhy0Wk,ಚೋಕಾಮಂಸ್,cokamams,cokamans
+maa,maa:places:ChIJtRsvaeZeUjoR3E0O2tgc4z8,ಅಲ್ರೀಫ್ ದಿ ಫ್ಯಾಮಿಲಿ ರೆಸ್ಟೋರೆಂಟ್,alriph di phyamili restoremt,alriph di phyamili restorent
+maa,maa:places:ChIJiRR_Fh5fUjoRpXMSrWYO2Fg,ಆರ್.ಕೆ. ಪಾಂಡಿಯನ್ ವಿಲಾಸ್ ಹೋಟೆಲ್,ar.ke. pamdiyan vilas hotel,ar.ke. pandiyan vilas hotel
+maa,maa:places:ChIJTZtdw-teUjoRL4kbN0LRPvA,ಯಶ್ವಿತ ಕ್ಯಾಟರಿಂಗ್ ಸರ್ವಿಸ್ & ಮೆಸ್,yasvita kyatarimg sarvis & mes,yasvita kyataring sarvis & mes
+maa,maa:places:ChIJieEOtOheUjoRIwHJHZ9HkYE,S.M. பிரியாணி,s.m. bhiriyani,s.m. piriyani
+maa,maa:places:ChIJ73VbSe9eUjoR_GIqx3H4O5I,பிரியா இட்லி கடை,bhiriya idhli ghadhai,piriya itli katai
+maa,maa:places:ChIJr6R8k59eUjoRJ2ADvT8PIKg,ದಿಂಡಿಗಲ್ ತಲಪ್ಪಕಟ್ಟಿ ರೆಸ್ಟೋರೆಂಟ್ ಮೇದವಾಕ್ಕಂ,dimdigal talappakatti restoremt medavakkam,dindigal talappakatti restorent medavakkam
+maa,maa:places:ChIJkbk5MJ5eUjoRbZmzT9ozP9I,ಅಂಜಪ್ಪರ್ ಚೆಟ್ಟಿನಾಡ್ ರೆಸ್ಟೋರೆಂಟ್,amjappar cettinad restoremt,anjappar cettinad restorent
+maa,maa:places:ChIJVTHF-55eUjoR6A_TW19OKbo,ನೀಲ ಕ್ಯಾಟರಿಂಗ್ ಸರ್ವಿಸ್,nila kyatarimg sarvis,nila kyataring sarvis
+maa,maa:places:ChIJwbbO8p9eUjoRgasn1n0syF0,ಚೋಕಾಮಂಸ್,cokamams,cokamans
+maa,maa:places:ChIJTyPAliJcUjoRiOBlGh4V9y4,ಅಯ್ಯನಾರ್ ಚೆಟ್ಟಿನಾಡು ರೆಸ್ಟೋರೆಂಟ್,ayyanar cettinadu restoremt,ayyanar cettinadu restorent
+maa,maa:places:ChIJKWB35UtdUjoRfrnK8B_qAxY,வாடிவாசல் உணவகம்,vadhivajhal unavagham,vativacal unavakam
+maa,maa:places:ChIJj9Dd-xdcUjoRpj7FTgvM1GA,யுவதர்ஷினி டிபன் சென்டர்,yuvadharsini dhibhan jhendhar,yuvatarsini tipan centar
+maa,maa:places:ChIJk_KQF1lcUjoRddcLVQHIahw,ದಿ ಪಾಸ್ತಾ ಲ್ಯಾಂಡ್,di pasta lyamd,di pasta lyand
+maa,maa:places:ChIJc8aNUV9cUjoRKWUIm9iRois,ಅಂಜಪ್ಪರ್ ಚೆಟ್ಟಿನಾಡ್ ರೆಸ್ಟೋರೆಂಟ್ ಒಮರ್,amjappar cettinad restoremt omar,anjappar cettinad restorent omar
+maa,maa:places:ChIJx6PwP19cUjoRm_6hgp2pDdQ,ದಿಂಡಿಗಲ್ ತಲಪ್ಪಕಟ್ಟಿ ತೊರೈಪಕ್ಕಂ,dimdigal talappakatti toraipakkam,dindigal talappakatti toraipakkam
+maa,maa:places:ChIJzfdG8fNcUjoR0RWWc0nuMhw,Amma Unavagam - அம்மா உணவகம்,amma unavagam - amma unavagham,amma unavagam - am'ma unavakam
+maa,maa:places:ChIJ8V2hFPhcUjoRA3--34I6hzU,ಅಮ್ಮ ಉಣವಗಂ,amma unavagam,am'ma unavagam
+maa,maa:places:ChIJWc2RFQFdUjoRSHWSzJoe4I0,ಕೆಎಫ್ಸಿ,keephsi,ke'ephsi
+maa,maa:places:ChIJIdJ9KgBdUjoRO8K_8tLLRAM,சங்கையா சிறுதானிய உணவகம்,jhanghaiya jhirudhaniya unavagham,cankaiya cirutaniya unavakam
+maa,maa:places:ChIJiZvcwUtdUjoRy_TQB6oHND8,Erode Amman Mess (ஈரோடு அம்மன் மெஸ்),erode amman mess (irodhu amman mes),erode amman mess (irotu am'man mes)
+maa,maa:places:ChIJBdUtWuhcUjoRsZ646s3dcnI,ಲಾಂಗ್ ಲೈವ್ ಪಿಜ್ಜಾ,lamg laiv pijja,lang laiv pijja
+maa,maa:places:ChIJ3S8w15RcUjoRUew8UpFoOK4,ಬಯಾಸ್ ಚಿಕನ್ ಸೆಂಟರ್,bayas cikan semtar,bayas cikan sentar
+maa,maa:places:ChIJzYu8vJpdUjoRZdYWyjvVmJc,ವಸಂತ ಭವನ್ ಹೋಟೆಲ್,vasamta bhavan hotel,vasanta bhavan hotel
+maa,maa:places:ChIJZ1tgVSb1UjoRnGzJW4_OreA,ஏங்க சாப்பிட வாங்க உணவகம்,engha jhabhbhidha vangha unavagham,enka cappita vanka unavakam
+maa,maa:places:ChIJG7YyO0z1UjoR74QOcw4TVC0,ದಿ ಚೆನ್ನೈ ಫ್ಯಾಮಿಲಿ ರೆಸ್ಟೋರೆಂಟ್,di cennai phyamili restoremt,di cennai phyamili restorent
+maa,maa:places:ChIJ-UmbfMb1UjoR4RkMcKNKMdg,"தன்கை உணவகம்,THANKAI UNAVAGAM","dhanghai unavagham,thankai unavagam","tankai unavakam,thankai unavagam"
+maa,maa:places:ChIJCXIB0YH1UjoRKtM6Z_we9Fw,சாயி ஆட்டோ,jhayi adhdho,cayi atto
+maa,maa:places:ChIJw2shsJ9fUjoROrbYCpcpoMU,MEPZ ಕ್ಯಾಂಟೀನ್,mepz kyamtin,mepz kyantin
+maa,maa:places:ChIJ8QOSoGpfUjoR7cfcPGx5_FI,விஜயா புட்டு கடை,vijaya bhudhdhu ghadhai,vijaya puttu katai
+maa,maa:places:ChIJ__Q0rVJeUjoRvn5vTf86EfM,ಹಾಟ್ ಚಿಪ್ಸ್ ವೆಜ್ ರೆಸ್ಟೋರೆಂಟ್,hat cips vej restoremt,hat cips vej restorent
+maa,maa:places:ChIJvbtO_6hfUjoRsJH4lX47ua4,ಕೆಎಫ್ಸಿ,keephsi,ke'ephsi
+maa,maa:places:ChIJGR9tZ7JfUjoRZZ00qljSmI8,ಟೆಂಡರ್ಕಟ್ಸ್ - ಕ್ರೋಮಪೇಟೆ,temdarkats - kromapete,tendarkats - kromapete
+maa,maa:places:ChIJEQiCXQBfUjoRFnvfYp3ODDg,ಅರಿವು ಟೀ ಟಿಫಿನ್ ಸೆಂಟರ್,arivu ti tiphin semtar,arivu ti tiphin sentar
+maa,maa:places:ChIJhVshpQBfUjoRwj5dVoxzAQ4,குறிஞ்சி மகளிர் உணவகம்,ghurinjhi maghalir unavagham,kurinci makalir unavakam
+maa,maa:places:ChIJ4WP7P0xfUjoRmo4jUfdDkPU,ಜಿ.ಎಸ್ ಮಧುರೈ ಚಿಕನ್ ಪಕೋಡ ಸೆಂಟರ್,ji.es madhurai cikan pakoda semtar,ji.es madhurai cikan pakoda sentar
+maa,maa:places:ChIJ-Sd0sfBfUjoRLVhT7R5RyIs,ನಮ್ಮಚಿಕೆನ್,nammaciken,nam'maciken
+maa,maa:places:ChIJq9eajvdeUjoRNqTeq2cTYHM,காசிமேடு மீன் கடை,ghajhimedhu min ghadhai,kacimetu min katai
+maa,maa:places:ChIJX5sLFHdfUjoRkRouPI-AnyA,ನಾಗರ್ ಚಿಕನ್ ಸೆಂಟರ್,nagar cikan semtar,nagar cikan sentar
+maa,maa:places:ChIJe-zvIBJfUjoRMRaWpBTJvU8,ರಂತೆಚ್,ramtec,rantec
+maa,maa:places:ChIJy0RdiYheUjoR3H-X9RJt4T8,ರಾಯಲ್ ರೆಸ್ಟೋರೆಂಟ್ (ವೆಜ್ ಅಂಡ್ ನಾನ್-ವೆಜ್),rayal restoremt (vej amd nan-vej),rayal restorent (vej and nan-vej)
+maa,maa:places:ChIJjaOcS4FeUjoRLgoVqcswTrc,செம்ம பிரியாணி,jhemma bhiriyani,cem'ma piriyani
+maa,maa:places:ChIJS8R5uDdfUjoRLcqeVrvqMWs,காரைக்குடி கணபதி செட்டிநாடு உணவகம்,gharaighghudhi ghanabhadhi jhedhdhinadhu unavagham,karaikkuti kanapati cettinatu unavakam
+maa,maa:places:ChIJc5sLbspdUjoR28-FLxb9810,ಶೆಲ್ ಪೆಟ್ರೋಲ್ ಪಂಪ್,sel petreuೕl pamp,sel petrol pamp
+maa,maa:places:ChIJa6Zqjr9dUjoR3DaTdK7ylWM,ದಿ ನ್ಯೂ ಪಾಂಡಿಯನ್ ಬ್ರಿನಾ ಪಾಯಿಂಟ್,di nyu pamdiyan brina payimt,di n'yu pandiyan brina payint
+maa,maa:places:ChIJFZfKbgJdUjoRBRtLVIPTiBQ,ಇಂಡಿಯಾಗೇಟ್ ರೆಸ್ಟೋರೆಂಟ್,imdiyaget restoremt,indiyaget restorent
+maa,maa:places:ChIJ-WyhwONcUjoRsV6-Hiu_fWM,ಅಮ್ಮ ಉಣವಗಂ,amma unavagam,am'ma unavagam
+maa,maa:places:ChIJS8_iUABdUjoRnwM9-prJx20,ವಾಂಗ್ಸ್ಕಿಚನ್,vamgskican,vangskican
+maa,maa:places:ChIJl3OrjuFcUjoRZOPXpEX8hoI,மணி ஸ்டோர்,mani sdhor,mani stor
+maa,maa:places:ChIJG0ajUCL1UjoRbAmM5whg2FI,ರೋಲೆಕ್ಸ್ ಜೂಸ್ ಕಂಟೇನರ್,roleks jus kamtenar,roleks jus kantenar
+maa,maa:places:ChIJDQ7nVpRfUjoRL4dcQt93vVg,ಎಲ್-ಷಡ್ಡೈ ಬ್ರಿಯಾನಿ ಸೆಂಟರ್,el-saddai briyani semtar,el-saddai briyani sentar
+maa,maa:places:ChIJH5eVV5RfUjoRn1rQpd3WEV4,ஸ்ரீ சுயம்புலிங்கம் ஸ்டோர்ஸ்,sri jhuyambhulingham sdhors,sri cuyampulinkam stors
+maa,maa:places:ChIJxUA3drZfUjoRkEO7zDYcJG4,ಅಮ್ಮ ಉಣವಗಂ,amma unavagam,am'ma unavagam
+maa,maa:places:ChIJ4bu-jLBfUjoRX4Uw-Oir5Ls,D.J உணவகம்,d.j unavagham,d.j unavakam
+maa,maa:places:ChIJO4AdkDZeUjoRAnThJ_5vWEE,ಅಮ್ಮ ಉಣವಗಂ,amma unavagam,am'ma unavagam
+maa,maa:places:ChIJ439wxj9eUjoRzT9870a2zJM,ಸಾಯಿ ಪ್ರಸಾದಾಲಯ ಕ್ಯಾಟರಿಂಗ್ ಸರ್ವಿಸಸ್,sayi prasadalaya kyatarimg sarvisas,sayi prasadalaya kyataring sarvisas
+maa,maa:places:ChIJY7e55ENeUjoRtal7mjDFpjo,ಮಧುರ ರೆಸ್ಟೋರೆಂಟ್,madhura restoremt,madhura restorent
+maa,maa:places:ChIJwzUFY91fUjoRXqDi1R43MWI,iQqra வெஜ் பிரியாணி,iqqra vej bhiriyani,iqqra vej piriyani
+maa,maa:places:ChIJN3-D1PpfUjoRvNtPej-FYrw,Akka Aappa Kadai -அக்கா ஆப்ப கடை,akka aappa kadai -aghgha abhbha ghadhai,akka aappa kadai -akka appa katai
+maa,maa:places:ChIJmRRN5iJfUjoRUzr8BM8nT-w,காரைக்குடி J P செட்டிநாடு உணவகம்,gharaighghudhi j p jhedhdhinadhu unavagham,karaikkuti j p cettinatu unavakam
+maa,maa:places:ChIJ40G2aN1dUjoRTuYnnUQbPLo,ರುಚಿ ರೆಸ್ಟೋರೆಂಟ್,ruci resteuೕremt,ruci restorent
+maa,maa:places:ChIJiQPG-MFdUjoRlEdNym2kuEs,ಪಿಜ್ಜಾ ಡಫ್ ರೆಸ್ಟೋರೆಂಟ್,pijja daph restoremt,pijja daph restorent
+maa,maa:places:ChIJpdYlncJdUjoR1g_C11ty6_0,ಮೇ ರೆಸ್ಟೋರೆಂಟ್,me restoremt,me restorent
+maa,maa:places:ChIJt3PVHZhdUjoRqBIKxIC-3t8,அம்மா உணவகம் சென்னை மாநகராட்சி AMMA UNAVAGAM,amma unavagham jhennai managharadhjhi amma unavagam,am'ma unavakam cennai manakaratci amma unavagam
+maa,maa:places:ChIJEz26vUFdUjoRCib_x5ax5dI,ಕೆಎಫ್ಸಿ,keephsi,ke'ephsi
+maa,maa:places:ChIJVbAjwpBdUjoRfLCTrTec8ZY,"ಜೈತೂನ್ ರೆಸ್ಟೋರೆಂಟ್, ವೇಲಾಚೆರಿ","jaitun restoremt, velaceri","jaitun restorent, velaceri"
+maa,maa:places:ChIJsSiGk5BdUjoRAAwcjrs3Nh0,ಸುಗುಣ ಚಿಕನ್ ಸೆಂಟರ್,suguna cikan semtar,suguna cikan sentar
+maa,maa:places:ChIJKbsglrddUjoR1yvC7hBmpXY,ஸ்ரீ கிருஷ்ணா டிபன் சென்டர்,sri ghirusna dhibhan jhendhar,sri kirusna tipan centar
+maa,maa:places:ChIJBUPSDQBdUjoRoZTgcvYkKl4,தோசை கடை Dosai Kadai,dhojhai ghadhai dosai kadai,tocai katai dosai kadai
+maa,maa:places:ChIJURZRZr5dUjoREG-Aj0Wpyx4,கிராமிய உணவகம்,ghiramiya unavagham,kiramiya unavakam
+maa,maa:places:ChIJlbQfkw5dUjoRW_NAcyhs9S8,ಅಮ್ಮ ಉಣವಗಂ,amma unavagam,am'ma unavagam
+maa,maa:places:ChIJEflUuhNdUjoRtqSCQZn5m30,ಜೀಶನ್ ರೆಸ್ಟೋರೆಂಟ್,jisan restoremt,jisan restorent
+maa,maa:places:ChIJg5VdF21dUjoRP07QbJk-7RQ,ಗೌರವ ವಾದ ಪಾವ್ ಸೆಂಟರ್,gaurava vada pav semtar,gaurava vada pav sentar
+maa,maa:places:ChIJQ_2CRj1dUjoR2CYsMfMV3WI,ಹಾಟ್ ಚಿಪ್ಸ್ ವೆಜ್ ರೆಸ್ಟೋರೆಂಟ್,hat cips vej restoremt,hat cips vej restorent
+maa,maa:places:ChIJA5Y1xD1dUjoRfQ7Qsb-fo2o,ಅಮ್ಮ ಉಣವಗಂ,amma unavagam,am'ma unavagam
+maa,maa:places:ChIJDSNOiEBdUjoR3LAtCx_LLGE,ಮೇ (ಮೀಟ್ ಅಂಡ್ ಈಟ್ ),me (mit amd it ),me (mit and it )
+maa,maa:places:ChIJZ81ehkBdUjoRsBvtYaF3sHE,ಅಮ್ಮ ಉಣವಗಂ,amma unavagam,am'ma unavagam
+maa,maa:places:ChIJoV3poT1dUjoRmlHK0OGMjAs,செல்வி உணவகம் வீட்டு சாப்பாடு,jhelvi unavagham vidhdhu jhabhbhadhu,celvi unavakam vittu cappatu
+maa,maa:places:ChIJvUfIgyRdUjoRC0z8JaaBE1o,செட்டிநாடு மெஸ்,jhedhdhinadhu mes,cettinatu mes
+maa,maa:places:ChIJ4XrAhj5dUjoRiLtY8KRRGJg,ஸ்ரீ பவானி ஸ்டோர்ஸ்,sri bhavani sdhors,sri pavani stors
+maa,maa:places:ChIJI1OJQiv1UjoRuKMUATRkh4g,மதுரை அய்யனார் உணவகம்,madhurai ayyanar unavagham,maturai ayyanar unavakam
+maa,maa:places:ChIJKf79aSv1UjoR0bGUIitVttM,ஆயிஷா பிரியாணி & பாஸ்ட்புட்,ayisa bhiriyani & bhasdhbhudh,ayisa piriyani & pastput
+maa,maa:places:ChIJ3x3A2NX0UjoRXJEhlqmlVIQ,ಹೋಟೆಲ್ ಪಾಂಡಿಯನ್,hotel pamdiyan,hotel pandiyan
+maa,maa:places:ChIJB487jO6LUjoR7u6vX0-FDH8,அண்ணா உணவகம்,anna unavagham,anna unavakam
+maa,maa:places:ChIJA2mwgquKUjoRoIDd90BgHVE,ஸ்ரீ கணேஷ் மெஸ்,sri ghanes mes,sri kanes mes
+maa,maa:places:ChIJVVVVVfplUjoR3hjaRL1dmhc,ಹೋಟೆಲ್ ಕುರುಂಜಿ,hotel kurumji,hotel kurunji
+maa,maa:places:ChIJWfwTtTBfUjoRLDQwxquHbt8,ಎ2ವಿಎಸ್ ಚೆಫ್ ಕೆಫೆ,e2vies ceph kephe,e2vi'es ceph kephe
+maa,maa:places:ChIJGSQgt8RfUjoRo6kIZSW7-bk,ಮಣಿಕಂಡನ್ ಟೀ & ಟಿಫಿನ್ ಸೆಂಟರ್,manikamdan ti & tiphin semtar,manikandan ti & tiphin sentar
+maa,maa:places:ChIJIc8sm3ZfUjoRpl7zcrM3miQ,ஓம் முருகன் டிபன் சென்டர்,om murughan dhibhan jhendhar,om murukan tipan centar
+maa,maa:places:ChIJ7xw_B19fUjoR1tNU_1E6WPs,ஶ்ரீசக்திவிநாயகர் ஹோட்டல்,srijhaghdhivinayaghar hodhdhal,sricaktivinayakar hottal
+maa,maa:places:ChIJn4JtTABfUjoR6fUAQyBfENE,Home style chef's cafe குழம்பு குடில்,home style chef's cafe ghulambhu ghudhil,home style chef's cafe kulampu kutil
+maa,maa:places:ChIJq6KgPjJeUjoR3KKDuCr5nVY,ಬುದ್ಧ ಹಟ್,buddha hat,bud'dha hat
+maa,maa:places:ChIJSWigDdVfUjoRVIBESWCqM-4,ಜಿಕೆ ರೆಸ್ಟೋರೆಂಟ್ ಪ್ಯೂರ್ ವೆಜ್,jike restoremt pyur vej,jike restorent pyur vej
+maa,maa:places:ChIJC-iZuBFfUjoRl7DYZD-9yWQ,ಗಾಂಧಿ ಪಾರ್ಕ್,gamdhi park,gandhi park
+maa,maa:places:ChIJm8PWwihfUjoRVYlq348mbbk,ಬಾಬಾ ಫುಡ್ ಅಂಡ್ ಬೆವರೇಜಸ್,baba phud amd bevarejas,baba phud and bevarejas
+maa,maa:places:ChIJ9Z5Vph9eUjoRx8W-8ag-kVc,ದಿ ಕಾಫಿ ಬೀನ್ ಅಂಡ್ ಟೀ ಲೀಫ್,di kaphi bin amd ti liph,di kaphi bin and ti liph
+maa,maa:places:ChIJM0VYhx1eUjoRJOzgkFocetk,ಅಮ್ಮ ಉಣವಗಂ,amma unavagam,am'ma unavagam
+maa,maa:places:ChIJ071UDwdeUjoREeM5NFXceGQ,ಯಿನ್ ಯಾಂಗ್ ಚೈನೀಸ್ ಕಾಂಪ್ಲಿಮೆಂಟರಿ ಆಕ್ಯುಪಂಕ್ಚರ್ ಕ್ಲಿನಿಕ್ & ಟ್ರೈನಿಂಗ್ ಸೆಂಟರ್,yin yamg cainis kamplimemtari akyupamkcar klinik & trainimg semtar,yin yang cainis kamplimentari akyupankcar klinik & training sentar
+maa,maa:places:ChIJ77Fc1uJdUjoRORTGAd1M2Uo,ಅಮ್ಮ ಉಣವಗಂ,amma unavagam,am'ma unavagam
+maa,maa:places:ChIJpVyt7v9dUjoR8J_Rtb-tyJk,ಅಮ್ಮ ಉಣವಗಂ,amma unavagam,am'ma unavagam
+maa,maa:places:ChIJ0boGWwleUjoRYfzONQmZjXA,அல் - அரபி சுட்ட கோழி,al - arabhi jhudhdha gholi,al - arapi cutta koli
+maa,maa:places:ChIJWQyC9O5dUjoRe_VbWbQOM_k,ಅಮ್ಮ ಉಣವಗಂ,amma unavagam,am'ma unavagam
+maa,maa:places:ChIJ9cSQ-fVdUjoRDXzWKTyfMUs,ಬಿಸ್ಮಿ ಬಿರಿಯಾನಿ ಸೆಂಟರ್,bismi biriyani semtar,bismi biriyani sentar
+maa,maa:places:ChIJ2WOvTKRdUjoRbmaukS_CPgo,Tamizh suvai தமிழ் சுவை,tamizh suvai dhamil jhuvai,tamizh suvai tamil cuvai
+maa,maa:places:ChIJ9SCbnJpdUjoRhQfsHz9ybLE,ಗಂಗಾ ಸ್ವೀಟ್ಸ್ & ರೆಸ್ಟೋರೆಂಟ್,gamga svits & restoremt,ganga svits & restorent
+maa,maa:places:ChIJh0htrY9dUjoRgJM3kMT3vi8,ರಾಯಲ್ ಸ್ಯಾಂಡ್ವಿಚ್,rayal syamdvic,rayal syandvic
+maa,maa:places:ChIJ-bXG0JpdUjoR2LKLiO9IY4g,ಪಾಂಡಿಯನ್ ಹೋಟೆಲ್,pamdiyan hotel,pandiyan hotel
+maa,maa:places:ChIJR2KhCYZdUjoRYp_1VebfEOU,ಶ್ರೀ ಕಾಳಿಕಾಂಬಲ್ ಕ್ಯಾಟರಿಂಗ್ ಸರ್ವಿಸಸ್,sri kalikambal kyatarimg sarvisas,sri kalikambal kyataring sarvisas
+maa,maa:places:ChIJ0cPQiXxdUjoR3-DUrADi6oY,ಅಮ್ಮ ಉಣವಗಂ,amma unavagam,am'ma unavagam
+maa,maa:places:ChIJZWvPmENdUjoRXDU6gBBCGFc,ವೊಸ್ಸ್,voss,vos's
+maa,maa:places:ChIJOwhTwkRdUjoRemDZ2An_NwU,ಹ್ಮ್ ಬರ್ಗರ್ ಪಾಯಿಂಟ್,hm bargar payimt,hm bargar payint
+maa,maa:places:ChIJRWBuZlxdUjoRf2MvJHy07o4,ಸಾ ಫುಡ್ ಇನ್ ರೆಸ್ಟೋರೆಂಟ್ಸ್ ಚೈನೀಸ್ ಅಂಡ್ ಇಂಡಿಯನ್ ರೆಸ್ಟೋರೆಂಟ್ಸ್,sa phud in restoremts cainis amd imdiyan restoremts,sa phud in restorents cainis and indiyan restorents
+maa,maa:places:ChIJuRF-uVtdUjoRWa3xoEG79FI,ಫುಡ್ ಪಾಯಿಂಟ್,phud payimt,phud payint
+maa,maa:places:ChIJgUPTVDddUjoRWbeCPI4_FWU,ಮ್ಮ್ ಸ್ನಾಕ್ಸ್,mm snaks,m'm snaks
+maa,maa:places:ChIJ_YQ9qLCKUjoRNTfAXJos9Ps,ಹೋಟೆಲ್ ಪಶುಂಪಾನ್ ಪಾಂಡಿಯನ್,hotel pasumpan pamdiyan,hotel pasumpan pandiyan
+maa,maa:places:ChIJ1erQLq2LUjoRhrtzwsEM2A0,தோழன் Food Court,dholan food court,tolan food court
+maa,maa:places:ChIJxTHmBcGLUjoRB3zY0TONCgI,சோலை பாஸ்ட் ஃபுட்,jholai bhasdh fudh,colai past hput
+maa,maa:places:ChIJCaqWiqaKUjoRukmWVOn-xG0,காரைக்குடி முறுக்கு கடை ஹாட் சிப்ஸ் & ஸ்நாக்ஸ்,gharaighghudhi murughghu ghadhai hadh jhibhs & snaghs,karaikkuti murukku katai hat cips & snaks
+maa,maa:places:ChIJpXZKIRtgUjoRIdJqqDUFP2g,ஹோட்டல் அனகை,hodhdhal anaghai,hottal anakai
+maa,maa:places:ChIJ1d8SQQtgUjoRNHpv-AW8ugg,எ-1 பிஸ்மில்லா சிக்கன் சென்டர்,e-1 bhismilla jhighghan jhendhar,e-1 pismilla cikkan centar
+maa,maa:places:ChIJU1oWi3ZgUjoRna05RiQq-T8,ஜெயஸ்ரீ தர்ஷினி ஸ்டோர்,jeyasri dharsini sdhor,jeyasri tarsini stor
+maa,maa:places:ChIJkXDnht9fUjoR114excTCF5g,அம்மா உணவகம்,amma unavagham,am'ma unavakam
+maa,maa:places:ChIJ899OzHdgUjoRbRUapzbws4M,ராஜன் ஸ்டோர்,rajan sdhor,rajan stor
+maa,maa:places:ChIJ-7RvOd9fUjoR2cq9jL5owB0,காலிஷ் இட்லி கடை,ghalis idhli ghadhai,kalis itli katai
+maa,maa:places:ChIJV6EBV4FgUjoROwIeIFswImY,அம்மன் கேட்டரிங் சர்வீஸ்,amman ghedhdharin jharvis,am'man kettarin carvis
+maa,maa:places:ChIJFTqM0dVfUjoRwFMGmHV2EHY,இனியா ஸ்டோர்,iniya sdhor,iniya stor
+maa,maa:places:ChIJ3-DxS-BfUjoRA6mkR243Ry4,ಕೆಎಫ್ಸಿ,keephsi,ke'ephsi
+maa,maa:places:ChIJpb8ugERfUjoRNF8VE_LY97g,ಫ್ಲೈಯಿಂಗ್ ಬೈಟ್ಸ್,phlaiyimg baits,phlaiying baits
+maa,maa:places:ChIJM9xjs6xgUjoRx9NoyHW8hOQ,ಬ್ಲೂ ಹಿಕ್ಕಿ ಬಿಸ್ಟ್ರೋ ರದಿಸ್ಸೋನ್ ಗರ್ಟ್,blu hikki bistro radisson gart,blu hikki bistro radis'son gart
+maa,maa:places:ChIJvZomU1NnUjoRzpeHM6qdK9w,ಸಾಲ್ಟ್ ಕಂಪನಿ 531 ಕಿಚನ್ ಅಂಡ್ ಬಾರ್,salt kampani 531 kican amd bar,salt kampani 531 kican and bar
+maa,maa:places:ChIJ8aCUHFJnUjoRF2rdFEUw4vw,ಹೋಟೆಲ್ ಮೌಂಟ್ ಮ್ಯಾನರ್,hotel maumt myanar,hotel maunt myanar
+maa,maa:places:ChIJd_ycs0ZnUjoR4NUHZ-1SmVU,ಹೋಟೆಲ್ ವಸಂತಮ್,hotel vasamtam,hotel vasantam
+maa,maa:places:ChIJQwKjsV5nUjoRo-7nnr0zVJY,ಅಮ್ಮ ಉಣವಗಂ,amma unavagam,am'ma unavagam
+maa,maa:places:ChIJUVC4tFxnUjoRsMWQeAoI2Zo,ಅಮ್ಮ ಉಣವಗಂ,amma unavagam,am'ma unavagam
+maa,maa:places:ChIJr-NeFkRnUjoR1TY9vi_OR3I,ಅಮ್ಮ ಉಣವಗಂ,amma unavagam,am'ma unavagam
+maa,maa:places:ChIJnX4xG2tnUjoRT4ri50wlV5U,ಸಂಗೀತ ವೆಜ್ ರೆಸ್ಟೋರೆಂಟ್,samgita vej restoremt,sangita vej restorent
+maa,maa:places:ChIJ8zQQdWNnUjoRzSLvymesvsc,ಮೀಟ್ ಅಂಡ್ ಈಟ್,mit amd it,mit and it
+maa,maa:places:ChIJVR66TElnUjoR2eAxOzFrRdQ,அம்மையப்பர் உயர்தர சைவ உணவகம்,ammaiyabhbhar uyardhara jhaiva unavagham,am'maiyappar uyartara caiva unavakam
+maa,maa:places:ChIJxcfitpBnUjoR59disYF_qBM,ಹಾಟ್ ಚಿಪ್ಸ್ ವೆಜ್ ರೆಸ್ಟೋರೆಂಟ್,hat cips vej restoremt,hat cips vej restorent
+maa,maa:places:ChIJdfkk05tnUjoR1hL1dpfDlMM,ಕ್ಯಾಂಟೀನ್ ಕ್ಯಾನ್ಸರ್ ಇನ್ಸ್ಟಿಟ್ಯೂಟ್ ವಯಾ,kyamtin kyansar instityut vaya,kyantin kyansar instityut vaya
+maa,maa:places:ChIJaZ0KV_NnUjoRvKvdcgXUlaY,ಅಡ್ಯಾರ್ ಆನಂದ ಭವನ್ ಪ್ಯೂರ್ ವೆಜಿಟೇರಿಯನ್ ರೆಸ್ಟೋರೆಂಟ್ - ಅಡ್ಯಾರ್,adyar anamda bhavan pyur vejiteriyan restoremt - adyar,adyar ananda bhavan pyur vejiteriyan restorent - adyar
+maa,maa:places:ChIJdUMECY1nUjoRGN3Lykb_ohY,ಕೆಫೆ ಕಾಫಿ ಡೇ,kephe kaphi deೕ,kephe kaphi de
+maa,maa:places:ChIJ7SMdZPNnUjoR-7rHRwLh_Qo,"ಜೈತೂನ್ ರೆಸ್ಟೋರೆಂಟ್, ಅಡ್ಯಾರ್","jaitun restoremt, adyar","jaitun restorent, adyar"
+maa,maa:places:ChIJSVi6q2VnUjoRLZ9gdvUW3fA,ಕೆಎಫ್ಸಿ,keephsi,ke'ephsi
+maa,maa:places:ChIJZxqWzvhnUjoRStIZUG6IyxU,யாமினி உணவகம்,yamini unavagham,yamini unavakam
+maa,maa:places:ChIJM0_xNx5gUjoRiPC8gv0vT4U,ஸ்ரீ முனியாண்டி விலாஸ்,sri muniyandhi vilas,sri muniyanti vilas
+maa,maa:places:ChIJ6eO8TB5gUjoRrap4cIBxk9w,தாமரை மெஸ் சைவம் & அசைவம்,dhamarai mes jhaivam & ajhaivam,tamarai mes caivam & acaivam
+maa,maa:places:ChIJ5VjlEyFgUjoR7WO8ixLhjj4,ஹோட்டல் இறையருள்,hodhdhal iraiyarul,hottal iraiyarul
+maa,maa:places:ChIJpdsFjD9gUjoRDqx1goZ_YzI,ವಿನಾಯಕ ಚಾಟ್ಸ್ ಸ್ವೀಟ್ಸ್ ಅಂಡ್ ಬೇಕರಿ,vinayaka cats svits amd bekari,vinayaka cats svits and bekari
+maa,maa:places:ChIJbX1UvT9gUjoR_5p8jGcuerM,ಫ್ರೆಂಡ್ಸ್ ಬ್ರಿಯಾನಿ & ಫಾಸ್ಟ್ ಫುಡ್,phremds briyani & phast phud,phrends briyani & phast phud
+maa,maa:places:ChIJf78KADhgUjoRdfmhU_BK2-E,காதர்பாஷா ஸ்டோர்,ghadharbhasa sdhor,katarpasa stor
+maa,maa:places:ChIJ9cnVyFxgUjoRZ6BJVRM3jDc,ஸ்ரீ சக்தி ஸ்டோர்,sri jhaghdhi sdhor,sri cakti stor
+maa,maa:places:ChIJo7rBblhgUjoR6tWioqs97mc,ಚೆನ್ನೈ ದರ್ಬಾರ್ ಬಿರಿಯಾನಿ ಸೆಂಟರ್ ಪೋರುರ್ ಫಾಸ್ಟ್ ಫುಡ್ಸ್,cennai darbar biriyani semtar porur phast phuds,cennai darbar biriyani sentar porur phast phuds
+maa,maa:places:ChIJmc56V-9gUjoR4_ayVDaFv5Y,ಅಮ್ಮ ಉಣವಗಂ,amma unavagam,am'ma unavagam
+maa,maa:places:ChIJXe-3vV1gUjoRsG6QWpL6ELA,அமிர்தம்மாள் ஸ்டோர்,amirdhammal sdhor,amirtam'mal stor
+maa,maa:places:ChIJE0EzaFhgUjoRcLkW0fWpFUk,ஸ்மார்ட் பாயிண்ட்,smardh bhayindh,smart payint
+maa,maa:places:ChIJU1hP51xgUjoRbVRJBQgl60E,சீனிவாசன் ஸ்டோர்,jhinivajhan sdhor,cinivacan stor
+maa,maa:places:ChIJf1g94MVgUjoRnloNN5V_6Wg,ಅಮ್ಮ ಉಣವಗಂ,amma unavagam,am'ma unavagam
+maa,maa:places:ChIJqwgEg8hhUjoRe1qHIbNPnbs,ಕೆಎಫ್ಸಿ,keephsi,ke'ephsi
+maa,maa:places:ChIJP5D9BtJgUjoR07Lpng6NON8,ದಿಂಡಿಗಲ್ ತಲಪ್ಪಕಟ್ಟಿ ರಾಮಪುರಂ,dimdigal talappakatti ramapuram,dindigal talappakatti ramapuram
+maa,maa:places:ChIJjy9vjjNnUjoR4z2iRm9FmoQ,ಅಮ್ಮ ಉಣವಗಂ,amma unavagam,am'ma unavagam
+maa,maa:places:ChIJSxd3FzRnUjoRSUGTckk372Q,ವಾಂಗ್ಸ್ ಕಿಚನ್,vamgs kican,vangs kican
+maa,maa:places:ChIJWSBJPNpgUjoROzYE4Qj_qtk,ಪಾಮ್ಶೋರ್ ರೆಸ್ಟೋರೆಂಟ್ ರಾಮಪುರಂ,pamsor restoremt ramapuram,pamsor restorent ramapuram
+maa,maa:places:ChIJ-3g19jxnUjoRaV5Uy8fLzJo,ಡಿಜೈರ್ ಚೆಟ್ಟಿನಾಡ್ ರೆಸ್ಟೋರೆಂಟ್,dijair cettinad restoremt,dijair cettinad restorent
+maa,maa:places:ChIJd9e813JnUjoRQOswUin-k_M,ಗ್ರ್ಯಾಂಡ್ ಹೋಟೆಲ್,gryamd hotel,gryand hotel
+maa,maa:places:ChIJ28QG33JnUjoRaFM6_mJpyN0,ದಿ ಡೈನಿಂಗ್ ರೂಮ್,di dainimg rum,di daining rum
+maa,maa:places:ChIJsfPtJ3NnUjoRk82-pKsQi6I,ಆವಿನ್ ಜಂಕ್ಷನ್,avin jamksan,avin janksan
+maa,maa:places:ChIJO2E01wxnUjoR1SHEiAAE_i8,ಗ್ರ್ಯಾಂಡ್ ಜಿ ಸ್ಯಾಂಡ್ವಿಚ್,gryamd ji syamdvic,gryand ji syandvic
+maa,maa:places:ChIJBd4he6NnUjoRbw_7hT2wuyA,ರಾಯಲ್ ಸ್ಯಾಂಡ್ವಿಚ್,rayal syamdvic,rayal syandvic
+maa,maa:places:ChIJL9xuRwBnUjoRX4yOvq2ukeY,Daily Food மகளிர் உணவகம்,daily food maghalir unavagham,daily food makalir unavakam
+maa,maa:places:ChIJG3We2pRnUjoRNxxZ9iHpPxM,Munveedu Restaurant Adyar (மண்வீடு ரெஸ்டாரண்ட்),munveedu restaurant adyar (manvidhu resdharandh),munveedu restaurant adyar (manvitu restarant)
+maa,maa:places:ChIJMxA-ichnUjoRxf5uSsVjAX0,ಸಂಗೀತ ವೆಜ್ ರೆಸ್ಟೋರೆಂಟ್,samgita vej restoremt,sangita vej restorent
+maa,maa:places:ChIJ9Vj27NdnUjoR1sFqdt_UByI,ಕೆಎಫ್ಸಿ,keephsi,ke'ephsi
+maa,maa:places:ChIJPbOMA-ppUjoRn-0wLqoX00U,ಕಾರ್ತಿಕ್ ಟಿಫಿನ್ ಸೆಂಟರ್,kartik tiphin semtar,kartik tiphin sentar
+maa,maa:places:ChIJJU6ScuFpUjoRiOGDfPCJ2wE,ಎಜಿಎಫ್ (ಆಗ್ ಫುಡ್ಸ್),ejieph (ag phuds),eji'eph (ag phuds)
+maa,maa:places:ChIJk3wqAf5pUjoRZnp1b40GMS0,MeenachiMess(மீனாச்சி மெஸ்),meenachimess(minajhjhi mes),meenachimess(minacci mes)
+maa,maa:places:ChIJN_4z-EOKUjoRCvCwtOCVzW4,ಕೆಎಫ್ಸಿ,keephsi,ke'ephsi
+maa,maa:places:ChIJf0kAQ8-LUjoRGlzvYts1FYI,ಪಾಂಡಿಯನ್ ಹೋಟೆಲ್,pamdiyan hotel,pandiyan hotel
+maa,maa:places:ChIJJ9_76VaLUjoR-OS_ZLq6rq4,ಕಿಂಗ್ಸ್ ಧಬ,kimgs dhaba,kings dhaba
+maa,maa:places:ChIJYb8wqxmLUjoR58vdr4pIp1s,"ವಿ.ಕೆ ಅವೆನ್ಯೂ ಎಕ್ಸ್ಟೆನ್ಷನ್ , ಶಕ್ತಿ ನಗರ ಪೂನಮಲ್ಲಿ","vi.ke avenyu ekstensan , sakti nagara punamalli","vi.ke aven'yu ekstensan , sakti nagara punamalli"
+maa,maa:places:ChIJg5i3cmmKUjoRLiLLS5k6liQ,சஃபா ஃபுட்வேர்,jhafa fudhver,cahpa hputver
+maa,maa:places:ChIJeTw-Ps1hUjoR8Bj9gX9-eKw,ಮಲ್ಲಿಜ್ ರೆಸ್ಟೋರೆಂಟ್,mallij restoremt,mallij restorent
+maa,maa:places:ChIJ4y16kMphUjoRZLBIpaX7-X8,ಕೆನಾನ್ ಜೂಸ್ ಅಂಡ್ ಚಾಟ್ ಸೆಂಟರ್,kenan jus amd cat semtar,kenan jus and cat sentar
+maa,maa:places:ChIJBUirvs1hUjoRml1F15TYp1s,ரஸியா ஸ்டோர்,rasiya sdhor,rasiya stor
+maa,maa:places:ChIJJwqx9rBhUjoRjoUNrSjBzKc,ಹೋಟೆಲ್ ಪಾಂಡಿಯನ್,hotel pamdiyan,hotel pandiyan
+maa,maa:places:ChIJK9es_MZhUjoRz7sGCodbj88,ಸೌಂದರ್ಯ ಹೋಟೆಲ್,saumdarya hotel,saundarya hotel
+maa,maa:places:ChIJXbIASjZgUjoReAmgo99gi5E,டிபன் & பிரியாணி,dhibhan & bhiriyani,tipan & piriyani
+maa,maa:places:ChIJjUDDWjZgUjoR3JnAKC3GWwE,நியூ அபூர்வா ஸ்வீட்ஸ் & பேக்கரி,niyu abhurva svidhs & bheghghari,niyu apurva svits & pekkari
+maa,maa:places:ChIJazDe97VhUjoR6MD6hUOrs5c,உமாபதி மாவு மில்,umabhadhi mavu mil,umapati mavu mil
+maa,maa:places:ChIJXYchcnhhUjoR_5JEXEUOauA,ಕೆಎಫ್ಸಿ,keephsi,ke'ephsi
+maa,maa:places:ChIJlyWxihxhUjoRQ8Rpw-wcFEQ,ಟನ್ ಕಿಯಾಂಗ್,tan kiyamg,tan kiyang
+maa,maa:places:ChIJJ-wapaxhUjoR7vcDjy4xMc8,குபேரன் செட்டிநாடு உணவகம்,ghubheran jhedhdhinadhu unavagham,kuperan cettinatu unavakam
+maa,maa:places:ChIJh7Ep2FJgUjoR_yAnSe9Gl6Y,அந்தோணி சப்ளையர்ஸ்,andhoni jhabhlaiyars,antoni caplaiyars
+maa,maa:places:ChIJMb2_HhxhUjoR0SHFwIckH-U,ಅಮ್ಮ ಉಣವಗಂ,amma unavagam,am'ma unavagam
+maa,maa:places:ChIJgwgZ3uFgUjoRuYzR3aPxv0I,நவீன் புரவிஷன்,navin bhuravisan,navin puravisan
+maa,maa:places:ChIJ-8qNVS5hUjoRw7cod6Jvww0,ನ್ಯೂ ಆಂಧ್ರ ಮೀಲ್ಸ್ ಹೋಟೆಲ್,nyu amdhra mils hotel,n'yu andhra mils hotel
+maa,maa:places:ChIJAQAAvJlvUjoR9JSdBWaq3kk,ಶ್ರೀ ಕೃಷ್ಣ ಸ್ವೀಟ್ಸ್,sriೕ krsna sviೕts,sri krsna svits
+maa,maa:places:ChIJKW3DGSdnUjoRBIjsY9OzsGQ,ಅಮ್ಮ ಉಣವಗಂ,amma unavagam,am'ma unavagam
+maa,maa:places:ChIJ7XOve9hmUjoRHrLpTPc1rPI,ಸ್ಗ್ಸ್ ಸ್ನ್ಯಾಕರ್ಸ್,sgs snyakars,sgs sn'yakars
+maa,maa:places:ChIJaWoydNdmUjoRaby88pf4AxI,ನ್ಯೂ ಹೈದರಾಬಾದ್ ಬಿರಿಯಾನಿ,nyu haidarabad biriyani,n'yu haidarabad biriyani
+maa,maa:places:ChIJAXbSuCFnUjoR47fO9pfHiVc,ಪಪ್ರಿಕಾಶ್ ರೆಸ್ಟೋರೆಂಟ್,paprikas restoremt,paprikas restorent
+maa,maa:places:ChIJ-SWKKiBnUjoRa0uog6yWq9E,ಪಾಮ್ಶೋರ್ ರೆಸ್ಟೋರೆಂಟ್ ಅಶೋಕ್ ನಗರ,pamsor restoremt asok nagara,pamsor restorent asok nagara
+maa,maa:places:ChIJKVtDfShnUjoRazOrGp90VUU,திவ்யா ஸ்டோர்,dhivya sdhor,tivya stor
+maa,maa:places:ChIJMbYJuPtmUjoRc2hG5R8ircA,Sri Sathaiah Chettinad Hotel 🛏️🏨,sri sathaiah chettinad hotel 🛏️🏨,sri sathaiah chettinad hotel 🛏🏨
+maa,maa:places:ChIJExE7tjZmUjoRqiafc3IqDO4,ಬೆಂಜರಾಂಗ್ - ಥಾಯ್ ರೆಸ್ಟೋರೆಂಟ್,bemjaramg - thay restoremt,benjarang - thay restorent
+maa,maa:places:ChIJ8_0VOE5mUjoR8J_umvn5vtA,10 ಡೌನಿಂಗ್ ಸ್ಟ್ರೀಟ್,10 daunimg strit,10 dauning strit
+maa,maa:places:ChIJy-irW8hnUjoRFpmf6nYN_xc,ಎಅತಲಿಚಾ,eatalica,e'atalica
+maa,maa:places:ChIJedv0TLJnUjoRwuO0-N5NaPw,ಮೈನ್ಲ್ಯಾಂಡ್ ಚೀನಾ ರೆಸ್ಟೋರೆಂಟ್,mainlyamd cina restoremt,mainlyand cina restorent
+maa,maa:places:ChIJVVVVVVZmUjoRG6hlaQMNZZc,ನ್ಯೂ ಆಂಧ್ರ ಮೀಲ್ಸ್ ಹೋಟೆಲ್,nyu amdhra mils hotel,n'yu andhra mils hotel
+maa,maa:places:ChIJLybxCa5nUjoRGX6FIM9dOuA,ಪ್ಯಾಡಿಂಗ್ಟನ್ ಸ್ಪೋರ್ಟ್ಸ್ ಪಬ್,pyadimgtan sports pab,pyadingtan sports pab
+maa,maa:places:ChIJw7BJUFFmUjoRH5VP5QDJSAk,ಮೂನ್ಲೈಟ್ ಟೇಕ್ಅವೇ ಅಂಡ್ ಡೆಲಿವರಿ,munlait tekave amd delivari,munlait tekave and delivari
+maa,maa:places:ChIJRzgWmTVmUjoR4WqmZ8EJA9A,ಟ್ಯಾಂಗರಿನ್ ಸೈಜ್ ಸ್ಟೀಕ್ ಅಂಡ್ ಮೋರ್,tyamgarin saij stik amd mor,tyangarin saij stik and mor
+maa,maa:places:ChIJoYfe-9JnUjoRAGNXkwmVDag,ಅಡ್ಯಾರ್ ಆನಂದ ಭವನ,adyar anamda bhavana,adyar ananda bhavana
+maa,maa:places:ChIJW4w2OE5mUjoReen0CipnRns,ಅಮರಾವತಿ ರೆಸ್ಟೋರೆಂಟ್,amaravati restoremt,amaravati restorent
+maa,maa:places:ChIJbXQjTi5mUjoRlQmebSTglKQ,ಅಂಜಪ್ಪರ್ ಚೆಟ್ಟಿನಾಡ್ ರೆಸ್ಟೋರೆಂಟ್ ಆರ್ ಕೆ ಸಾಲೈ,amjappar cettinad restoremt ar ke salai,anjappar cettinad restorent ar ke salai
+maa,maa:places:ChIJ_____yxmUjoRat4gP3B7NQU,ಸ್ಕೈ ಬ್ಲೂ ರೆಸ್ಟೋರೆಂಟ್,skai blu restoremt,skai blu restorent
+maa,maa:places:ChIJbcOvtdNnUjoRI48sD_HTb_k,ನಮ್ಮ ವೀಡು ವಸಂತ ಭವನ್,namma vidu vasamta bhavan,nam'ma vidu vasanta bhavan
+maa,maa:places:ChIJ96C_ENNnUjoRab43M7zZNo4,ದಿ ಗ್ರ್ಯಾಂಡ್ ಸ್ವೀಟ್ಸ್ ಅಂಡ್ ಸ್ನಾಕ್ಸ್,di gryamd svits amd snaks,di gryand svits and snaks
+maa,maa:places:ChIJS3JpRtJnUjoRtPIQDx2tRM0,ಸಂಗೀತ ರೆಸ್ಟೋರೆಂಟ್ಸ್,samgita restoremts,sangita restorents
+maa,maa:places:ChIJ6022wtJnUjoRijAPLQBxu4E,ಸೆಂಥಿಲ್ ಸಾಫ್ಟಿ ಝೋನ್,semthil saphti jhon,senthil saphti jhon
+maa,maa:places:ChIJdTYbMi1mUjoRD-Ag7Rv5Fwk,ಸ್ಯಾಂಡ್ವಿಚ್ ಸ್ಕ್ವೇರ್ ಇನ್ ಮೈಲಾಪುರ,syamdvic skver in mailapura,syandvic skver in mailapura
+maa,maa:places:ChIJn9cOwddnUjoRmqvtYqfJU1s,அம்மா உணவகம்,amma unavagham,am'ma unavakam
+maa,maa:osm:osm_6313846485,பாரதி மெஸ்,bharadhi mes,parati mes
+maa,maa:osm:osm_9489057178,அன்னை அடுப்பங்கரை,annai adhubhbhangharai,annai atuppankarai
+mys,mys:places:ChIJ7_HCyNFprzsRAbWRMynqk2M,ಕೋಸ್ಟಲ್ ಗ್ರ್ಯಾಂಡ್ ರೆಸ್ಟೋರೆಂಟ್,kostal gryamd restoremt,kostal gryand restorent
+mys,mys:places:ChIJ0c1PYHpprzsR94x6mp0pK8M,ವಿಜಯಲಕ್ಷ್ಮಿ ಪಾನಿಪುರಿ ಸೆಂಟರ್,vijayalaksmi panipuri semtar,vijayalaksmi panipuri sentar
+mys,mys:places:ChIJIWzS8ARprzsRF5e5qPXj0X8,ಮಣಿಕಾಂತ,manikamta,manikanta
+mys,mys:places:ChIJE1xKlFJvrzsRpLxXBVli-zg,ರೆಸ್ಟೋರೆಂಟ್ ಅಂಡ್ ಬಾರ್,restoremt amd bar,restorent and bar
+mys,mys:places:ChIJL1vtG31lrzsRbAMuXFoPtcc,ಪಟೇಲ್ ಗಾರ್ಡೇನಿಯಾ - ಮಲ್ಟಿಕ್ಯುಸಿನ್ ರೆಸ್ಟೋರೆಂಟ್,patel gardeniya - maltikyusin restoremt,patel gardeniya - maltikyusin restorent
+mys,mys:places:ChIJSdVJt9FlrzsReg5fWqkxwig,ಮಾಷಲ್ಲಾಹ ನಾನ್ವೆ ಜ್ ಸೆಂಟರ್,masallaha nanve j semtar,masallaha nanve j sentar
+mys,mys:places:ChIJ4-qUkw9lrzsRO1ngNcfJ-Vo,ಅಂಜಲಿ ಟಿಫಾನಿಸ್,amjali tiphanis,anjali tiphanis
+mys,mys:places:ChIJD5_MCwRvrzsR01pCVKv1bfQ,ಶ್ರೀ ಚಾಮುಂಡೇಶ್ವರಿ ಬಾರ್ & ರೆಸ್ಟೋರೆಂಟ್,sri camumdesvari bar & restoremt,sri camundesvari bar & restorent
+mys,mys:places:ChIJccwLgJlvrzsRggB9iyhr2yo,ನ್ಯೂ ಸ್ಟಾರ್ ಹೋಟೆಲ್,nyu star hotel,n'yu star hotel
+mys,mys:places:ChIJUwOyRhRlrzsREw5PT4xkNmE,ಚಿಂತನ,cimtana,cintana
+mys,mys:places:ChIJX8UcSGJlrzsRkXlfJYW51cQ,ಶಾರ್ಪ್ ಚುರ್ಮುರಿ ಸೆಂಟರ್,sarp curmuri semtar,sarp curmuri sentar
+mys,mys:places:ChIJdZ_X7GFlrzsRJ463WP7OmAM,ಶ್ರೀ ಕಂಠೇಶ್ವರ ಬಾರ್ & ರೆಸ್ಟೋರೆಂಟ್,sri kamthesvara bar & restoremt,sri kanthesvara bar & restorent
+mys,mys:places:ChIJS1f6YoBvrzsRMc3sRBmeR2U,ಶಮ್ಮಾಸ್ ಮಲಬಾರ್ ಹೋಟೆಲ್,sammas malabar hotel,sam'mas malabar hotel
+mys,mys:places:ChIJjXc5eZNvrzsREjoqmW5CJ8w,ತಾಜ್ ಎಂಟರ್ಪ್ರೈಸಸ್,taj emtarpraisas,taj entarpraisas
+mys,mys:places:ChIJ7T1BYhdvrzsRSDhOV3NzB2I,ಕೇರಳ ಫುರಾ ಹರೀಶ್ ಹಿಂದ್ ಮಿಲ್ಟ್ರಿ ಹೋಟೆಲ್,kerala phura haris himd miltri hotel,kerala phura haris hind miltri hotel
+mys,mys:places:ChIJ5WxPtsZvrzsR21uszmE1CQo,ಶ್ರೀ ಚಾಮುಂಡಿ ಕೃಪಾ,sri camumdi krpa,sri camundi krpa
+mys,mys:places:ChIJUSKwqcZvrzsRyCVu8qGEcEw,ಹೋಟೆಲ್ ಶ್ರೀ ಚಾಮುಂಡೇಶ್ವರಿ ಕೃಪಾ,hotel sri camumdesvari krpa,hotel sri camundesvari krpa
+mys,mys:places:ChIJUwRezChlrzsRLX7csks5Z7w,ಫಿಶ್ ಸ್ಟಾಲ್ (ಗವರ್ನ್ಮೆಂಟ್),phis stal (gavarnmemt),phis stal (gavarnment)
+mys,mys:places:ChIJ1VTJhE17rzsRpNILOCvlLyA,ವೈಷ್ಣವಿ ಫುಡ್ ಅಂಡ್ ನೀಡ್ಸ್,vaisnavi phud amd nids,vaisnavi phud and nids
+mys,mys:places:ChIJWVNnt6llrzsRdRzm5tBOGQs,ಕಿಂಗ್ ಆಫ್ ಬಂಗಾರಪೇಟೆ ಪಾನಿ ಪುರಿ & ಚಾಟ್ಸ್,kimg aph bamgarapete pani puri & cats,king aph bangarapete pani puri & cats
+mys,mys:places:ChIJAZ6j0DFlrzsRyXv1Etck7ss,ನಳಪಾಕ್ ರೆಸ್ಟೋರೆಂಟ್,nalapak restoremt,nalapak restorent
+mys,mys:places:ChIJObNtbLN6rzsRmClfrg8sdVU,Nisarga Organics ನಿಸರ್ಗ ಸಾವಯವ & ನೈಸರ್ಗಿಕ,nisarga organics nisarga savayava & neೖsargika,nisarga organics nisarga savayava & naisargika
+mys,mys:places:ChIJfx1gFU9lrzsRQSxP4VIu9To,ನ್ಯೂ ಸಾಯಿ ರಾಮ್ ಹಾಟ್ ಚಿಪ್ಸ್,nyu sayi ram hat cips,n'yu sayi ram hat cips
+mys,mys:places:ChIJA5jDovhvrzsRLSb4tCVZ_no,ಶೆಲ್ ಪೆಟ್ರೋಲ್ ಪಂಪ್,sel petreuೕl pamp,sel petrol pamp
+mys,mys:places:ChIJP9KioPxvrzsRVVPtyuXRODY,ಹೋಟೆಲ್ ಅನ್ನಪೂರ್ಣ,heuೕtel annapurna,hotel annapurna
+mys,mys:places:ChIJ2yuuLeZvrzsRagFKeinHY8o,ನಿತಿನ್ ಚಿಕನ್ ಸೆಂಟರ್,nitin cikan semtar,nitin cikan sentar
+mys,mys:places:ChIJDw8-DB5wrzsRKlKDRILAklk,ಮೀನು ಕರಿ ರೈಸ್,miೕnu kari reೖs,minu kari rais
+mys,mys:places:ChIJ2bgIce9vrzsREUK21oqned8,ಸೂರ್ಯ ಫಾಸ್ಟ್ ಫುಡ್ (ಮೊಬೈಲ್ ಕ್ಯಾಂಟೀನ್),surya phast phud (mobail kyamtin),surya phast phud (mobail kyantin)
+mys,mys:places:ChIJqQJJY81xrzsRYl2IH3popoA,ರಸಮಯ ಸಸ್ಯಾಹಾರಿ ರೆಸ್ಟೋರೆಂಟ್,rasamaya sasyahari restoremt,rasamaya sasyahari restorent
+mys,mys:places:ChIJDZOYtqRxrzsRW0XWzdfVxD0,ಕಸ್ತೂರಿ ನಿವಾಸ ಸಸ್ಯಾಹಾರಿ ರೆಸ್ಟೋರೆಂಟ್,kasturi nivasa sasyahari restoremt,kasturi nivasa sasyahari restorent
+mys,mys:places:ChIJyZWhZCdwrzsRnE4nS1yIFGA,ಜಯಚಾಮರಾಜರ್ ಒಡೆಯರ್ ಗಾಲ್ಫ್ ಕೋರ್ಸ್ ರೆಸ್ಟೋರೆಂಟ್ ಅಂಡ್ ಸ್ಟೇ,jayacamarajar odeyar galph kors restoremt amd ste,jayacamarajar odeyar galph kors restorent and ste
+mys,mys:places:ChIJWfNZt_NxrzsRmBdCmZgpVyE,ಸೌಥರ್ನ್ ಸ್ಪೈಸ್ ಫ್ಯಾಮಿಲಿ ರೆಸ್ಟೋರೆಂಟ್,sautharn spais phyamili restoremt,sautharn spais phyamili restorent
+mys,mys:places:ChIJlVkKO9RvrzsRnfsyKW3sP_A,ನೈದಿಲೆ ವೆಜಿಟೇರಿಯನ್ ರೆಸ್ಟೋರೆಂಟ್ ( ಎಂಟಿಸಿ ಕ್ಯಾಂಟೀನ್),naidile vejiteriyan restoremt ( emtisi kyamtin),naidile vejiteriyan restorent ( entisi kyantin)
+mys,mys:places:ChIJ77j_pjB7rzsR6G1TgVvt218,ಶ್ರೀ ಕಬ್ಬಾಳಮ್ಮ ಪ್ರಾವಿಷನ್ ಸ್ಟೋರ್,sri kabbalamma pravisan stor,sri kabbalam'ma pravisan stor
+mys,mys:places:ChIJvYxGHQB7rzsRd0cMLzwyW8c,ರಾಘವೇಂದ್ರ ಹೋಟೆಲ್ ವೆಜ್,raghavemdra hotel vej,raghavendra hotel vej
+mys,mys:places:ChIJW7CaGdx6rzsRH5g2hUgizGc,ಈಗಲ್ ಫ್ಯಾಂಟಸಿ,igal phyamtasi,igal phyantasi
+mys,mys:places:ChIJLdhbhd56rzsRIYfDC7OletI,ಬೈಪಾಸ್ ಕೊಸ್ಟಲ್ ಪರ್ಲ್ ರೆಸ್ಟೋರೆಂಟ್,beೖpas kostal parl restoremt,baipas kostal parl restorent
+mys,mys:places:ChIJ9QN58NF6rzsR1YwzVWgGVXM,ರಾಯಲ್ ಎಂಟರ್ ಪ್ರೈಸಸ್,rayal emtar praisas,rayal entar praisas
+mys,mys:places:ChIJ2xbWU8F6rzsR75SgRahFbds,ಹೋಟೆಲ್ ಅಂಕಲ್ ಲೋಬೋಸ್ - ಸುಗ್ಗಿ ಮನೆ,hotel amkal lobos - suggi mane,hotel ankal lobos - suggi mane
+mys,mys:places:ChIJu3O59Yt7rzsRzlczSF0SwpA,ಪಾನಿ ಪುರಿ ಸೆಂಟರ್,pani puri semtar,pani puri sentar
+mys,mys:places:ChIJHTKjF-J7rzsRQRio57D0fck,ಮಧ್ವಸ್ ರೋಟಿ ಪಾಯಿಂಟ್,madhvas roti payimt,madhvas roti payint
+mys,mys:places:ChIJPbOeSlh7rzsR1FnmSG7OUaU,ಕಿಟ್ಟಿ ಪಾನಿ ಪುರಿ ಸೆಂಟರ್,kitti pani puri semtar,kitti pani puri sentar
+mys,mys:places:ChIJL6OwzZd7rzsRXWFsHw9vZKQ,ಮಂಜಣ್ಣ ಹೋಟೆಲ್,mamjanna hotel,manjanna hotel
+mys,mys:places:ChIJj-AyM0tlrzsRf-qVnEYjf5I,ಶ್ರೀ ಚಾಮುಂಡೇಶ್ವರಿ ಫಾಸ್ಟ್ ಫುಡ್,sri camumdesvari phast phud,sri camundesvari phast phud
+mys,mys:places:ChIJZXMXyQNwrzsRw-Juon74X24,ಅಮೃತ ವೆಜ್ ರೆಸ್ಟೋರೆಂಟ್,amrta vej restoremt,amrta vej restorent
+mys,mys:places:ChIJIU82gwZwrzsRohZQg5acHDs,ಪೂಜಾರಿಯವರ ಫಿಶ್ ಲ್ಯಾಂಡ್ (ಮಂಗಳೂರು ಶೈಲಿ),pujariyavara phis lyamd (mamgaluru saili),pujariyavara phis lyand (mangaluru saili)
+mys,mys:places:ChIJ5-YbHARwrzsRePG5gGz7dT0,ಯೋಗಿಕ್ ಸಪ್ಲೈಸ್ & ಆರ್ಗಾನಿಕ್ ಹೋಮ್ಸ್ಟೈಲ್ ರೆಸ್ಟೋರೆಂಟ್,yogik saplais & arganik homstail restoremt,yogik saplais & arganik homstail restorent
+mys,mys:places:ChIJYWkOUwhwrzsRHDJnY81V818,ಜಲ್ಪಾನ್ ಡೈನಿಂಗ್ ಸಾಗಾ ಸಸ್ಯಾಹಾರಿ ರೆಸ್ಟೋರೆಂಟ್,jalpan dainimg saga sasyahari restoremt,jalpan daining saga sasyahari restorent
+mys,mys:places:ChIJbRPiewVwrzsRlkZ779Vb2JU,ಅಯ್ಯಂಗಾರ್ಸ್,ayyamgars,ayyangars
+mys,mys:places:ChIJVewlSgxwrzsRErNlBl_7tp0,ಹೈ ಪಾರ್ಕ್ - ರೆಸ್ಟೋರೆಂಟ್ & ಬಾರ್,heೖ park - resteuೕremt & bar,hai park - restorent & bar
+mys,mys:places:ChIJYwvcHRRwrzsRuWLvbn9tgpE,ಹೋಟೆಲ್ ರೂಪಾ,heuೕtel rupa,hotel rupa
+mys,mys:places:ChIJ5TNY2xNwrzsRkJ098F29OZ0,ಹೋಟೆಲ್ ಅರಮನೆ ಪ್ಲಾಜಾ,heuೕtel aramane plaja,hotel aramane plaja
+mys,mys:places:ChIJwdPcbz5wrzsRtGbKwYqbe5g,ಹೋಟೆಲ್ ಸಿದ್ಧಾರ್ಥ,heuೕtel siddhartha,hotel sid'dhartha
+mys,mys:places:ChIJcQBuzxNwrzsR4p6_q_yiHMA,ಪೆವಿಲಿಯನ್ ಬಾರ್ & ರೆಸ್ಟೋರೆಂಟ್,peviliyan bar & restoremt,peviliyan bar & restorent
+mys,mys:places:ChIJSe-4Hy9wrzsRdqM_uSTzkks,ವರುಣ್ ಟಿಫಾನೀಸ್ ಸೆಂಟರ್,varun tiphanis semtar,varun tiphanis sentar
+mys,mys:places:ChIJfbY7zBtxrzsRMl-IN-uo_8M,Bangalore Bhel House ಬೆಂಗಳೂರು ಬೇಲ್ ಹೌಸ್,bangalore bhel house bemgaluru bel haus,bangalore bhel house bengaluru bel haus
+mys,mys:places:ChIJqQnm389xrzsR4BLQdPBjIAQ,ಶ್ರೀ ಚಾಮುಂಡೇಶ್ವರಿ ಫ್ಲೋರ್ ಮಿಲ್,sri camumdesvari phlor mil,sri camundesvari phlor mil
+mys,mys:places:ChIJEVx-Q6h7rzsRPKsZQ8Y0szU,ಶ್ರೀ ಸಾಯಿ ಬಂಗಾರಪೇಟೆ ಪಾನಿಪುರಿ ಅಂಡ್ ಚಾಟ್ಸ್,sri sayi bamgarapete panipuri amd cats,sri sayi bangarapete panipuri and cats
+mys,mys:places:ChIJH9bNv_F6rzsR8s8N2vguR6M,ಬೋಪಿಸ್ ರೆಸ್ಟೋರೆಂಟ್ ಬಾರ್ & ಪಬ್,bopis restoremt bar & pab,bopis restorent bar & pab
+mys,mys:places:ChIJu_VRPPJ6rzsRd4VmHpunBgQ,ಹೋಟೆಲ್ ಗ್ರೀನ್ ಫುಡ್ ಕೋರ್ಟ್,heuೕtel griೕn phud keuೕrt,hotel grin phud kort
+mys,mys:places:ChIJ_-AnyvB6rzsRu6WkA9w-S3s,ಶೆಲ್ ಪೆಟ್ರೋಲ್ ಪಂಪ್,sel petreuೕl pamp,sel petrol pamp
+mys,mys:places:ChIJ3VBuDIZ6rzsRvv8VnE-7TKw,ಸೂತ್ರ ಬಿಸ್ಟ್ರೋ,sutra bistreuೕ,sutra bistro
+mys,mys:places:ChIJlfoRR-B6rzsRnkMKlXFvWv0,ಲೋಬೊ ಕೋರ್ಟ್ಯಾರ್ಡ್ - ಬಹು ತಿನಿಸು ಗಾರ್ಡನ್ ರೆಸ್ಟೋರೆಂಟ್,leuೕbeu keuೕrtyard - bahu tinisu gardan resteuೕremt,lobo kortyard - bahu tinisu gardan restorent
+mys,mys:places:ChIJT4lzhvt6rzsRubtu-bnkwUk,ಕೊಕೊ ಗ್ರೂವ್,keukeu gruv,koko gruv
+mys,mys:places:ChIJb7nOru96rzsR_P2ITzxDlUk,ಪವಿತ್ರ ಗೋಬಿ ಸೆಂಟರ್,pavitra gobi semtar,pavitra gobi sentar
+mys,mys:places:ChIJ_U_LnNt6rzsR84R5nNquGhs,ಶ್ರೀ ಬ್ರಹ್ಮಅಂಗೇಶ್ವರ ಫಾಸ್ಟ್‌ಫುಡ್,sri brahmaamgesvara phast‌phud,sri brahma'angesvara phast‌phud
+mys,mys:places:ChIJa1Cx24x6rzsRIHOkVBgEFpA,ಮೆಜ್ಜಲೂನ ಇಂಡಿಯನ್ & ಕಾಂಟಿನೆಂಟಲ್ ರೆಸ್ಟೋರೆಂಟ್,mejjaluna imdiyan & kamtinemtal restoremt,mejjaluna indiyan & kantinental restorent
+mys,mys:places:ChIJj1Jbyo96rzsRoMub0qHVhKU,ಧಾತು ಆರ್ಗಾನಿಕ್ಸ್ & ನ್ಯಾಚುರಲ್ಸ್,dhatu arganiks & nyacurals,dhatu arganiks & n'yacurals
+mys,mys:places:ChIJYSaF3456rzsRgvC3-3Bv6t0,ಗೋಲಿ ವಡಾ ಪಾವ್ ನಂ .1 - ಮೈಸೂರು,geuೕli vada pav nam .1 - meೖsuru,goli vada pav nam .1 - maisuru
+mys,mys:places:ChIJD0_KJKJ7rzsRJZKG6ucq62g,ಕೆಎಫ್ಸಿ,keephsi,ke'ephsi
+mys,mys:places:ChIJqbSAc4V6rzsRBE3csx4BIBI,ಕ್ಯಾಸಿನೊ ಪಾರ್ಕ್ ರೆಸ್ಟೋರೆಂಟ್,kyasineu park resteuೕremt,kyasino park restorent
+mys,mys:places:ChIJ1Shm2Y96rzsRHYs98Ju8m7M,ಎಂಪೈರ್ ರೆಸ್ಟೋರೆಂಟ್ - ಮೈಸೂರು,empair restoremt - maisuru,empair restorent - maisuru
+mys,mys:places:ChIJ49mnXo56rzsRc-hEdCyn0ME,ಎಸ್ ಪಿ ಆರ್ ವೆಜ್ ರೆಸ್ಟೋರೆಂಟ್,es pi ar vej restoremt,es pi ar vej restorent
+mys,mys:places:ChIJx79CpAxwrzsRjUgmxGDg75s,ಹೋಟೆಲ್ ರಿಜೆಂಟ್,hotel rijemt,hotel rijent
+mys,mys:places:ChIJ0S9-0nZwrzsRPxWdRHdsAeQ,ಹೋಟೆಲ್ ಕ್ಯಾಸಿನೊ ಪಾರ್ಕ್,heuೕtel kyasineu park,hotel kyasino park
+mys,mys:places:ChIJl4n33QxwrzsRuYX5EqfZz34,ಹೋಟೆಲ್ ವಿಷ್ಣು ಭವನ,heuೕtel visnu bhavana,hotel visnu bhavana
+mys,mys:places:ChIJr-criG1wrzsRxkXJSQy-9OE,ಹೋಟೆಲ್ ಹನುಮಂತು ಒರಿಜಿನಲ್ ಸಿನ್ಸ್ 1930,hotel hanumamtu orijinal sins 1930,hotel hanumantu orijinal sins 1930
+mys,mys:places:ChIJNWuFj2twrzsRG-OGlac7FuU,ಹೋಟೆಲ್ ಪ್ರೀತಿ ಇಂಟರ್ನ್ಯಾಷನಲ್,hotel priti imtarnyasanal,hotel priti intarn'yasanal
+mys,mys:places:ChIJ7fY2FGpwrzsRfrFLDEvTIqQ,ದಿ ಟೆರೇಸ್ ಗ್ರಿಲ್ & ತಂದೂರ್,di teres gril & tamdur,di teres gril & tandur
+mys,mys:places:ChIJS7vnFgBxrzsRGS6tSjU6pFQ,ಅಂಬು ಬಜ್ಜಿ ಬೋಂಡಾ ಕಾರ್ನರ್,ambu bajji bomda karnar,ambu bajji bonda karnar
+mys,mys:places:ChIJJ-jptaR7rzsRPH_tVDZG4jY,ನಾಟಿ ಮನೆ ರೆಸ್ಟೋರೆಂಟ್,nati mane restoremt,nati mane restorent
+mys,mys:places:ChIJSz6_nDF7rzsRc0RW_rLwW44,SRI RAGHAVENDRA TIFFANIS - ಶ್ರೀ ರಾಘವೇಂದ್ರ ಟಿಫಾನಿಸ್,sri raghavendra tiffanis - sri raghavemdra tiphanis,sri raghavendra tiffanis - sri raghavendra tiphanis
+mys,mys:places:ChIJ4y15m2B6rzsRauFhJqqYpr8,ಪರ್ಪಲ್ ಹೇಜ್ ಮೈಸೂರು,parpal heೕj meೖsuru,parpal hej maisuru
+mys,mys:places:ChIJrWuzVfV6rzsRDvpOdcbn81A,ಆಯ್ಸ್ಟರ್ ಬೇ,aystar beೕ,aystar be
+mys,mys:places:ChIJE923XF56rzsRSSTGWBhnhmE,"ಹೈದರಾಬಾದ್ ಬಿರಿಯಾನಿ ಮನೆ, ಮೈಸೂರು","heೖdarabad biriyani mane, meೖsuru","haidarabad biriyani mane, maisuru"
+mys,mys:places:ChIJFwAxR156rzsRvf72bLUVSB4,ಕೆಫೆ ಗ್ರ್ಯಾಂಡ್ ರೆಸ್ಟೋರೆಂಟ್,kephe gryamd restoremt,kephe gryand restorent
+mys,mys:places:ChIJzeQzO156rzsRs9MfnBDwd3o,ಲೆಮನ್ ತ್ರೀ ರೆಸ್ಟೋರೆಂಟ್,leman tri restoremt,leman tri restorent
+mys,mys:places:ChIJV_LG1Vd6rzsRAhAKXtlijuc,ಶ್ರೀ ಮಲೆ ಮಹದೇಶ್ವರ ನಂದಿನಿ ಕೇಂದ್ರ,sri male mahadesvara namdini kemdra,sri male mahadesvara nandini kendra
+mys,mys:places:ChIJ4biVYH16rzsRlTS3BzIj1bc,ಚಕ್ರ ಹೌಸ್ - ಜೀವನ ಯೋಗ ಶಿಕ್ಷಕರ ತರಬೇತಿ ಕೇಂದ್ರ,cakra haus - jiೕvana yeuೕga siksakara tarabeೕti keೕmdra,cakra haus - jivana yoga siksakara tarabeti kendra
+mys,mys:places:ChIJXRWy5Id6rzsRsx6_Lb6StKM,"ಸಂತೋಷ ಕೆಫೆ, ಮೈಸೂರು","samtosa kephe, maisuru","santosa kephe, maisuru"
+mys,mys:places:ChIJfS2fpoh6rzsRJBBYKYpN_qg,ಹೋಟೆಲ್ ಶ್ರೀ ದುರ್ಗಾ ಭವನ,heuೕtel sriೕ durga bhavana,hotel sri durga bhavana
+mys,mys:places:ChIJ_dyKzKp7rzsRlGvRbPMVKu8,Saviruchi Thindi Mane | ಸವಿರುಚಿ ತಿಂಡಿಮನೆ,saviruchi thindi mane | saviruci timdimane,saviruchi thindi mane | saviruci tindimane
+mys,mys:places:ChIJX4XISY9wrzsRGu8on_aZLM0,ಕಾರವನ್ ಫ್ಯಾಮಿಲಿ ರೆಸ್ಟೋರೆಂಟ್,karavan phyamili restoremt,karavan phyamili restorent
+mys,mys:places:ChIJBy1rEJJwrzsRg4fFxvUE884,ಎತಿಹಾಡ್ ಅರೇಬಿಯನ್ ರೆಸ್ಟೋರೆಂಟ್,etihad areೕbiyan resteuೕremt,etihad arebiyan restorent
+mys,mys:places:ChIJ6Y1b095xrzsRVKasN4I5ik0,ಶ್ರೀ ಗುರು ರಾಘವೇಂದ್ರ ಗೋಬಿ ಸೆಂಟರ್ Sri Guru Raganvendra Gobi Center,sri guru raghavemdra gobi semtar sri guru raganvendra gobi center,sri guru raghavendra gobi sentar sri guru raganvendra gobi center
+mys,mys:places:ChIJD6rFS6lxrzsRq3Plp9gmU1o,ಶ್ರೀ ಮಹಾಲಕ್ಷ್ಮೀ ರೆಸ್ಟೋರೆಂಟ್,sri mahalaksmi restoremt,sri mahalaksmi restorent
+mys,mys:places:ChIJM3Y_LvhxrzsRshCR5MjvVcY,ಎಸ್ಡಿ ಕಬಾಬ್ ಸೆಂಟರ್,esdi kabab semtar,esdi kabab sentar
+mys,mys:places:ChIJp_6jtjxxrzsRn4Y6awNVyj4,ಇಟಾಲಿಯನ್ ಕ್ರಂಚ್,italiyan kramc,italiyan kranc
+mys,mys:places:ChIJYYMgzBZ8rzsRxsZwReTLH4o,ಗ್ರೀನ್ ಲ್ಯಾಂಡ್ ದಾಭಾ,grin lyamd dabha,grin lyand dabha
+mys,mys:places:ChIJ50b380d9rzsRiqe86OUmytw,Udupi Restaurant - ಉಡುಪಿ ರೆಸ್ಟೋರೆಂಟ್,udupi restaurant - udupi restoremt,udupi restaurant - udupi restorent
+mys,mys:places:ChIJcRaoJw58rzsRtf5MS_mMCe4,ಶ್ರೀ ಚಾಮುಂಡೇಶ್ವರಿ ಬಿರಿಯಾನಿ ಕಾರ್ನರ್,sri camumdesvari biriyani karnar,sri camundesvari biriyani karnar
+mys,mys:places:ChIJV8UoPA58rzsRJQPXgbLDZNM,"ಸಂತೋಷ ಹಿಂದೂ ಮಿಲ್ಟ್ರಿ ಹೋಟೆಲ್, ಟೆಸ್ಟ್ ದಿ ಬೆಸ್ಟ್ ,","samtosa himdu miltri hotel, test di best ,","santosa hindu miltri hotel, test di best ,"
+mys,mys:places:ChIJE-I4ur97rzsR2kxrfYDNHBc,ಸಂಜಯ್ ಚಿಕನ್ ಶಾಪ್,samjay cikan sap,sanjay cikan sap
+mys,mys:places:ChIJcc-vdMd7rzsR9f9lJwhFZ1o,ಸಾಯಿ ನಗರಿ ಬಾರ್ & ರೆಸ್ಟೋರೆಂಟ್,sayi nagari bar & restoremt,sayi nagari bar & restorent
+mys,mys:places:ChIJrZLKLbB7rzsR2Ts2iEgFeKI,ಪಿ.ಕೆ.ಚಿಕನ್ ಸೆಂಟರ್,pi.ke.cikan semtar,pi.ke.cikan sentar
+mys,mys:places:ChIJX9VDzkd6rzsRdPHhtgFYVZQ,ಫಿಶ್ ಕರಿ ರೈಸ್,phis kari reೖs,phis kari rais
+mys,mys:places:ChIJFeyz4kZ6rzsR-oco7OLFI-I,ಹೋಟೆಲ್ ಕಲ್ಯಾಣಿ,heuೕtel kalyani,hotel kalyani
+mys,mys:places:ChIJ5-XeUBF7rzsRzX7RJx_QLlA,Mynaa chicken centre - ಮೈನಾ ಚಿಕನ್ ಸೆಂಟರ್,mynaa chicken centre - maina cikan semtar,mynaa chicken centre - maina cikan sentar
+mys,mys:places:ChIJS8-qEGx6rzsR25MgJyOAHIw,ಹೋಟೆಲ್ ನ್ಯೂ ತಾಜ್,hotel nyu taj,hotel n'yu taj
+mys,mys:places:ChIJq6Z4SqB7rzsRBkTB-xwhYO0,Namma Mess ನಮ್ಮ ಮೆಸ್,namma mess namma mes,namma mess nam'ma mes
+mys,mys:places:ChIJP5ffbb1wrzsROgwMIQ37zbg,ಪಂಜಾಬಿ ಫ್ಯಾಮಿಲಿ ಡಾಬಾ,pamjabi phyamili daba,panjabi phyamili daba
+mys,mys:places:ChIJxUXrLXJ6rzsRD4LuJf14XCU,ಅಪ್ಪಾಜಿ ರೆಸ್ಟೋರೆಂಟ್ ಮತ್ತು ಡಾಭ,appaji restoremt mattu dabha,appaji restorent mattu dabha
+mys,mys:places:ChIJLYI2PHFxrzsRDgEjPK68pys,ಡೆಲ್ಲಿ ದರ್ಬಾರ್ ಫ್ಯಾಮಿಲಿ ರೆಸ್ಟಾರೆಂಟ್,delli darbar phyamili restaremt,delli darbar phyamili restarent
+mys,mys:places:ChIJF9l2NI5wrzsRrTRrDXbCTeo,ರೂಟ್ ರೆಸ್ಟೋರೆಂಟ್ ಮೈಸೂರು,rut restoremt maisuru,rut restorent maisuru
+mys,mys:places:ChIJFVgFbENxrzsRejCkQCXgOXo,ಎನ್ ಎಚ್ ಕ್ಯಾಂಟೀನ್,en ec kyamtin,en ec kyantin
+mys,mys:places:ChIJ2f413Mx7rzsRkKkfbcLLDOQ,ಫ್ಲೋಟಿಂಗ್ ರೆಸ್ಟೋರೆಂಟ್ - ಇನ್ಫೋಸಿಸ್ ಲಿಮಿಟೆಡ್,phlotimg restoremt - inphosis limited,phloting restorent - inphosis limited
+mys,mys:places:ChIJZ1VFQDN6rzsRILpsNj1fyys,ಮಲ್ಟಿಪ್ಲೆಕ್ಸ್ ಫುಡ್ ಕೋರ್ಟ್,maltipleks phud keuೕrt,maltipleks phud kort
+mys,mys:places:ChIJX_eW7VR5rzsRqBget6xmA0Y,ಶ್ರೀ ಲಕ್ಷ್ಮೀ ವೆಂಕಟೇಶ್ವರ ಹಿಂದೂ ಮಿಲ್ಟ್ರಿ ಹೋಟೆಲ್,sri laksmi vemkatesvara himdu miltri hotel,sri laksmi venkatesvara hindu miltri hotel
+mys,mys:places:ChIJ1dujC717rzsRwrIrqIPeePo,ವಿಪಿನ್ ಚಾಟ್ ಸೆಂಟರ್,vipin cat semtar,vipin cat sentar
+mys,mys:places:ChIJ1dmBlxd6rzsR4-I0SYmWXSU,ಶ್ರೀ ಕಾಲಭೈರವೇಶ್ವರ ಕ್ಯಾಂಟೀನ್,sri kalabhairavesvara kyamtin,sri kalabhairavesvara kyantin
+mys,mys:places:ChIJPxit_C97rzsRWICLYiKbukI,ಮಂಜುನಾಥ ಉಪಹಾರ,mamjunatha upahara,manjunatha upahara
+mys,mys:places:ChIJUTN4KxJ6rzsRo9M6rZjQd3Y,ಬೃಂದಾವನ ಪಾರ್ಲರ್ ಹೋಟೆಲ್,brmdavana parlar hotel,brndavana parlar hotel
+mys,mys:places:ChIJp5v2IL9wrzsRTaUU3s1UnkU,ಚಕ್ರೇಶ್ವರಿ ಬಾರ್ & ರೆಸ್ಟೋರೆಂಟ್,cakresvari bar & restoremt,cakresvari bar & restorent
+mys,mys:places:ChIJL3S1ArlwrzsRTtta2UioYGc,ಎ1 ಪಂಜಾಬಿ ಢಾಭಾ,e1 pamjabi dhabha,e1 panjabi dhabha
+mys,mys:places:ChIJbaQRSr5wrzsR6wWq1cKU2R0,ಗ್ರೀನ್ ಪಾರ್ಕ್ ಫ್ಯಾಮಿಲಿ ರೆಸ್ಟೋರೆಂಟ್,grin park phyamili restoremt,grin park phyamili restorent
+mys,mys:places:ChIJTUc8FXd5rzsRePdipTLNzWw,ಡಿಕೆ ಶುದ್ಧ ಸಸ್ಯಾಹಾರಿ ಹೋಟೆಲ್,dike suddha sasyahari hotel,dike sud'dha sasyahari hotel
+mys,mys:places:ChIJ59deLaV5rzsRVG_FPZVvWtQ,ಅನಾಸ್ ರೆಸ್ಟೋರೆಂಟ್,anas restoremt,anas restorent
+mys,mys:places:ChIJ_6Rn2dl5rzsRl0jEk2wgUdc,ಪ್ಲಾನೆಟ್ ಫಿಶ್ ಲ್ಯಾಂಡ್,planet phis lyamd,planet phis lyand
+mys,mys:places:ChIJP04WOPB5rzsRtqKV6vhUxMc,ಸಂಯುಕ್ತ,samyukta,sanyukta
+mys,mys:places:ChIJ___Pm-B4rzsRXqkneH3aG7o,ರಾಯಲ್ ಆರ್ಕಿಡ್ ಬೃಂದಾವನ್ ಗಾರ್ಡನ್,rayal arkid brmdavan gardan,rayal arkid brndavan gardan
+mys,mys:places:ChIJM4OEbhZ5rzsR2G4rZ1wmsm4,ಕೇರಳಪುರದ ಹಿಂದೂ ಮಿಲಿಟರಿ ಹೋಟೆಲ್,keralapurada himdu militari hotel,keralapurada hindu militari hotel
+mys,mys:places:ChIJ2U_kpfl5rzsRqkmH5cTUF9I,ಕಾವೇರಮ್ಮ,kaveramma,kaveram'ma
+mys,mys:places:ChIJuzDtsBB5rzsR7R1BJkkTrGk,ಎಂಎಂಕೆ ಹೋಟೆಲ್,ememke hotel,emenke hotel
+mys,mys:places:ChIJg2fuBRp5rzsRE3d9BJD9vV4,ಹೋಟೆಲ್ ದಿ ಗ್ರ್ಯಾಂಡ್,hotel di gryamd,hotel di gryand
+blr2,blr2:places:ChIJzU6m3x0XrjsRSI7mImBjJO0,🌱ಬೆಂದಕಾಳು | Benda-Kalu,🌱bemdakalu | benda-kalu,🌱bendakalu | benda-kalu
+blr2,blr2:places:ChIJr-iCa5wXrjsRp1AbTerFvDg,Time Pause ⏯️ lingrajpuram,time pause ⏯️ lingrajpuram,time pause ⏯ lingrajpuram
+blr2,blr2:places:ChIJuZmrCh4UrjsRkGtJdCh4WfQ,Chung Wah Indiranagar 中華餐館,chung wah indiranagar 中華餐館,chung wah indiranagar zhong hua can guan
+blr2,blr2:places:ChIJz-mc4ms9rjsRHJEGRV13L2g,Sri Brahmasri Condiments ಶ್ರೀ ಬ್ರಹ್ಮಶ್ರೀ ಕಾಂಡಿಮೆಂಟ್ಸ್,sri brahmasri condiments sri brahmasri kamdimemts,sri brahmasri condiments sri brahmasri kandiments
+blr2,blr2:places:ChIJw-mHYhM9rjsRX-7oSeWMzvE,ನಂಜುಂಡೇಶ್ವರ ಹೋಟಲ್,namjumdesvara hotal,nanjundesvara hotal
+blr2,blr2:places:ChIJq6tYj6EZrjsRUItd7YUVFhs,ಶ್ರೀ ಹಂಪಿ ಹೋಮ್ ಮೇಡ್ ಟಿಫಿನ್,sri hampi heuೕm med tiphin,sri hampi hom med tiphin
+blr2,blr2:places:ChIJT97P7zI-rjsR9IT4JifBlPs,ನ್ಯಾಯ ಬೆಲೆ ಅಂಗಡಿ,nyaya bele amgadi,n'yaya bele angadi
+blr2,blr2:places:ChIJ8WugZAA_rjsRZHG9Itazbx8,ಬೀರೇಶ್ವರ ಚಿಕನ್ ಸೆಂಟರ್,biresvara cikan semtar,biresvara cikan sentar
+blr2,blr2:places:ChIJy_2uOvIVrjsRPmcde7ib-ak,ಮೇಘಾ'ಸ್ ಗ್ರ್ಯಾಂಡ್ ವೆಜ್ Megha's Grand Veg,megha's gryamd vej megha's grand veg,megha's gryand vej megha's grand veg
+blr2,blr2:places:ChIJF7Y7wIYVrjsRMpifk2f71Q0,হেঁশেল (Henshel),হেঁশেল (henshel),hemsela (henshel)
+blr2,blr2:places:ChIJw2nLJBsjrjsRmtKiMv8QukQ,ಅದಿಶಕ್ತಿ ಜಲಗೇರಮ್ಮ ದೇವಸ್ಥಾನ ರಸ್ತೆ,adisakti jalageramma devasthana raste,adisakti jalageram'ma devasthana raste
+blr2,blr2:places:ChIJ23dTsJU8rjsRxUy38Svi6jg,గంజరి వానిజనా సూరా,gamjari vanijana sura,ganjari vanijana sura
+blr2,blr2:places:ChIJvZ65X0gQrjsRtHGDeRZEggE,ನ್ಯೂ ಬಾಂಬ್ ಮಸಾಲ ಪೂರಿ ಸೆಂಟರ್,nyu bamb masala puri semtar,n'yu bamb masala puri sentar
+blr2,blr2:places:ChIJqeYVWQBrrjsRbq8DqpaUMzw,Sumangala paddu centre (ಸುಮಂಗಲ ಪಡ್ಡು ಸೆಂಟರ್),sumangala paddu centre (sumamgala paddu semtar),sumangala paddu centre (sumangala paddu sentar)
+blr2,blr2:places:ChIJ9cujXVo8rjsRffVP-S3n1iY,ದೀಕ್ಷಾ ಚಾಟ್ಸ್ ಮತ್ತು ಗೋಜ ಸಂಟ‌,diksa cats mattu goja samta‌,diksa cats mattu goja santa‌
+blr2,blr2:places:ChIJOaIjnW49rjsRIFPQWJMX3LA,Srinivasanagar Gobi Center ಶ್ರೀನಿವಾಸ ನಗರ ಗೋಬಿ ಸೆಂಟರ್,srinivasanagar gobi center srinivasa nagara gobi semtar,srinivasanagar gobi center srinivasa nagara gobi sentar
+blr2,blr2:places:ChIJ5Zj0SwA_rjsRclGIO5StGhM,ಬ್ರಹ್ಮಲಿಂಗೇಶ್ವರ ಟಿಫಿನ್ ಸೆಂಟರ್/Bramhalingeswara Tiffin Centre,brahmalimgesvara tiphin semtar/bramhalingeswara tiffin centre,brahmalingesvara tiphin sentar/bramhalingeswara tiffin centre
+blr2,blr2:places:ChIJfyyxQQAVrjsRGzWW9ONOLrY,ಶ್ರೀ ಚಾಮುಂಡೇಶ್ವರಿ ಚಿಕನ್ ಸೆಂಟರ್,sri camumdesvari cikan semtar,sri camundesvari cikan sentar
+del,del:places:ChIJBURKsCAQDTkRB1Ct_hHHWe0,टिंकू चिकन कॉर्नर,timku cikana kaॉrnara,tinku cikana kornara
+del,del:places:ChIJs_ZdxEUFDTkRDl62lFV282Y,मिथिला व्यंजन,mithila vyamjana,mithila vyanjana
+del,del:places:ChIJv6eSpIAQDTkRCV1AO7IY8PQ,डण्डियन मीट शॉप,dandiyana mita saॉpa,dandiyana mita sopa
+del,del:places:ChIJ6cTJ_RQbDTkRmj1yp759GhU,☪️Sunny sharma ki lugai Gunjan sharma ka ghar aur Asha Rani kirtan Vali. यहां पर सीवर और नालिया साफ की जाती है,☪️sunny sharma ki lugai gunjan sharma ka ghar aur asha rani kirtan vali. yaham para sivara aura naliya sapha ki jati hai,☪sunny sharma ki lugai gunjan sharma ka ghar aur asha rani kirtan vali. yaham para sivara aura naliya sapha ki jati hai
+del,del:places:ChIJT5cm8RAFDTkRv8qXThU65qM,अमन बैंड,amana baimda,amana bainda
+del,del:places:ChIJw3xwLADnDDkREHoeGI_5yDU,सुरेश सिंह हलवाई,suresa simha halavai,suresa sinha halava'i
+del,del:places:ChIJQcuuopcEDTkRfcYLpUoRJtk,साँई बर्गर भण्डार,sa~i bargara bhandara,sami bargara bhandara
+del,del:places:ChIJITif2VL7DDkRzaHTFRr4Lmk,श्री बालाजी ईटिंग कॉनर,sri balaji itimga kaॉnara,sri balaji itinga konara
+del,del:places:ChIJD4cHCwDhDDkR9cSCLMhrIGo,जे़या दालचीनी,jeya dalacini,jeya dalacini
+del,del:places:ChIJxQ4vxCKoDTkRppsn0SyaK18,नरवाल मलाई पनीर व मटर,naravala malai panira va matara,naravala mala'i panira va matara
+del,del:places:ChIJK0x1S5oGDTkR2onsdEdfA0w,गंगा फास्ट फूडस,gamga phasta phudasa,ganga phasta phudasa
+del,del:places:ChIJHY-i_3cFDTkR697ZmiT5Ivk,ओम फास्ट फूड कॉर्नर,oma phasta phuda kaॉrnara,oma phasta phuda kornara
+del,del:places:ChIJ9WsPnycBDTkRGBx4OqLB2fs,लंगर wala,lamgara wala,langara wala
+del,del:places:ChIJhS1OHBIHDTkRojregwt9M60,Krishana Dhaba (शुद्ध शाकाहारी),krishana dhaba (suddha sakahari),krishana dhaba (sud'dha sakahari)
+del,del:places:ChIJ0RHSbgD7DDkRACI00dissNg,शर्मा जी कचौड़ी भंडार,sarma ji kacauri bhamdara,sarma ji kacauri bhandara
+del,del:places:ChIJL1uhS2_7DDkRCorHmXa9jGg,Swaad सुगंध,swaad sugamdha,swaad sugandha
+del,del:places:ChIJ9TiqSwD7DDkRbC6tJGmyn08,R❤️P Ki Rasoi,r❤️p ki rasoi,r❤p ki rasoi
+del,del:places:ChIJ7V55PgD7DDkRGtWegYwfgsY,K❤️P Ki Rasoi,k❤️p ki rasoi,k❤p ki rasoi
+del,del:places:ChIJyXWLMKL_DDkR__0DlNZo8Bs,πr2 H 2&2 Food cafe,πr2 h 2&2 food cafe,pr2 h 2&2 food cafe
+del,del:places:ChIJPYqdjZcDDTkRVMUuazvUhB8,Ram Avtar Nasta Corner (रामअवतार नास्ता कॉर्नर),ram avtar nasta corner (ramaavatara nasta kaॉrnara),ram avtar nasta corner (rama'avatara nasta kornara)
+del,del:places:ChIJz0tYY00BDTkRTstHsuNoCHM,गप्पू चिकन कॉर्नर,gappu cikana kaॉrnara,gappu cikana kornara
+del,del:places:ChIJy8tZY00BDTkRCDWgWifjAAM,जय माँ शक्ति स्टोर,jaya ma~ sakti stora,jaya mam sakti stora
+del,del:places:ChIJ-z1imD0ADTkRDQXk-5oPt3s,राज स्वीट्स एण्ड कैफे रेस्टोरेंट,raja svitsa enda kaiphe restoremta,raja svitsa enda kaiphe restorenta
+del,del:places:ChIJP5wWs_4ADTkRaNiDZpBxPL4,जय गौतम रसोई एण्ड चाप कार्नर,jaya gautama rasoi enda capa karnara,jaya gautama raso'i enda capa karnara
+del,del:places:ChIJLwPI5Ob7DDkR-HZplZezfTc,वंश फुटवियर,vamsa phutaviyara,vansa phutaviyara
+jai,jai:places:ChIJX_C-eL9IbDkR6CqHVbGC4PA,श्रीराम विनायक बाँट भण्डार,srirama vinayaka ba~ta bhandara,srirama vinayaka bamta bhandara
+jai,jai:places:ChIJyYDW9LqqbTkRq4JU5-Kx-E8,जांगिड़ लघु कृषि यंत्र उद्योग,jamgira laghu krsi yamtra udyoga,jangira laghu krsi yantra udyoga
+jai,jai:places:ChIJbXwuaAC5bTkRIh0bYFcv8fo,गोपाल जी रेस्टोरेंट,gopala ji restoremta,gopala ji restorenta
+jai,jai:places:ChIJCTMt75i0bTkRQPURQ8PXcmg,ॐ जोधपुर मिष्ठान भण्डार,om jodhapura misthana bhandara,'om jodhapura misthana bhandara
+jai,jai:places:ChIJxytjrK61bTkR1IqaFuq5_kw,Ajao Cafe Korean Restuarant (오세요 한국식당),ajao cafe korean restuarant (오세요 한국식당),ajao cafe korean restuarant (oseyo hangugsigdang)
+jai,jai:places:ChIJyQl-0nK1bTkR9Esx7-fEfZ8,Pandit pav bhaji पं. रामअवतार शर्मा (Nirman nagar) Jaipur,pandit pav bhaji pam. ramaavatara sarma (nirman nagar) jaipur,pandit pav bhaji pam. rama'avatara sarma (nirman nagar) jaipur
+jai,jai:places:ChIJN2tUUZK0bTkRaPg4aWgqVEs,गुर्जर परांठा सेन्टर,gurjara paramtha sentara,gurjara parantha sentara
+jai,jai:places:ChIJkWuDi1uybTkRNzwFU-1GISE,जय माँ अम्बे चाट भण्डार,jaya ma~ ambe cata bhandara,jaya mam ambe cata bhandara
+jai,jai:places:ChIJvxzrq_qzbTkR4cKoxZzyGlk,ॐ श्री श्याम Fast food & restaurant,om sri syama fast food & restaurant,'om sri syama fast food & restaurant
+jai,jai:places:ChIJ4_JIllqybTkRwqiXwdOrWek,अजमेरा प्रोपटी डॉलर्स,ajamera propati daॉlarsa,ajamera propati dolarsa
+jai,jai:places:ChIJpQsDXTi0bTkRb4mVFpjvRiI,जैमन क्रॉकरी हाउस,jaimana kraॉkari hausa,jaimana krokari ha'usa
+jai,jai:places:ChIJf7yuBFOybTkRUAWn78xtZ60,न्यू बोम्बे टेलर्स,nyu bombe telarsa,n'yu bombe telarsa
+jai,jai:places:ChIJ4WduBVOybTkRyNPHeR_6ixQ,बंसल एंटरप्राइजेज,bamsala emtarapraijeja,bansala entarapra'ijeja
+jai,jai:places:ChIJs9K4QAC3bTkRjyICBLM20cM,Sanvalram (सांवलराम) kachori Namkeen Bhandar,sanvalram (samvalarama) kachori namkeen bhandar,sanvalram (sanvalarama) kachori namkeen bhandar
+jai,jai:places:ChIJtZT1RAC1bTkRd6RU4FpLglY,जय श्री सांवरिया सेठ छोले कुलचे वाला,jaya sri samvariya setha chole kulace vala,jaya sri sanvariya setha chole kulace vala
+jai,jai:places:ChIJz2D_z4m1bTkRzaJDLRAwiM0,गिर्राज रेस्टोरेंट,girraja restoremta,girraja restorenta
+jai,jai:places:ChIJZwM6xYm1bTkRIDM2_iRNS8Y,कमल सिंह रेस्टोरेन्ट,kamala simha restorenta,kamala sinha restorenta
+jai,jai:places:ChIJ6URxmG-zbTkRoW35WYHsZg4,छुटटन कुरशी मीट शॉप,chutatana kurasi mita saॉpa,chutatana kurasi mita sopa
+jai,jai:places:ChIJVeBWpXe0bTkRoq73rX8yLGw,शोएब भाई बिरयानी सेन्टर,soeba bhai birayani sentara,so'eba bha'i birayani sentara
+jai,jai:places:ChIJi7T8j3S0bTkRO2SSNDEsZcI,यश फास्ट फूड कॉरनर,yasa phasta phuda kaॉranara,yasa phasta phuda koranara
+jai,jai:places:ChIJjYby6nC0bTkRLCj2MK1gFws,कृष्णा अनाज पिसाई केन्द्र,krsna anaja pisai kendra,krsna anaja pisa'i kendra
+jai,jai:places:ChIJ-Q4ezlGzbTkRdX13lfJopwk,गंगा दूध भण्डार,gamga dudha bhandara,ganga dudha bhandara
+jai,jai:places:ChIJBZ2tDdC0bTkRmRCo-PHvPKM,नोरंग नोन वेज,noramga nona veja,noranga nona veja
+jai,jai:places:ChIJuYPmWADJbTkRz_bUAOeGnO8,प्रेमचंद,premacamda,premacanda
+jai,jai:places:ChIJ77j2WABNbDkR5MMIS-6XngA,आरती टिफिन सेंटर,arati tiphina semtara,arati tiphina sentara
+jai,jai:places:ChIJMWcJT7JMbDkR0-SXXF9JNrY,मंदिर श्री ठाकुरजी सीताराम जी,mamdira sri thakuraji sitarama ji,mandira sri thakuraji sitarama ji
+jai,jai:places:ChIJY3aMdgC5bTkRcbA1b5sO96E,रोहित भैया मुम्बई का वड़ा पाव,rohita bhaiya mumbai ka vara pava,rohita bhaiya mumba'i ka vara pava
+jai,jai:places:ChIJB3kSIgCzbTkRqml5ntZyzzM,राम तलाई,rama talai,rama tala'i
+jai,jai:places:ChIJvxHMdRy2bTkRjE_dGGTLgjs,फरीद कुरेशी चिकन शॉप,pharida kuresi cikana saॉpa,pharida kuresi cikana sopa
+jai,jai:places:ChIJW6-9VpnJbTkRlkFJw4Iwjng,आपणो घर आपणी रसोई,apano ghara apani rasoi,apano ghara apani raso'i
+jai,jai:places:ChIJVS87StizbTkRZe-jFtMxkzw,नूर भाई बिरयानी वाले,nura bhai birayani vale,nura bha'i birayani vale
+jai,jai:places:ChIJfzsdS9izbTkR_mxrALE8128,मासुम भाई बिरयानी वाले,masuma bhai birayani vale,masuma bha'i birayani vale
+jai,jai:places:ChIJy87p7tmzbTkRwfCsxLFuApw,छोटू भाई मनिहार,chotu bhai manihara,chotu bha'i manihara
+jai,jai:places:ChIJMTUcyvGsbTkRzlPb3bA44Uo,हरि ॐ शुद्ध शाकाहारी ढ़ाबा & रेस्टोरेन्ट,hari om suddha sakahari rhaba & restorenta,hari 'om sud'dha sakahari rhaba & restorenta
+jai,jai:places:ChIJk9CjzCyzbTkRfrR502a2mJ0,हंसिका डिस्पोजल,hamsika dispojala,hansika dispojala
+jai,jai:places:ChIJD9zeNLmwbTkRZJpq7hGHKdo,टेहरादून फास्ट फूड कॉर्नर,teharaduna phasta phuda kaॉrnara,teharaduna phasta phuda kornara
+jai,jai:places:ChIJK7tRtI7JbTkRp-Yae9VrAwE,खण्डेलवाल ढ़ाबा,khandelavala ढaba,khandelavala rhaba
+jai,jai:places:ChIJ6Rc90EO5bTkRzDksnpvAI5I,श्री श्याम फास्ट फूड एण्ड ज्यूस सेंटर,sri syama phasta phuda enda jyusa semtara,sri syama phasta phuda enda jyusa sentara
+jai,jai:places:ChIJjSKi9UO5bTkRS0fkJr4bhoI,भावठा मोबाइल,bhavatha mobaila,bhavatha moba'ila
+jai,jai:places:ChIJhaLBZPm4bTkRlWwR79xB8Q0,सद्दाम कब्बानी चर्क्स शॉप,saddama kabbani carksa saॉpa,saddama kabbani carksa sopa
+jai,jai:places:ChIJu1aVuW9JbDkRYO8OXfd7DCo,चौधरी गेस्ट हाउस एंड रेस्टोरेंट,caudhari gesta hausa emda restoremta,caudhari gesta ha'usa enda restorenta
+jai,jai:places:ChIJH1HyyXa3bTkRjYidxTjbEP8,गायत्री एन्टरप्राइजेज,gayatri entarapraijeja,gayatri entarapra'ijeja
+jai,jai:places:ChIJCWEYagNNbDkR2WsN1g3ttKo,खंडेलवाल ढाबा,khamdelavala dhaba,khandelavala dhaba
+jai,jai:places:ChIJe7BE4PpMbDkRqw4FjO7NHoA,शर्मा बॉट भण्डार,sarma baॉta bhandara,sarma bota bhandara
+jai,jai:places:ChIJjTzHT563bTkRv5mO_Rjgmxw,बालाजी एन्टरप्राईजेज,balaji entarapraijeja,balaji entarapra'ijeja
+jai,jai:places:ChIJYbDaS563bTkR2yy7CailsXA,कोम्बो हाऊस,kombo hausa,kombo ha'usa
+jai,jai:places:ChIJdSSeDqe3bTkRwqSOG5Z5ufA,गुलजार भाई,gulajara bhai,gulajara bha'i
+jai,jai:places:ChIJ_-DmAAC3bTkRil8WxQ5kHSY,सारा अली चिकन कॉर्नर,sara ali cikana kaॉrnara,sara ali cikana kornara
+jai,jai:places:ChIJF1GTAu6ybTkR06knXAG1oEg,श्री बजरंग चाट कॉर्नर,sri bajaramga cata kaॉrnara,sri bajaranga cata kornara
+jai,jai:places:ChIJb-9kkzCzbTkR8I150VufMDs,राधा रानी टी - स्टॉल एण्ड गोपी कचौरी वाला,radha rani ti - staॉla enda gopi kacauri vala,radha rani ti - stola enda gopi kacauri vala
+jai,jai:places:ChIJI3XIpba2bTkRhd4PzoJ6T7E,पंजाबी तड़का ढ़ाबा,pamjabi taraka rhaba,panjabi taraka rhaba
+jai,jai:places:ChIJW0EvfCW0bTkRjc6ZTf6Fmf4,पंजाबी चस्का ढ़ावा,pamjabi caska ढava,panjabi caska rhava
+jai,jai:places:ChIJxdbyCgCtbTkRdFkQ4vjoxLk,लक्की पतासी सेंटर,lakki patasi semtara,lakki patasi sentara
+jai,jai:places:ChIJzXh6rIyybTkRuF6-PgB8vq4,सिंघल पोटोज,simghala potoja,singhala potoja
+jai,jai:places:ChIJWynwFQDLbTkR2LJE03HJkPA,साईं स्वाद दोसा जयपुर,saim svada dosa jayapura,sa'im svada dosa jayapura
+jai,jai:places:ChIJ8Y1LTLG0bTkReT0el86c7uc,रॉयल राजस्थान तड़का,raॉyala rajasthana taraka,royala rajasthana taraka
+jai,jai:places:ChIJGTjEDrS0bTkRYbJtqvV6S80,श्री श्याम फास्ट फुड कॉर्नर,sri syama phasta phuda kaॉrnara,sri syama phasta phuda kornara
+jai,jai:places:ChIJ201-ErS0bTkRNVhWTu2g7vc,जाजोरिय अनाज भंडार,jajoriya anaja bhamdara,jajoriya anaja bhandara
+jai,jai:places:ChIJjQxvFLS0bTkRd5tDkqIcSk8,युवंशी फुटवियर,yuvamsi phutaviyara,yuvansi phutaviyara
+jai,jai:places:ChIJJ8KVP7S0bTkRcYP_aLQDvEY,श्री राधे टेलीकॉट,sri radhe telikaॉta,sri radhe telikota
+jai,jai:places:ChIJXXTQOACzbTkRyX-jCbpunVE,श्री बीकानेर नमकीन भण्डार एंड रसगुल्ला,sri bikanera namakina bhandara emda rasagulla,sri bikanera namakina bhandara enda rasagulla
+jai,jai:places:ChIJ4aS_UZZMbDkR9qUK4toSfqA,शुभम ज्यूस सेन्टर एण्ड आईसक्रीम कॉर्नर,subhama jyusa sentara enda aisakrima kaॉrnara,subhama jyusa sentara enda a'isakrima kornara
+jai,jai:places:ChIJt1bB3JZMbDkRQMnXvOJkyVo,श्री श्याम बॉट भण्डार,sri syama baॉta bhandara,sri syama bota bhandara
+jai,jai:places:ChIJN_jo4ZBMbDkRPUnK3kThNpE,राजस्थान रोलिंग शटर,rajasthana rolimga satara,rajasthana rolinga satara
+jai,jai:places:ChIJ2_zQ9K60bTkR3hMlxHt97-c,चौमू के ताजा फल व सब्जियाँ,caumu ke taja phala va sabjiya~,caumu ke taja phala va sabjiyam
+jai,jai:places:ChIJ38DbTIm1bTkRrnYxtutxvEU,श्री साई भोजनालय & रेस्टॉरेंट,sri sai bhojanalaya & restaॉremta,sri sa'i bhojanalaya & restorenta
+kol,kol:places:ChIJ33gS-bB3AjoR8zazrXlYizg,পিৎজা সেন্টার Pizza Centre,পিৎজা সেনটার pizza centre,pitja sentara pizza centre
+kol,kol:places:ChIJ_Wgk0dtwAjoRuWqn3ikWipk,স্বপ্নাঞ্জলি জুয়েলার্স,সবপনাঞজলি জুযেলারস,sbapnanjali juyelarsa
+kol,kol:places:ChIJz1vrIwBxAjoRjWtshAQfOOY,Aahare mon (আহারে মন),aahare mon (আহারে মন),aahare mon (ahare mana)
+kol,kol:places:ChIJZXYjqMRxAjoRJXKI3rPrvcs,লক্ষী কাকিমার পকোড়া,লকষী কাকিমার পকোডা,laksi kakimara pakora
+kol,kol:places:ChIJ1Xp9_Mh2AjoRJ-Ds4ebTq1w,রিদম ধূপকাঠি,রিদম ধূপকাঠি,ridama dhupakathi
+kol,kol:places:ChIJzcJkDhh3AjoRePzbhqaqL1U,Pizza Kingz/পিজা কিংজ,pizza kingz/পিজা কিংজ,pizza kingz/pija kinja
+kol,kol:places:ChIJ94VTcwB3AjoREpiu_RSiFkU,মামা ভাগনা রেস্টুরেন্ট,মামা ভাগনা রেসটুরেনট,mama bhagana resturenta
+kol,kol:places:ChIJXWlsRwB3AjoRT8O_2dG3Z5g,মোঃ আব্দুলর রফ,মোঃ আবদুলর রফ,moh abdulara rapha
+kol,kol:places:ChIJN9DrVQB3AjoRs1ismvSTci0,Famous Chusta Selling Vendor ( বাপি ড ),famous chusta selling vendor ( বাপি ড ),famous chusta selling vendor ( bapi da )
+kol,kol:places:ChIJZWAiW913AjoRzRSLcYwut_c,Oriya Telebhaja Shop (চপ শিল্প),oriya telebhaja shop (চপ শিলপ),oriya telebhaja shop (capa silpa)
+kol,kol:places:ChIJJ7VxtxV2AjoRKEcOoOqUGSQ,আনন্দ ফাস্ট ফুড,আননদ ফাসট ফুড,ananda phasta phuda
+kol,kol:places:ChIJF15NGAB3AjoRAbe8-j10RtQ,গুপি গাইন ভোজ বাড়ি,গুপি গাইন ভোজ বাডি,gupi ga'ina bhoja bari
+kol,kol:places:ChIJGQ_nLLF3AjoR2USZexXN5kw,Womania স্বাদের ৭ কাহন,womania সবাদের ৭ কাহন,womania sbadera 7 kahana
+kol,kol:places:ChIJN7xxmdR3AjoRhvDzLTUqjb0,"Urer Dokan(কচুরি, তেলেভাজা এক্সপার্ট)","urer dokan(কচুরি, তেলেভাজা একসপারট)","urer dokan(kacuri, telebhaja eksaparta)"
+kol,kol:places:ChIJ5yzNNwBxAjoRIMjKcycgMIY,SR Food STALL (golpark) RS Food নিরামিষ খাবার (গোলপার্ক),sr food stall (golpark) rs food নিরামিষ খাবার (গোলপারক),sr food stall (golpark) rs food niramisa khabara (golaparka)
+kol,kol:places:ChIJFy5TytFwAjoRXORdeaMkjd8,আনন্দ হিন্দু হোটেল,আননদ হিনদু হোটেল,ananda hindu hotela
+kol,kol:places:ChIJdxUJTABxAjoR8WqXtSzIcNY,Dinesh shaw phuchka stall(দীনেশ দার ফুচকার দোকান),dinesh shaw phuchka stall(দীনেশ দার ফুচকার দোকান),dinesh shaw phuchka stall(dinesa dara phucakara dokana)
+kol,kol:places:ChIJJYIAfABxAjoRCuGkw5nTVO0,SHIO塩 Jadavpur,shio塩 jadavpur,shio yan jadavpur
+kol,kol:places:ChIJYYPzKgB3AjoRHk-fGMqR6FM,তাঁরা মা হিন্দু রেস্টুরেন্ট,তাঁরা মা হিনদু রেসটুরেনট,tamra ma hindu resturenta
+kol,kol:places:ChIJE4xExC13AjoRaGaIXsB0lJs,New Arsalan Biriyani নিউ আরসালান বিরিয়ানি,new arsalan biriyani নিউ আরসালান বিরিযানি,new arsalan biriyani ni'u arasalana biriyani
+kol,kol:places:ChIJRcYDdQB3AjoREkbycC2O12s,আনন্দধারা,আননদধারা,anandadhara
+kol,kol:places:ChIJm5ykRQB3AjoRgy514huy8u8,তপবন,তপবন,tapabana
+kol,kol:places:ChIJ_-pbT0p3AjoRHek7cwsEUrc,আনন্দ ভবন,আননদ ভবন,ananda bhabana
+kol,kol:places:ChIJZ4vweQB3AjoRCtK0VkRBCWM,চোখের খিদে,চোখের খিদে,cokhera khide
+kol,kol:places:ChIJD9-wa2NxAjoROmD-LN7xW-0,একান্ত আপন - সাধ্যের মধ্যে স্বাদ পূরণ,একানত আপন - সাধযের মধযে সবাদ পূরণ,ekanta apana - sadhyera madhye sbada purana
+kol,kol:places:ChIJ_zqcasN3AjoRdVUjmFv4z-c,রয়্যাল ক্লাব Royal Club,রযযাল কলাব royal club,rayyala klaba royal club
+kol,kol:places:ChIJQejYE752AjoR0JU-Ad6aSzQ,Kalpataru Hindu Hotel #স্বাদে বাঙালি (Bengali Food),kalpataru hindu hotel #সবাদে বাঙালি (bengali food),kalpataru hindu hotel #sbade banali (bengali food)
+kol,kol:places:ChIJ6yq5xqF3AjoRksWp2lo8uBE,"চাউমিন, রাইস এবং মোমো Chowmin, Rice and Momo","চাউমিন, রাইস এবং মোমো chowmin, rice and momo","ca'umina, ra'isa ebam momo chowmin, rice and momo"
+kol,kol:places:ChIJre2rqbF7AjoRcVM6UCbznWM,বাঙাল বাড়ি - Bengali Cuisine & More,বাঙাল বাডি - bengali cuisine & more,banala bari - bengali cuisine & more
+kol,kol:places:ChIJ3TqpuYud-DkRJXmfKzte5Eg,হাজি বিরিয়ানি,হাজি বিরিযানি,haji biriyani
+kol,kol:places:ChIJIcwONAB3AjoRQg8SJPyrecU,সত্যানন্দ ফাস্টফুড,সতযাননদ ফাসটফুড,satyananda phastaphuda
+kol,kol:places:ChIJu9vQn3l3AjoRJIiIJn23E1Y,"Tara's Kitchen Ballygunge"" বাঙালি খাবারের ঐতিহ্য যা ভালোবাসা আর যত্ন দিয়ে তৈরি""","tara's kitchen ballygunge"" বাঙালি খাবারের ঐতিহয যা ভালোবাসা আর যতন দিযে তৈরি""","tara's kitchen ballygunge"" banali khabarera aitihya ya bhalobasa ara yatna diye tairi"""
+kol,kol:places:ChIJ9YOxwQZ6AjoRKcDfKdfUBjo,পবিত্র হিন্দু হোটেল,পবিতর হিনদু হোটেল,pabitra hindu hotela
+kol,kol:places:ChIJvyedMrt3AjoRuq-CP8SxKic,Annapurna Bhojonalay অন্নপূর্ণা ভোজনালয়,annapurna bhojonalay অননপূরণা ভোজনালয,annapurna bhojonalay annapurna bhojanalaya
+kol,kol:places:ChIJ9-dVGoqd-DkRvvVhdMTfVl0,পারুল স্ন্যাক্স,পারুল সনযাকস,parula sn'yaksa
+kol,kol:places:ChIJlSwdS0V2AjoRJEce5gDTuBQ,Arshayan Restaurant সফটপঠ,arshayan restaurant সফটপঠ,arshayan restaurant saphatapatha
+kol,kol:places:ChIJ6YegSgB7AjoRGICu6gQT7-Q,মা বিশালক্ষী টিফিন ঘর,মা বিশালকষী টিফিন ঘর,ma bisalaksi tiphina ghara
+kol,kol:places:ChIJsUbDa5h5AjoRWp-0is54N00,everest সুপার কালার,everest সুপার কালার,everest supara kalara
+kol,kol:places:ChIJr5hcagB3AjoRtNrPeG1McmI,Kartick dar vater hotel (কার্তিক দার ভাতের হোটেল),kartick dar vater hotel (কারতিক দার ভাতের হোটেল),kartick dar vater hotel (kartika dara bhatera hotela)
+kol,kol:places:ChIJPzIdt0B3AjoRHVAgys2iY6k,I ❤️ Burger walla,i ❤️ burger walla,i ❤ burger walla
+kol,kol:places:ChIJT6HYJgB3AjoRkbF50hQuKI4,বাংলার dairy,বাংলার dairy,banlara dairy
+kol,kol:places:ChIJnzkvHyt3AjoRjq2j0llmbHs,CHOP SHILPO (চপ শিল্প),chop shilpo (চপ শিলপ),chop shilpo (capa silpa)
+kol,kol:places:ChIJfy9SzXR3AjoR5N_1iOcMtDw,শিব শঙ্কর হিন্দু হোটেল,শিব শঙকর হিনদু হোটেল,siba sankara hindu hotela
+kol,kol:places:ChIJs_lXTFZ2AjoRQtLwe1C-KXE,মেট্রো ডেয়ারি আইসক্রিম পার্লার Metro Dairy Ice Cream Parlour,মেটরো ডেযারি আইসকরিম পারলার metro dairy ice cream parlour,metro deyari a'isakrima parlara metro dairy ice cream parlour
+kol,kol:places:ChIJbZaPEAB3AjoRsEODXt-Axbo,Sagar's hotel - সাগরের হোটেল,sagar's hotel - সাগরের হোটেল,sagar's hotel - sagarera hotela
+kol,kol:places:ChIJGTwbfFN3AjoREOyFj0G_24M,Lucky Chinese Restaurant / লাকি চাইনিজ রেস্তোরাঁ / लकी चाइनीज रेस्तरां,lucky chinese restaurant / লাকি চাইনিজ রেসতোরাঁ / laki cainija restaram,lucky chinese restaurant / laki ca'inija restoram / laki ca'inija restaram
+kol,kol:places:ChIJsRCYL853AjoRbYqkVbuggts,লাবণ্য'র হেঁসেল (Labanya's Henshel),লাবণয'র হেঁসেল (labanya's henshel),labanya'ra hemsela (labanya's henshel)
+lko,lko:places:ChIJLbFi9wP7mzkRL8JzoaD15uI,बांके बिहारी रेस्टोरेंट,bamke bihari restoremta,banke bihari restorenta
+lko,lko:places:ChIJd5c6ZrL9mzkRnehXuW04dsw,ऐवन चिकन शॉप,aivana cikana saॉpa,aivana cikana sopa
+lko,lko:places:ChIJt4c8ewDjmzkRvFRgh5AFKl8,विद्या टी स्टॉल,vidya ti staॉla,vidya ti stola
+lko,lko:places:ChIJJ5Iuz4jimzkRyOsZGOjw-gk,माँ वैष्णो भोजनालय,ma~ vaisno bhojanalaya,mam vaisno bhojanalaya
+lko,lko:places:ChIJZ15sBgBXmTkR6UDHdo0rQPk,आलम मुरादाबादी बिरयानी चिकन कॉर्नर 🍲🍗🍲,alama muradabadi birayani cikana kaॉrnara 🍲🍗🍲,alama muradabadi birayani cikana kornara 🍲🍗🍲
+lko,lko:places:ChIJ72trKwBVmTkRnUzwK_MYPSY,लखनऊ चुंगी,lakhanau cumgi,lakhana'u cungi
+lko,lko:places:ChIJrU9SR_v9mzkRsmiRgry3xtI,پانڈے ریسٹورنٹ Pandey Bhojanalay,پانڈے ریسٹورنٹ pandey bhojanalay,panڈے rysٹwrnٹ pandey bhojanalay
+lko,lko:places:ChIJBxL5dIfkmzkRy3QoIYGh6Pk,सिंह ढाबा,simha dhaba,sinha dhaba
+lko,lko:places:ChIJud0YPQBZmTkRUVNCb6C-eso,रिद्धि सिद्धि Restaurant,riddhi siddhi restaurant,rid'dhi sid'dhi restaurant
+lko,lko:places:ChIJ1-aLsin-mzkRz1OEO97DrdM,सत साहेब शुद्धशाकाहारी भोजनालय,sata saheba suddhasakahari bhojanalaya,sata saheba sud'dhasakahari bhojanalaya
+lko,lko:places:ChIJUVXWTwBXmTkRBMHHKJjlHB0,पांडेय शाकाहारी भोजनालय,pamdeya sakahari bhojanalaya,pandeya sakahari bhojanalaya
+lko,lko:places:ChIJ3Wcppm9XmTkRZcx4TfeG2eQ,Maa Laxmi Bhojnalay (शुद्ध शाकाहारी),maa laxmi bhojnalay (suddha sakahari),maa laxmi bhojnalay (sud'dha sakahari)
+lko,lko:places:ChIJF_CDNgD9mzkRQPlDxlk3tJk,बनखंडी,banakhamdi,banakhandi
+lko,lko:places:ChIJOw1DDKjimzkROGyR_XWd9V4,نیو غریب نواز ہوٹل New Garib Nawaj Hotal,نیو غریب نواز ہوٹل new garib nawaj hotal,nyw ghryb nwaz ہwٹl new garib nawaj hotal
+lko,lko:places:ChIJZ31D2x9WmTkRgBQiPiq0tkI,राठौर फॉस्ट फूड कॉर्नर,rathaura phaॉsta phuda kaॉrnara,rathaura phosta phuda kornara
+lko,lko:places:ChIJNbVTB07-mzkRcaJIowOryZY,शरीफ मटन चिकन शॉप,saripha matana cikana saॉpa,saripha matana cikana sopa
+lko,lko:places:ChIJ_as7JQD_mzkRdRhT4RySV3Y,PIZZA IN HEART ❤️,pizza in heart ❤️,pizza in heart ❤
+lko,lko:places:ChIJITOq9U3-mzkRhqltVI346Ak,न्यू जनता चिकन शॉप,nyu janata cikana saॉpa,n'yu janata cikana sopa
+lko,lko:places:ChIJG8FuJwBXmTkRpwn2KyqU2Xk,साईं फास्ट फूड्स,saim phasta phudsa,sa'im phasta phudsa
+lko,lko:places:ChIJ1UGM9W_jmzkRgjvNIEu-sfQ,Krishna sahu chaat bhandar (कृष्ण साहू चाट भंडार),krishna sahu chaat bhandar (krsna sahu cata bhamdara),krishna sahu chaat bhandar (krsna sahu cata bhandara)
+lko,lko:places:ChIJX6BIH07-mzkRic9DhJy8-CY,मोहानी चिकन शॉप,mohani cikana saॉpa,mohani cikana sopa
+lko,lko:places:ChIJDXQnhTL_mzkR-TE9wXfku0A,बुद्धेश्वर cafe,buddhesvara cafe,bud'dhesvara cafe
+lko,lko:places:ChIJw3WUHABVmTkREexDNKX4Ifk,अमित सिंह,amita simha,amita sinha
+maa2,maa2:places:ChIJ1aneelVvUjoR18nmXuKlXIY,অন্নপুর্না হোটেল রেস্টুরেন্ট,অননপুরনা হোটেল রেসটুরেনট,annapurna hotela resturenta
+maa2,maa2:places:ChIJKbHUswFnUjoR6czj6ojJfhA,செல்வி ஸ்டுடார்,jhelvi sdhudhar,celvi stutar
+maa2,maa2:places:ChIJ7XNu9V1mUjoRWLUEBVi5kJU,குந்த நந்தின உணவகம்,ghundha nandhina unavagham,kunta nantina unavakam
+maa2,maa2:places:ChIJ1R3ocABnUjoRVVbZdAEhkCo,ADISIL - அடிசில் Traditional Sri Lankan Tamil Restaurant,adisil - adhijhil traditional sri lankan tamil restaurant,adisil - aticil traditional sri lankan tamil restaurant
+maa2,maa2:places:ChIJIbqbQOxlUjoR-0ibW7OK2N0,அல்-தாஜ ஸ்டோர்,al-dhaja sdhor,al-taja stor
+maa2,maa2:places:ChIJi687sCVmUjoR58qTA9KnjKg,தோழா பாஸ்ட் ஃபுட்,dhola bhasdh fudh,tola past hput
+maa2,maa2:places:ChIJJ4jxhexnUjoR6J8tKPATVFo,AMMAVIN KAIRUSI வீட்டு முறை உணவகம்,ammavin kairusi vidhdhu murai unavagham,ammavin kairusi vittu murai unavakam
+maa2,maa2:places:ChIJx-r6eihmUjoRT9ZzjIF7Xz4,நேஷனல் ஸ்டோர்ஸ்,nesanal sdhors,nesanal stors
+maa2,maa2:places:ChIJJ4lr1tRnUjoRE2wjKdH_dIY,சீமாட்டி ஸ்டோர்,jhimadhdhi sdhor,cimatti stor
+maa2,maa2:places:ChIJV9rgiWRvUjoRSaNc0yjehAU,நாச்சியார் மெஸ் சைவம் & அசைவம்,najhjhiyar mes jhaivam & ajhaivam,nacciyar mes caivam & acaivam
+maa2,maa2:places:ChIJ8aqOJgFnUjoRXKPFJstPv-4,ஹோட்டல் மணிகண்டன் டீ ஸ்டால்,hodhdhal manighandhan dhi sdhal,hottal manikantan ti stal
+maa2,maa2:places:ChIJb9fVOABnUjoRtWcNQy4HwUo,கஸ்தூரி பனியாரம் இட்லி கடை,ghasdhuri bhaniyaram idhli ghadhai,kasturi paniyaram itli katai
+maa2,maa2:places:ChIJe2by96BdUjoROq2UUc468KM,மல்லிகா ஹோட்டல்,malligha hodhdhal,mallika hottal
+maa2,maa2:places:ChIJDbsWegBnUjoRaN9UoJ8VHJU,Salem Mess சேலம் மெஸ்,salem mess jhelam mes,salem mess celam mes
+maa2,maa2:places:ChIJxd_9TBhnUjoRNIY4-gMFcFw,அம்மா உணவகம்,amma unavagham,am'ma unavakam
+maa2,maa2:places:ChIJYYlfy8NdUjoR0Zalwr7BbUQ,சுவை டிபன் சென்டர்,jhuvai dhibhan jhendhar,cuvai tipan centar
+maa2,maa2:places:ChIJTRUGNh1nUjoRyrz5VmeHNiE,"Eyarkai Veetu Saapadu, இயற்கை வீட்டு சாப்பாடு","eyarkai veetu saapadu, iyarghai vidhdhu jhabhbhadhu","eyarkai veetu saapadu, iyarkai vittu cappatu"
+maa2,maa2:places:ChIJkye1nL9mUjoRlvnelqD8RYY,ஜோதி ஸ்டோர்,jodhi sdhor,joti stor
+maa2,maa2:places:ChIJkXSqbL5mUjoRar39ICY95Xw,ஸ்ரீ முருகன் டிபன் சென்டர் & ஃபாஸ்ட்புட்,sri murughan dhibhan jhendhar & fasdhbhudh,sri murukan tipan centar & hpastput
+maa2,maa2:places:ChIJHaD-bqtnUjoRAFqMwout5Es,சோயா பாபுவின் சோயா கடை (Soya Babu's Soya Shop),jhoya bhabhuvin jhoya ghadhai (soya babu's soya shop),coya papuvin coya katai (soya babu's soya shop)
+maa2,maa2:places:ChIJD8fqtUdmUjoRqKBgmrGL2Mk,உமர் ஜம் ஜம் வெஜ் பிரியாணி,umar jam jam vej bhiriyani,umar jam jam vej piriyani
+maa2,maa2:places:ChIJWd8rtUdmUjoRWfgn6yt6Fag,ஸ்ரீ வாசுமதி வடஇந்திய உணவகம்,sri vajhumadhi vadhaindhiya unavagham,sri vacumati vata'intiya unavakam
+maa2,maa2:places:ChIJC80CKythUjoR32wxGubSQxk,ஜேஸ் அமுதம் ஹோட்டல்,jes amudham hodhdhal,jes amutam hottal
+maa2,maa2:places:ChIJKyXyqSxhUjoRZeVqGrECjvQ,ஐஸ்வர்யா ஸ்டோர்ஸ்,aisvarya sdhors,aisvarya stors
+maa2,maa2:places:ChIJD2QqvyxhUjoRPp27uZj2NeQ,டி. எஸ். எஸ். பிரிண்டர்ஸ்,dhi. es. es. bhirindhars,ti. es. es. pirintars
+maa2,maa2:places:ChIJpTrXkQxmUjoRLfZOFqnLnCs,ஸ்ரீ தஞ்சை உணவகம்,sri dhanjhai unavagham,sri tancai unavakam
+maa2,maa2:places:ChIJOTaSCgBnUjoRjzdzW1TYBTI,Krithik tiffen centre ( கிருத்திக் டிபன் சென்டர் ),krithik tiffen centre ( ghirudhdhigh dhibhan jhendhar ),krithik tiffen centre ( kiruttik tipan centar )
+maa2,maa2:places:ChIJPSHl9TFnUjoRPPAy3ZSEu9g,சியா ஹோட்டல்,jhiya hodhdhal,ciya hottal
+maa2,maa2:places:ChIJ8_Eo1mlnUjoRcWwK0ZPWYc4,ஸ்ரீ சோழா,sri jhola,sri cola
+maa2,maa2:places:ChIJo7-h6klnUjoRnLJqRQLsSzo,பிஸ்மில்லா பிரியாணி,bhismilla bhiriyani,pismilla piriyani
+maa2,maa2:places:ChIJVR66TElnUjoR2eAxOzFrRdQ,அம்மையப்பர் உயர்தர சைவ உணவகம்,ammaiyabhbhar uyardhara jhaiva unavagham,am'maiyappar uyartara caiva unavakam
+maa2,maa2:places:ChIJLfTBP2FnUjoR2SkdmdQq0oU,ஜம் ஜம் வெஜ் பிரியாணி குஷ்கா சென்டர்,jam jam vej bhiriyani ghusgha jhendhar,jam jam vej piriyani kuska centar
+maa2,maa2:places:ChIJU5cmAgBdUjoRzmAEz7FB5ts,", ம.பாலசுந்தரம்",", ma.bhalajhundharam",", ma.palacuntaram"
+maa2,maa2:places:ChIJgZRqo1xdUjoRRF8F6r57zbA,தாழ கிருஷ்ணன் பேண்டு,dhala ghirusnan bhendhu,tala kirusnan pentu
+maa2,maa2:places:ChIJe4GOQexdUjoRxRGUkdOVIds,"ஜெய் ஸ்ரீ ராகவ் இட்லி, தோசை மாவு கடை","jey sri raghav idhli, dhojhai mavu ghadhai","jey sri rakav itli, tocai mavu katai"
+maa2,maa2:places:ChIJhWYpRftdUjoRRKYr5OjuQ38,உண்டு மகிழ் உணவகம் undu Magil Hotel,undhu maghil unavagham undu magil hotel,untu makil unavakam undu magil hotel
+maa2,maa2:places:ChIJG0lfwihhUjoRpqN5-tfm-H8,அஜ்மீர் மட்டன் சிக்கன் ஸ்டால்,ajmir madhdhan jhighghan sdhal,ajmir mattan cikkan stal
+maa2,maa2:places:ChIJc22VOIBmUjoRo2v_iZFVLKc,ஸ்ரீ சரவணா ஸ்டோர்,sri jharavana sdhor,sri caravana stor
+maa2,maa2:places:ChIJh6krib9lUjoRKS4dD-d68p4,5ரூபாய் புரோட்டா கடை,5rubhay bhurodhdha ghadhai,5rupay purotta katai
+maa2,maa2:places:ChIJwWT-Rm1kUjoR11eec92iAVU,ஆறுபடையப்பா ஸ்டோன் ஒர்க்ஸ்,arubhadhaiyabhbha sdhon orghs,arupataiyappa ston orks
+maa2,maa2:places:ChIJUX0aBDtnUjoR98Q3fchJ9kU,சக்தி பம்முதிர்சோலை,jhaghdhi bhammudhirjholai,cakti pam'mutircolai
+maa2,maa2:places:ChIJw5m_EQBnUjoRV5JsFCge050,யோகித் இட்லி தோசை மாவு கடை,yoghidh idhli dhojhai mavu ghadhai,yokit itli tocai mavu katai
+maa2,maa2:places:ChIJlaZVJCNnUjoRUF7upAC8KwM,ஸ்ரீ சூராங்காளி துணை,sri jhuranghali dhunai,sri curankali tunai
+maa2,maa2:places:ChIJldJ3bAVnUjoRc32Lu6_XPaw,ஹோட்டல் நிக் எக்ஸோடிகா,hodhdhal nigh eghsodhigha,hottal nik eksotika
+maa2,maa2:places:ChIJLaAcvD1dUjoRgtBVJ8Z0rZU,சென்னை சீவல் நாட்டு மருந்து கடை,jhennai jhival nadhdhu marundhu ghadhai,cennai cival nattu maruntu katai
+maa2,maa2:places:ChIJD0yIUgBhUjoRQwJq5XAMtXk,DOSA 30 - தோசை 30,dosa 30 - dhojhai 30,dosa 30 - tocai 30
+maa2,maa2:places:ChIJqytzb-9nUjoROwT5aIUcfao,வடை கடை,vadhai ghadhai,vatai katai
+maa2,maa2:places:ChIJC1V9d41mUjoRsXFalGsB-aI,ஸ்ரீ ரங்கா டிபன் சென்டர்,sri rangha dhibhan jhendhar,sri ranka tipan centar
+maa2,maa2:places:ChIJ3UR8TzdhUjoRlk01ZHCJipM,AL HAMEED' FOODS அல் ஹமீது' ஃபூட்ஸ்,al hameed' foods al hamidhu' fudhs,al hameed' foods al hamitu' hputs
+maa2,maa2:places:ChIJgyUnnDVhUjoRAtE1yWTGT48,ஓட்டல் குட்டியப்பா,odhdhal ghudhdhiyabhbha,ottal kuttiyappa
+maa2,maa2:places:ChIJ86BGkDVhUjoRZrDUKWLCINM,அம்மா உணவகம்,amma unavagham,am'ma unavakam
+maa2,maa2:places:ChIJQUHmDEphUjoR_a5NIf1EM6g,அன்னை வராஹி கல்ப மூலிகை வைத்தியம்,annai varahi ghalbha mulighai vaidhdhiyam,annai varahi kalpa mulikai vaittiyam
+maa2,maa2:places:ChIJw0m6CDZhUjoRVSNv7YXM8mY,ஓம் பிரியாணி சென்டர்,om bhiriyani jhendhar,om piriyani centar
+maa2,maa2:places:ChIJx2Rf4DdhUjoR5s-vK7_VzNA,திருமுருகன் மெஸ்,dhirumurughan mes,tirumurukan mes
+maa2,maa2:places:ChIJs9wJvE5hUjoRSaH8kN75Bsw,சாமி மாஸ்டர் உணவகம்,jhami masdhar unavagham,cami mastar unavakam
+maa2,maa2:places:ChIJ6bICD0xhUjoRAUXNCRZfDy4,அஜி ஃபுட்ஸ்,aji fudhs,aji hputs
+maa2,maa2:places:ChIJnYPjXENnUjoRoPVpTPwBk1I,ஸ்ரீ தேவி ஸ்டோர்,sri dhevi sdhor,sri tevi stor
+maa2,maa2:places:ChIJf9kVoSlnUjoRiNcKbpGVGaY,ராகவன் ஸ்டோர்,raghavan sdhor,rakavan stor
+maa2,maa2:places:ChIJ41IeoClnUjoRX3D_pgDv0lM,விநாயகா செட்டிநாடு ஓட்டல்,vinayagha jhedhdhinadhu odhdhal,vinayaka cettinatu ottal
+maa2,maa2:places:ChIJT4CIdylnUjoREEitUt3Kwvo,பெரியசாமி சிக்கன் சென்டர்,bheriyajhami jhighghan jhendhar,periyacami cikkan centar
+maa2,maa2:places:ChIJzW-nhFZhUjoRVpylZE8l2qo,நல்லாள் பாரம்பரிய உணவகம்,nallal bharambhariya unavagham,nallal parampariya unavakam
+maa2,maa2:places:ChIJd4BGtZNlUjoRTN6wX6nAzgI,கிருபை ஸ்டோர்,ghirubhai sdhor,kirupai stor
+maa2,maa2:places:ChIJ513dzNxlUjoRXaP9wdw7cXo,பாகத் பெஸ்ட் மாட்டு இறைச்சி கடை,bhaghadh bhesdh madhdhu iraijhjhi ghadhai,pakat pest mattu iraicci katai
+maa2,maa2:places:ChIJ74oTW7hlUjoRAWLE9mVszsQ,பிரியாணி கடை,bhiriyani ghadhai,piriyani katai
+maa2,maa2:places:ChIJvaIg48RlUjoRu74ZWATxFWI,பிரகாஷ் ஸ்டோர்,bhiraghas sdhor,pirakas stor
+maa2,maa2:places:ChIJI5RZ1DNkUjoRJj-i8dxIXmM,ஸ்ரீலாஜி ஸ்டோர்ஸ்,srilaji sdhors,srilaji stors
+maa2,maa2:places:ChIJr-Y0tDJkUjoRC3Y2ZuPv4c4,இலக்கியா ஸ்டோர்,ilaghghiya sdhor,ilakkiya stor
+maa2,maa2:places:ChIJd-OLjAZkUjoRpVjiaFRTe1U,சகி ஃபுட்வேர்,jhaghi fudhver,caki hputver
+maa2,maa2:places:ChIJo85dhAZkUjoRyMz6iB2cr9o,ஏலீம் கேட்ரிங்,elim ghedhrin,elim ketrin
+maa2,maa2:places:ChIJBUPSDQBdUjoRoZTgcvYkKl4,தோசை கடை Dosai Kadai,dhojhai ghadhai dosai kadai,tocai katai dosai kadai
+maa2,maa2:places:ChIJG2bMZb5dUjoRLMAqkqyEGxI,சித்ரா இட்லி கடை,jhidhra idhli ghadhai,citra itli katai
+maa2,maa2:places:ChIJ9TdCmSZhUjoRCKJd9xUC-78,பாலாஜி ஸ்டோர்ஸ்,bhalaji sdhors,palaji stors
+maa2,maa2:places:ChIJSea45iZhUjoRyXRZE6psFy4,கலையரசி,ghalaiyarajhi,kalaiyaraci
+maa2,maa2:places:ChIJBZocYQdnUjoRCDKabViu5Wo,மணி ஸ்டோர்,mani sdhor,mani stor
+maa2,maa2:places:ChIJj3diLHpdUjoR5Nuf-i2rgyI,சாய பாபா உணவகம் & டீ கடை,jhaya bhabha unavagham & dhi ghadhai,caya papa unavakam & ti katai
+maa2,maa2:places:ChIJe_NY4ZBmUjoRrOHc5afnKWk,சுப்பிரியா ஸ்டோர்,jhubhbhiriya sdhor,cuppiriya stor
+maa2,maa2:places:ChIJvUfIgyRdUjoRC0z8JaaBE1o,செட்டிநாடு மெஸ்,jhedhdhinadhu mes,cettinatu mes
+maa2,maa2:places:ChIJxSfUTqtlUjoRDueGB-BwO5c,ஆர்பிட இட்லி தோசை மாவு,arbhidha idhli dhojhai mavu,arpita itli tocai mavu
+maa2,maa2:places:ChIJg9b4EgdlUjoRp6YcNtMwmYk,அம்மா உணவகம்,amma unavagham,am'ma unavakam
+maa2,maa2:places:ChIJwa537DphUjoRYwie4mHHxOc,MULLAI SUVAI OOTRU முல்லை சுவை ஊற்று ( short eats & snacks),mullai suvai ootru mullai jhuvai urru ( short eats & snacks),mullai suvai ootru mullai cuvai urru ( short eats & snacks)
+maa2,maa2:places:ChIJ79w3M6dlUjoRzMBXmdDvQPs,ஜீவிகா ஸ்டோர்,jivigha sdhor,jivika stor
+maa2,maa2:places:ChIJ-UZkM1NkUjoRJkLFbOSdycg,பக்கிரா பாஸ்ட்புட்,bhaghghira bhasdhbhudh,pakkira pastput
+maa2,maa2:places:ChIJ00_Ya7tlUjoRByorOdrqIb8,வி.எஸ் ஃபாஸ்ட் புட் & ஹோட்டல்,vi.es fasdh bhudh & hodhdhal,vi.es hpast put & hottal
+maa2,maa2:places:ChIJj0lyhLxlUjoRqsR8mC_WBGM,வேலன் உணவகம்,velan unavagham,velan unavakam
+maa2,maa2:places:ChIJI9gAt9ZgUjoRDuQLj2vmO0s,ஜெனினா ஸ்டோர்,jenina sdhor,jenina stor
+maa2,maa2:places:ChIJQfGKpwRnUjoRF0yS1uJ46vw,தருமன் டியன் சென்டர்,dharuman dhiyan jhendhar,taruman tiyan centar
+maa2,maa2:places:ChIJwU74EIBlUjoRgRIFxbCgQZk,அமுதம் நியாயவிலைக்கடை,amudham niyayavilaighghadhai,amutam niyayavilaikkatai
+maa2,maa2:places:ChIJczyA5P1lUjoRTu6Y0vOqP9s,AKR உணவகம்,akr unavagham,akr unavakam
+maa2,maa2:places:ChIJfYrsuIFlUjoRzdGjJWV1gWc,சரோஜினி உணவகம்,jharojini unavagham,carojini unavakam
+maa2,maa2:places:ChIJTdfDhIBlUjoRJOmxUn2pFuM,பாண்டி ஸ்வீட்ஸ்,bhandhi svidhs,panti svits
+maa2,maa2:places:ChIJZYh3ZAxnUjoRfmwryuONeQg,ஹோட்டல் முருகன்டிபன் சென்டர்,hodhdhal murughandhibhan jhendhar,hottal murukantipan centar
+maa2,maa2:places:ChIJAVnb-XlvUjoRPhrjAdjplQQ,சாந்தி பாஸ்ட் ஃபுட்,jhandhi bhasdh fudh,canti past hput
+maa2,maa2:places:ChIJkz9SI6llUjoRPIigqxGznn0,கரரைக்குடி செட்டிநாடு ஸ்பெஷல்,ghararaighghudhi jhedhdhinadhu sbhesal,kararaikkuti cettinatu spesal
+maa2,maa2:places:ChIJK66Kpa5lUjoRs0Ten6TlMFI,வேல் முருகன் ஸ்டோர்,vel murughan sdhor,vel murukan stor
+maa2,maa2:places:ChIJ94ufSrNlUjoRaYXqMtzrEXY,சிறுவாபுரி சிற்றுண்டியகம்,jhiruvabhuri jhirrundhiyagham,ciruvapuri cirruntiyakam
+maa2,maa2:places:ChIJczix0kxkUjoRGkg0tp7WDHE,ஆரபி இட்லி தோசை மாவு,arabhi idhli dhojhai mavu,arapi itli tocai mavu
+maa2,maa2:places:ChIJwbmxFABnUjoRN7hRo2g1RbI,திருவண்ணாமலை,dhiruvannamalai,tiruvannamalai
+maa2,maa2:places:ChIJ2WOvTKRdUjoRbmaukS_CPgo,Tamizh suvai தமிழ் சுவை,tamizh suvai dhamil jhuvai,tamizh suvai tamil cuvai
+maa2,maa2:places:ChIJHWBEdeVdUjoRVQMArmQnEy0,சென்னை சிற்றுண்டி குடில்,jhennai jhirrundhi ghudhil,cennai cirrunti kutil
+maa2,maa2:places:ChIJkb81dIJdUjoRNWVKYvi9keQ,எபிநேஷ உணவகம்,ebhinesa unavagham,epinesa unavakam
+maa2,maa2:places:ChIJfUnIK5lhUjoRtY46XLha5u4,VIN Kovilpatti Mittai Kadai - தமிழ்நாட்டு பாரம்பரிய உணவு பண்டங்கள்,vin kovilpatti mittai kadai - dhamilnadhdhu bharambhariya unavu bhandhanghal,vin kovilpatti mittai kadai - tamilnattu parampariya unavu pantankal
+maa2,maa2:places:ChIJ8X6SY-tnUjoR_uJ7a17Nfyk,Saptu Pathu Sollunga சாப்பிட்டு பார்த்து சொல்லுங்க,saptu pathu sollunga jhabhbhidhdhu bhardhdhu jhollungha,saptu pathu sollunga cappittu parttu collunka
+maa2,maa2:places:ChIJJaUm5npdUjoRIgN5YFCQxNM,சென்னை irrutukadai Biryani/ Fast Food [ VELACHERY ],jhennai irrutukadai biryani/ fast food [ velachery ],cennai irrutukadai biryani/ fast food [ velachery ]
+maa2,maa2:places:ChIJvxywjqpmUjoRTNFku8cMcZI,சிகாமணி ஸ்டோர்,jhighamani sdhor,cikamani stor
+maa2,maa2:places:ChIJs6lAG9plUjoRflzqAmU4DtE,ஸ்ரீ விநாயகா டிபன் & பாஸ்ட் ஃபுட்,sri vinayagha dhibhan & bhasdh fudh,sri vinayaka tipan & past hput
+maa2,maa2:places:ChIJ86CjduVmUjoRK4TBARfwJ-8,சோழன் மெஸ்,jholan mes,colan mes
+maa2,maa2:places:ChIJ_fmvgHtdUjoRLPbvPnaHjEw,சக்தி சிக்கன் பிரியாணி,jhaghdhi jhighghan bhiriyani,cakti cikkan piriyani
+maa2,maa2:places:ChIJ9TfZ441dUjoRusEM95blfik,ஆயிஷா பிரியாணி,ayisa bhiriyani,ayisa piriyani
+maa2,maa2:places:ChIJLbEzRphdUjoRQwlN0K57CAY,Nєω L2V ƒєαѕт,nєω l2v ƒєαѕт,neo l2v ƒeazt
+maa2,maa2:places:ChIJ0ahxPHhlUjoRAJ4xC2Vpp-A,சுவையான மெக்கா உணவகம்,jhuvaiyana meghgha unavagham,cuvaiyana mekka unavakam
+maa2,maa2:places:ChIJAR02cNhgUjoRDkb3hjSgPEk,நிஷா ஸ்டோர்,nisa sdhor,nisa stor
+maa2,maa2:places:ChIJm5nFPE9hUjoR2w_JD_1M7Rs,ஸ்ரீ அங்காள பரமேஸ்வரி புட்ஸ் இங்கு இட்லி தோச,sri anghala bharamesvari bhudhs inghu idhli dhojha,sri ankala paramesvari puts inku itli toca
+maa2,maa2:places:ChIJh5TVMk9hUjoRuVW9VIpHxig,சோழன் பிரியாணி,jholan bhiriyani,colan piriyani
+maa2,maa2:places:ChIJFWOaLtxmUjoRFUHl_RMinnM,பிஸ்மில்லா ஆட்டிறைச்சி கோழியிறைச்சி அங்காடி,bhismilla adhdhiraijhjhi gholiyiraijhjhi anghadhi,pismilla attiraicci koliyiraicci ankati
+maa2,maa2:places:ChIJH2YLNOpnUjoRzlIoBWfKBbI,PRAKASH பிரியாணி,prakash bhiriyani,prakash piriyani
+maa2,maa2:places:ChIJXQ1gvWhvUjoRwDMFNj2oHxc,கிருஷ்ணா ஸ்டார்,ghirusna sdhar,kirusna star
+maa2,maa2:places:ChIJU7SI92hvUjoRCK4Srgv7mJg,சிவா ஃபுட்ஸ்,jhiva fudhs,civa hputs
+maa2,maa2:places:ChIJGc2j02hvUjoRpqBkMMjO8Ng,சம்யுக்தா ஸ்டோர்,jhamyughdha sdhor,camyukta stor
+maa2,maa2:places:ChIJMdFjr2hvUjoRrdKv2vEMrPk,அலாவுதீன் பாய் பிரியாளர்,alavudhin bhay bhiriyalar,alavutin pay piriyalar
+maa2,maa2:places:ChIJPbffNnRvUjoR67bNUb5un98,துரை பிரியாணி கடை,dhurai bhiriyani ghadhai,turai piriyani katai
+maa2,maa2:places:ChIJI_f4JXRvUjoRnx_vN34L4YI,சன் பாஸ்ட் ஃபுட்,jhan bhasdh fudh,can past hput
+maa2,maa2:places:ChIJFRV8D3RvUjoRFv8dWm-HGwI,ரீச் சுவை பிரியாணி,rijh jhuvai bhiriyani,ric cuvai piriyani
+maa2,maa2:places:ChIJpybm3qVmUjoRW6KAjXz0Ojw,A. R டிபன்,a. r dhibhan,a. r tipan
+maa2,maa2:places:ChIJCwTFfgZvUjoR-t2cUVfdhTc,Sathila tiffin centre சத்திலா டிபன் சென்டர்,sathila tiffin centre jhadhdhila dhibhan jhendhar,sathila tiffin centre cattila tipan centar
+maa2,maa2:places:ChIJm82XBCFnUjoR5XLsYy7drug,ஒட்டுடையாள் செட்டிநாடு உணவகம்,odhdhudhaiyal jhedhdhinadhu unavagham,ottutaiyal cettinatu unavakam
+maa2,maa2:places:ChIJ_yBiAyFnUjoROq7qbDstocE,நிவேதா செட்டிநாடு உணவகம்,nivedha jhedhdhinadhu unavagham,niveta cettinatu unavakam
+maa2,maa2:places:ChIJB8iXdvdjUjoR_j-B3SSaFm0,பிரியா ஸ்டோர்ஸ்,bhiriya sdhors,piriya stors
+maa2,maa2:places:ChIJWQrMK2ZmUjoRPlaWAWbmF_4,விஜய் எண்டர்பிரைசஸ் ஃபுட்வேர்,vijay endharbhiraijhas fudhver,vijay entarpiraicas hputver
+maa2,maa2:places:ChIJs-LpXqJlUjoRiHgQ5YKUy4g,சாஸ்தா ஸ்டோர்,jhasdha sdhor,casta stor
+maa2,maa2:places:ChIJV9NM349lUjoRSY3j2CP1l8M,அல் மதீனா பிரியாணி கபாப் சென்டர்,al madhina bhiriyani ghabhabh jhendhar,al matina piriyani kapap centar
+maa2,maa2:places:ChIJUTQdoJllUjoR928TZ2Ozxkk,ஆம்பூர் பிரியாணி & ஃபாஸ்ட்,ambhur bhiriyani & fasdh,ampur piriyani & hpast
+maa2,maa2:places:ChIJa29KJZBlUjoR7726nZKYf4E,ஸ்ரீ சாய் டிபன் சென்டர்,sri jhay dhibhan jhendhar,sri cay tipan centar
+maa2,maa2:places:ChIJaWaLOpBlUjoRGzlNn5o2Hi0,பரகத் பிரியாணி & பாஸ்ட் ஃபுட்,bharaghadh bhiriyani & bhasdh fudh,parakat piriyani & past hput
+maa2,maa2:places:ChIJvV8PJ2NvUjoRCfX60Z0uF3E,இலியாஸ் பிரிஞ்சி & பிரியாணி,iliyas bhirinjhi & bhiriyani,iliyas pirinci & piriyani
+maa2,maa2:places:ChIJbfVVKmNvUjoRcUi0Di9-Vl0,சங்கீதா அத்தோஷாப்,jhanghidha adhdhosabh,cankita attosap
+maa2,maa2:places:ChIJvQ9C8odlUjoR4qA-IhIhKV8,உதயா பாஸ் ஃபுட் சிக்கன் பிரியாணி,udhaya bhas fudh jhighghan bhiriyani,utaya pas hput cikkan piriyani
+maa2,maa2:places:ChIJbZApX-llUjoRW152gD4_Oe4,ஸ்ரீ கணாதி மெஸ்,sri ghanadhi mes,sri kanati mes
+maa2,maa2:places:ChIJDzqu1-tlUjoREimVcgeGC_Q,அம்மா உணவகம் amma unavagam,amma unavagham amma unavagam,am'ma unavakam amma unavagam
+maa2,maa2:places:ChIJbbYHII5lUjoRWhyCjVDObUI,மூசா வெஜிடேரியன் குஸ்கா பாஸ்மதி ரைஸ்,mujha vejidheriyan ghusgha bhasmadhi rais,muca vejiteriyan kuska pasmati rais
+maa2,maa2:places:ChIJFZIJypFlUjoRFA5tXHe027w,சபரி இட்லி கடை,jhabhari idhli ghadhai,capari itli katai
+maa2,maa2:places:ChIJZ8aSgZ9mUjoRiT4t5GJcbaE,நியூ பேன்சி ஃபுட்வேர்,niyu bhenjhi fudhver,niyu penci hputver
+maa2,maa2:places:ChIJu3vW23lvUjoRGgrIMwS6huE,ஸ்ரீ பாலமுருகன் டிபன் சென்டர்,sri bhalamurughan dhibhan jhendhar,sri palamurukan tipan centar
+maa2,maa2:places:ChIJK6YNUw5nUjoRREKjQYQ-MVQ,ஃப்ரண்ட்ஸ் பாஸ்ட் ஃபுட்,frandhs bhasdh fudh,hprants past hput
+maa2,maa2:places:ChIJdbnE73RdUjoRG_cMN5ogadg,ஸ்ரீ பெரியாண்டவர் பேன்சி ஸ்டோர்,sri bheriyandhavar bhenjhi sdhor,sri periyantavar penci stor
+maa2,maa2:places:ChIJ3YePudplUjoRLGvmUuoCdZM,Palmyra Coffee பனங்கருப்பட்டி காபி,palmyra coffee bhanangharubhbhadhdhi ghabhi,palmyra coffee panankaruppatti kapi
+maa2,maa2:places:ChIJO-fo6K9lUjoRZ8sSbJYj7hM,ஸ்ரீ ஆதி உணவகம்,sri adhi unavagham,sri ati unavakam
+maa2,maa2:places:ChIJq9GhCQBhUjoR5ZatL5cvEIg,Amman (பூண்டு பொடி தோசை கடை ),amman (bhundhu bhodhi dhojhai ghadhai ),amman (puntu poti tocai katai )
+maa2,maa2:places:ChIJ-1KgRF5vUjoRBqVtGAnipJ4,இந்திரா உணவகம்,indhira unavagham,intira unavakam
+maa2,maa2:places:ChIJFePXN15vUjoRLRUfVX-9icc,பிஸ்மில்லாஹ் சிக்கன் பிரியாணி & சிக்கன் பகோடா,bhismillah jhighghan bhiriyani & jhighghan bhaghodha,pismillah cikkan piriyani & cikkan pakota
+maa2,maa2:places:ChIJbaEtTWxkUjoR2DOmxKNNir8,பெருமாள் ஸ்டோர்,bherumal sdhor,perumal stor
+maa2,maa2:places:ChIJFaRf_2xkUjoRUBk6H_nLfPE,குணா ஸ்டோர்,ghuna sdhor,kuna stor
+maa2,maa2:places:ChIJFxejawBdUjoRTQe6fAqLONo,Magathi Thoothukudi poricha poratta மகதி தூத்துக்குடி பொறிச்சி புரோட்டா சுவையான கறியுடன்,magathi thoothukudi poricha poratta maghadhi dhudhdhughghudhi bhorijhjhi bhurodhdha jhuvaiyana ghariyudhan,magathi thoothukudi poricha poratta makati tuttukkuti poricci purotta cuvaiyana kariyutan
+maa2,maa2:places:ChIJ_w4jILBnUjoRnEwhi2BkBko,Thanjai Raja Rajan Mess (தஞ்சை ராஜராஜன் மெஸ்),thanjai raja rajan mess (dhanjhai rajarajan mes),thanjai raja rajan mess (tancai rajarajan mes)
+maa2,maa2:places:ChIJYcy-XopnUjoR828MLc8f5Jg,கண்ணன் ஸ்டோர்,ghannan sdhor,kannan stor
+maa2,maa2:places:ChIJMbYJuPtmUjoRc2hG5R8ircA,Sri Sathaiah Chettinad Hotel 🛏️🏨,sri sathaiah chettinad hotel 🛏️🏨,sri sathaiah chettinad hotel 🛏🏨
+mys2,mys2:places:ChIJ4Xqnk4FxrzsRVDMjQS_paiw,ಕರ್ನಾಟಕ ರಾಜ್ಯ ಸರ್ಕಾರಿ ಮೀನುಗಾರಿಕೆ ಮಹಾಮಂಡಳ,karnataka rajya sarkari minugarike mahamamdala,karnataka rajya sarkari minugarike mahamandala
+mys2,mys2:places:ChIJ31-y8TlurzsR34OnYU8Z8jw,ಭರತ್ ಚಾಟ್ಸ್ ಸೆಂಟರಾ,bharat cats semtara,bharat cats sentara
+mys2,mys2:places:ChIJQ_JdcMpxrzsRZzjj17jH3VU,ಶ್ರೀ ನಂಜುಂಡೇಶ್ವರ ಸ್ಟೋರ್,sri namjumdesvara stor,sri nanjundesvara stor
+mys2,mys2:places:ChIJE2_5gDVwrzsRZP_mqiElTVw,ಶ್ರೀ ಅಂಕನಾಥೇಶ್ವರ ಪ್ರಾವಿಷನ್ ಸೋರ್,sri amkanathesvara pravisan sor,sri ankanathesvara pravisan sor
+mys2,mys2:places:ChIJmUr_JwBlrzsRTF1bHsi2ADE,ಉತ್ತರ ಕರ್ನಾಟಕದ ತಿಂಡಿ,uttara karnatakada timdi,uttara karnatakada tindi
+mys2,mys2:places:ChIJ8TupeAB7rzsR-5WVjLcuBGo,The famous Anjanadri Gobi centre ದೀ ಫೇಮಸ್ಅಂಜನಾದ್ರಿ ಗೋಬಿ ಸೆಂಟರ್,the famous anjanadri gobi centre di phemasamjanadri gobi semtar,the famous anjanadri gobi centre di phemasanjanadri gobi sentar
+mys2,mys2:places:ChIJSz6_nDF7rzsRc0RW_rLwW44,SRI RAGHAVENDRA TIFFANIS - ಶ್ರೀ ರಾಘವೇಂದ್ರ ಟಿಫಾನಿಸ್,sri raghavendra tiffanis - sri raghavemdra tiphanis,sri raghavendra tiffanis - sri raghavendra tiphanis
+mys2,mys2:places:ChIJ4SPf2OwJpTsRft4uLcIeTQw,ಸಾಗರ್ ಹೇರ್ ದ್ರೆಸ್ಸಸ್,sagar her dressas,sagar her dres'sas
+mys2,mys2:places:ChIJP84NY6NvrzsRk7Vofw22CBc,ಶ್ರೀ ಸಮೃದ್ಧಿ ಎಂಟರ್‌ಪ್ರೈಸಸ್‌ ಡಿಜಟಲ್ ಸೇವಾ ಕೇಂದ್ರ,sri samrddhi emtar‌praisas‌ dijatal seva kemdra,sri samrd'dhi entar‌praisas‌ dijatal seva kendra
+mys2,mys2:places:ChIJz_NBiKRvrzsRqFciSRbmr4w,ಖುಷಿ ಡಿಜಿಟಲ್ ಸೇವಾ ಕೇಂದ್ರ,khusi dijital seva kemdra,khusi dijital seva kendra
+mys2,mys2:places:ChIJ4--beZp6rzsR52MTcDpJAA0,ಉಷಾ ಪ್ರಿಂಟರ್ಸ್,usa primtars,usa printars
+mys2,mys2:places:ChIJZ4EHTiyHpTsRyttk1VTf3B4,ಶ್ರೀ ಲಕ್ಷ್ಮೀನರಸಿಂಹಸ್ವಾಮಿ ಟ್ರೇಡರ್ಸ್,sri laksminarasimhasvami tredars,sri laksminarasinhasvami tredars
+mys2,mys2:places:ChIJ9-QgNQB7rzsRmxrvKov2-BU,ಶ್ರೀ ರಾಮ ಮಂದಿರ ಹೋಟೆಲ್,sri rama mamdira hotel,sri rama mandira hotel
+mys2,mys2:places:ChIJM-pjGABxrzsRTObqV5ncnwA,Vanitha Mess (വനിത മെസ്സ്),vanitha mess (vanita mess),vanitha mess (vanita mes's)
+mys2,mys2:places:ChIJL-paRKhxrzsRDrDVh0itu74,I ️ MOMOS,i ️ momos,i momos
+vns,vns:places:ChIJf8C_KgAxjjkRetX9kiSfQR0,गोविंद भोजनालय,govimda bhojanalaya,govinda bhojanalaya
+vns,vns:places:ChIJ-9xIAQAtjjkRMBGrE9L0-Qw,"शुभ आगमन, फैमिली ढाबा एंव जलपान गृह","subha agamana, phaimili dhaba emva jalapana grha","subha agamana, phaimili dhaba enva jalapana grha"
+vns,vns:places:ChIJn1OvoK0zjjkR7K9BhbbLI0s,प्रियांशी फास्ट फूड,priyamsi phasta phuda,priyansi phasta phuda
+vns,vns:places:ChIJTw6gAAAzjjkRK6RNR5AoRJc,चंपारण हांडी मटन,camparana hamdi matana,camparana handi matana
+vns,vns:places:ChIJV_S8UwAzjjkRi6VAGWo3Grw,राज स्वीट हाउस एंड चाट कॉर्नर,raja svita hausa emda cata kaॉrnara,raja svita ha'usa enda cata kornara
+vns,vns:places:ChIJdfP-OcgtjjkRJNyguNIz6MQ,ओम् भोला ठण्डई बहार,om bhola thandai bahara,om bhola thanda'i bahara
+vns,vns:places:ChIJ0YMTGQApjjkRxMQLSnVC-mI,त्रिशिका एग रोल एंड चिकन फ्राई कॉर्नर,trisika ega rola emda cikana phrai kaॉrnara,trisika ega rola enda cikana phra'i kornara
+vns,vns:places:ChIJa8p0LUUujjkRw-ORKtWRHQs,वैष्णवी रेस्टोरेंट And टी स्टाल,vaisnavi restoremta and ti stala,vaisnavi restorenta and ti stala
+vns,vns:places:ChIJTY-bDMEvjjkRiLxk5jUIOPQ,सिद्धार्थ भोजनालय,siddhartha bhojanalaya,sid'dhartha bhojanalaya
+vns,vns:places:ChIJW5LIkNwqjjkRBagNaxBPe2U,दिल बाहर ताम्बूल भंडार,dila bahara tambula bhamdara,dila bahara tambula bhandara
+vns,vns:places:ChIJX86RsBfVjzkRnYJRtK4Zi3I,अभिषेक मंचूरियन कार्नर,abhiseka mamcuriyana karnara,abhiseka mancuriyana karnara
+vns,vns:places:ChIJg00b6AjWkTkR82DdHjFItQY,ग्रेट गंगा ढाबा,greta gamga dhaba,greta ganga dhaba
+vns,vns:places:ChIJe61nshUpjjkRrjXc5p7eI00,यादव चाट भण्डार डुबकियाँ बाजार,yadava cata bhandara dubakiya~ bajara,yadava cata bhandara dubakiyam bajara
+vns,vns:places:ChIJiUf2ewAnjjkRQRWjFlOgo2M,रामजनम मिष्ठान भंडार और यादव चाट भंडार,ramajanama misthana bhamdara aura yadava cata bhamdara,ramajanama misthana bhandara aura yadava cata bhandara
+vns,vns:places:ChIJZ95X0KkojjkRZL4MT5wleDg,गुप्ता मिष्ठान भण्डार. नरपतपुर( डुबकियाँ बाजार ),gupta misthana bhandara. narapatapura( dubakiya~ bajara ),gupta misthana bhandara. narapatapura( dubakiyam bajara )
+vns,vns:places:ChIJW2Fnp03TjzkRZkOWDqjY8Oo,हरि ऊँ चाट बहार एवं भोजनालय,hari u~ cata bahara evam bhojanalaya,hari um cata bahara evam bhojanalaya
+vns,vns:places:ChIJmZlgWvYzjjkRjtjRAQSCpWk,कलात्मिका संगीतालय,kalatmika samgitalaya,kalatmika sangitalaya
+vns,vns:places:ChIJ8WUtA00yjjkReZGoxvRMehU,गंगा स्वीट्स हाऊस,gamga svitsa hausa,ganga svitsa ha'usa

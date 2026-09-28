@@ -147,11 +147,13 @@ def run_batches(
         with open(out_path, "a", encoding="utf-8") as f:
             for j, it in enumerate(chunk, start=1):
                 a = answers.get(j)
-                if a is None:
+                field = "caste_coded" if it["task"] == "screen_unmatched" else "genuine"
+                if a is None or not isinstance(a.get(field), bool):
                     continue
                 rec = dict(it)
                 rec["verdict"] = a
                 f.write(json.dumps(rec, ensure_ascii=False) + "\n")
+                done.add(it["item_id"])
         n_done = min(i + BATCH, len(todo))
         print(f"  {region} {chunk[0]['task']}: {n_done}/{len(todo)}")
 

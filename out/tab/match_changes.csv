@@ -1,0 +1,22 @@
+entity_id,label,term,old,new,region_id
+blr:places:ChIJkd6xEqY_rjsR15SyIRWNd9U,Other languages,andhra,,TRUE,blr
+blr:places:ChIJ36xaLwYVrjsR-qS0PJjB9NQ,Other languages,andhra,,TRUE,blr
+blr:places:ChIJdQZ7srcVrjsRf6BZR5fliDw,UP/Bihar Brahmin surnames (Mishra/Tiwari/Pandey/...),pandey,,TRUE,blr
+blr:places:ChIJbTH2NQBtrjsRSfgN0XyOGcM,UP/Bihar Brahmin surnames (Mishra/Tiwari/Pandey/...),pandit,,TRUE,blr
+blr:osm:osm_10728008692,UP/Bihar Brahmin surnames (Mishra/Tiwari/Pandey/...),pandit,,TRUE,blr
+blr:osm:osm_12229924652,Bengali Kayastha/Baidya surnames (Bose/Sen/Mitra/Dutta),mitra,,TRUE,blr
+maa:places:ChIJ2WOvTKRdUjoRbmaukS_CPgo,Other languages,tamil,,TRUE,maa
+maa:places:ChIJ615Ba3xcUjoRxkurEiLtnmA,Other languages,andhra,,TRUE,maa
+maa:places:ChIJVSUEEglfUjoRusbgzppm8H4,Other languages,andhra,,TRUE,maa
+maa:places:ChIJ-8qNVS5hUjoRw7cod6Jvww0,Other languages,andhra,,TRUE,maa
+maa:places:ChIJVVVVVVZmUjoRG6hlaQMNZZc,Other languages,andhra,,TRUE,maa
+maa:places:ChIJoT2PeTL1UjoRPVQ6lS4cP4I,Tamil caste surnames (Pillai/Mudaliar/Nadar/Gounder/Thevar/Naicker/Pandian),pandian,,TRUE,maa
+maa:places:ChIJiRR_Fh5fUjoRpXMSrWYO2Fg,Tamil caste surnames (Pillai/Mudaliar/Nadar/Gounder/Thevar/Naicker/Pandian),pandian,,TRUE,maa
+maa:places:ChIJa6Zqjr9dUjoR3DaTdK7ylWM,Tamil caste surnames (Pillai/Mudaliar/Nadar/Gounder/Thevar/Naicker/Pandian),pandian,,TRUE,maa
+maa:places:ChIJ3x3A2NX0UjoRXJEhlqmlVIQ,Tamil caste surnames (Pillai/Mudaliar/Nadar/Gounder/Thevar/Naicker/Pandian),pandian,,TRUE,maa
+maa:places:ChIJ-bXG0JpdUjoR2LKLiO9IY4g,Tamil caste surnames (Pillai/Mudaliar/Nadar/Gounder/Thevar/Naicker/Pandian),pandian,,TRUE,maa
+maa:places:ChIJ_YQ9qLCKUjoRNTfAXJos9Ps,Tamil caste surnames (Pillai/Mudaliar/Nadar/Gounder/Thevar/Naicker/Pandian),pandian,,TRUE,maa
+maa:places:ChIJf0kAQ8-LUjoRGlzvYts1FYI,Tamil caste surnames (Pillai/Mudaliar/Nadar/Gounder/Thevar/Naicker/Pandian),pandian,,TRUE,maa
+maa:places:ChIJJwqx9rBhUjoRjoUNrSjBzKc,Tamil caste surnames (Pillai/Mudaliar/Nadar/Gounder/Thevar/Naicker/Pandian),pandian,,TRUE,maa
+maa:places:ChIJvxPIdABfUjoRjv9UbGheD1g,UP/Bihar Brahmin surnames (Mishra/Tiwari/Pandey/...),dubey,,TRUE,maa
+maa2:places:ChIJ2WOvTKRdUjoRbmaukS_CPgo,Other languages,tamil,,TRUE,maa2

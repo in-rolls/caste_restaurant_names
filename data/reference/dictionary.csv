@@ -1,0 +1,162 @@
+label,group,term,variant
+Brahmin (general),upper_caste,brahmin,brahmin
+Brahmin (general),upper_caste,brahmin,brahmins
+Brahmin (general),upper_caste,brahmin,bramhin
+Brahmin (general),upper_caste,brahmin,brahmana
+Iyengar (Tamil Brahmin),upper_caste,iyengar,iyengar
+Iyengar (Tamil Brahmin),upper_caste,iyengar,iyengars
+Iyengar (Tamil Brahmin),upper_caste,iyengar,ayyangar
+Iyengar (Tamil Brahmin),upper_caste,iyengar,ayengar
+Iyengar (Tamil Brahmin),upper_caste,mandyam,mandyam
+Iyer (Tamil Brahmin),upper_caste,iyer,iyer
+Iyer (Tamil Brahmin),upper_caste,iyer,iyers
+Iyer (Tamil Brahmin),upper_caste,iyer,aiyar
+Iyer (Tamil Brahmin),upper_caste,iyer,aiyer
+Iyer (Tamil Brahmin),upper_caste,iyer,ayyar
+Madhva / Dvaita (Brahmin),upper_caste,madhva,madhva
+Madhva / Dvaita (Brahmin),upper_caste,madhva,madhwa
+Smartha (Brahmin),upper_caste,smartha,smartha
+Smartha (Brahmin),upper_caste,smartha,smarta
+Deshastha (Brahmin),upper_caste,deshastha,deshastha
+Gaud Saraswat / GSB,upper_caste,saraswat,saraswat
+Gaud Saraswat / GSB,upper_caste,saraswat,saraswath
+Gaud Saraswat / GSB,upper_caste,saraswat,gaud saraswat
+Gaud Saraswat / GSB,upper_caste,gsb,gsb
+Havyaka (Brahmin),upper_caste,havyaka,havyaka
+Havyaka (Brahmin),upper_caste,havyaka,havyak
+Shivalli (Brahmin),upper_caste,shivalli,shivalli
+Hebbar (Brahmin - ambiguous),upper_caste,hebbar,hebbar
+Hebbar (Brahmin - ambiguous),upper_caste,hebbar,hebbars
+Jain,merchant_community,jain,jain
+Jain,merchant_community,jain,jains
+Marwari,merchant_community,marwari,marwari
+Marwari,merchant_community,marwari,marwadi
+Agarwal/Agrawal,merchant_community,agarwal,agarwal
+Agarwal/Agrawal,merchant_community,agarwal,agrawal
+Agarwal/Agrawal,merchant_community,agarwal,aggarwal
+Bania,merchant_community,bania,bania
+Gupta,merchant_community,gupta,gupta
+Gupta,merchant_community,gupta,guptas
+Chettiar (Tamil merchant),merchant_community,chettiar,chettiar
+Chettiar (Tamil merchant),merchant_community,chettiar,chettiyar
+Chettiar (Tamil merchant),merchant_community,chettiar,chetty
+Chettiar (Tamil merchant),merchant_community,chettiar,chetti
+Udupi cuisine,regional,udupi,udupi
+Udupi cuisine,regional,udupi,udipi
+Udupi cuisine,regional,udupi,udupi's
+Udupi cuisine,regional,udupi,udupis
+Mangalorean / Tulu Nadu,regional,mangalorean,mangalorean
+Mangalorean / Tulu Nadu,regional,tulu,tulu
+Mangalorean / Tulu Nadu,regional,tulu,tulu nadu
+Konkani,regional,konkani,konkani
+Kodava / Coorg,regional,kodava,kodava
+Kodava / Coorg,regional,coorg,coorg
+Kodava / Coorg,regional,coorg,coorgi
+Kodava / Coorg,regional,coorg,kodagu
+Places in KA,regional,mysore,mysore
+Places in KA,regional,mysore,mysuru
+Places in KA,regional,mandya,mandya
+Places in KA,regional,dharwad,dharwad
+Places in KA,regional,dharwad,dharwar
+Other languages,regional,tamil,tamil
+Other languages,regional,telugu,telugu
+Other languages,regional,kerala,kerala
+Other languages,regional,malayali,malayali
+Other languages,regional,malayali,malayalee
+Other languages,regional,punjabi,punjabi
+Other languages,regional,gujarati,gujarati
+Other languages,regional,gujarati,gujrati
+Other languages,regional,andhra,andhra
+Chettinad cuisine,regional,chettinad,chettinad
+Chettinad cuisine,regional,chettinad,chettinadu
+Gowda (often Vokkaliga),surname_title,gowda,gowda
+Gowda (often Vokkaliga),surname_title,gowda,gowdas
+Gowda (often Vokkaliga),surname_title,gowda,gowdru
+Shetty (often Bunt),surname_title,shetty,shetty
+Shetty (often Bunt),surname_title,shetty,shetti
+Shetty (often Bunt),surname_title,shetty,shettys
+Shetty (often Bunt),surname_title,shetty,shetty's
+Pai,surname_title,pai,pai
+Kamath,surname_title,kamath,kamath
+Kamath,surname_title,kamath,kamat
+Bhat/Bhatt,surname_title,bhat,bhat
+Bhat/Bhatt,surname_title,bhat,bhatt
+Bhat/Bhatt,surname_title,bhat,bhats
+Rao,surname_title,rao,rao
+Reddy,surname_title,reddy,reddy
+Reddy,surname_title,reddy,reddys
+Naidu,surname_title,naidu,naidu
+Tamil caste surnames (Pillai/Mudaliar/Nadar/Gounder/Thevar/Naicker/Pandian),surname_title,pillai,pillai
+Tamil caste surnames (Pillai/Mudaliar/Nadar/Gounder/Thevar/Naicker/Pandian),surname_title,mudaliar,mudaliar
+Tamil caste surnames (Pillai/Mudaliar/Nadar/Gounder/Thevar/Naicker/Pandian),surname_title,mudaliar,mudaliyar
+Tamil caste surnames (Pillai/Mudaliar/Nadar/Gounder/Thevar/Naicker/Pandian),surname_title,nadar,nadar
+Tamil caste surnames (Pillai/Mudaliar/Nadar/Gounder/Thevar/Naicker/Pandian),surname_title,gounder,gounder
+Tamil caste surnames (Pillai/Mudaliar/Nadar/Gounder/Thevar/Naicker/Pandian),surname_title,thevar,thevar
+Tamil caste surnames (Pillai/Mudaliar/Nadar/Gounder/Thevar/Naicker/Pandian),surname_title,naicker,naicker
+Tamil caste surnames (Pillai/Mudaliar/Nadar/Gounder/Thevar/Naicker/Pandian),surname_title,pandian,pandian
+Tamil caste surnames (Pillai/Mudaliar/Nadar/Gounder/Thevar/Naicker/Pandian),surname_title,pandian,pandiyan
+North/West caste surnames (Yadav/Thakur/Khatri/Patel/Patil),surname_title,yadav,yadav
+North/West caste surnames (Yadav/Thakur/Khatri/Patel/Patil),surname_title,yadav,yadava
+North/West caste surnames (Yadav/Thakur/Khatri/Patel/Patil),surname_title,thakur,thakur
+North/West caste surnames (Yadav/Thakur/Khatri/Patel/Patil),surname_title,khatri,khatri
+North/West caste surnames (Yadav/Thakur/Khatri/Patel/Patil),surname_title,patel,patel
+North/West caste surnames (Yadav/Thakur/Khatri/Patel/Patil),surname_title,patil,patil
+UP/Bihar Brahmin surnames (Mishra/Tiwari/Pandey/...),surname_title,mishra,mishra
+UP/Bihar Brahmin surnames (Mishra/Tiwari/Pandey/...),surname_title,mishra,misra
+UP/Bihar Brahmin surnames (Mishra/Tiwari/Pandey/...),surname_title,tiwari,tiwari
+UP/Bihar Brahmin surnames (Mishra/Tiwari/Pandey/...),surname_title,tiwari,tewari
+UP/Bihar Brahmin surnames (Mishra/Tiwari/Pandey/...),surname_title,pandey,pandey
+UP/Bihar Brahmin surnames (Mishra/Tiwari/Pandey/...),surname_title,pandey,pande
+UP/Bihar Brahmin surnames (Mishra/Tiwari/Pandey/...),surname_title,pandey,panday
+UP/Bihar Brahmin surnames (Mishra/Tiwari/Pandey/...),surname_title,dubey,dubey
+UP/Bihar Brahmin surnames (Mishra/Tiwari/Pandey/...),surname_title,dubey,dube
+UP/Bihar Brahmin surnames (Mishra/Tiwari/Pandey/...),surname_title,dubey,dwivedi
+UP/Bihar Brahmin surnames (Mishra/Tiwari/Pandey/...),surname_title,shukla,shukla
+UP/Bihar Brahmin surnames (Mishra/Tiwari/Pandey/...),surname_title,trivedi,trivedi
+UP/Bihar Brahmin surnames (Mishra/Tiwari/Pandey/...),surname_title,chaturvedi,chaturvedi
+UP/Bihar Brahmin surnames (Mishra/Tiwari/Pandey/...),surname_title,upadhyay,upadhyay
+UP/Bihar Brahmin surnames (Mishra/Tiwari/Pandey/...),surname_title,upadhyay,upadhyaya
+UP/Bihar Brahmin surnames (Mishra/Tiwari/Pandey/...),surname_title,pandit,pandit
+UP/Bihar Brahmin surnames (Mishra/Tiwari/Pandey/...),surname_title,pandit,panditji
+Kayastha surnames (Srivastava/Saxena),surname_title,srivastava,srivastava
+Kayastha surnames (Srivastava/Saxena),surname_title,srivastava,shrivastava
+Kayastha surnames (Srivastava/Saxena),surname_title,srivastava,srivastav
+Kayastha surnames (Srivastava/Saxena),surname_title,saxena,saxena
+Bengali Brahmin surnames (Chatterjee/Banerjee/Mukherjee/...),surname_title,chatterjee,chatterjee
+Bengali Brahmin surnames (Chatterjee/Banerjee/Mukherjee/...),surname_title,chatterjee,chattopadhyay
+Bengali Brahmin surnames (Chatterjee/Banerjee/Mukherjee/...),surname_title,chatterjee,chatterji
+Bengali Brahmin surnames (Chatterjee/Banerjee/Mukherjee/...),surname_title,banerjee,banerjee
+Bengali Brahmin surnames (Chatterjee/Banerjee/Mukherjee/...),surname_title,banerjee,bandyopadhyay
+Bengali Brahmin surnames (Chatterjee/Banerjee/Mukherjee/...),surname_title,banerjee,banerji
+Bengali Brahmin surnames (Chatterjee/Banerjee/Mukherjee/...),surname_title,mukherjee,mukherjee
+Bengali Brahmin surnames (Chatterjee/Banerjee/Mukherjee/...),surname_title,mukherjee,mukhopadhyay
+Bengali Brahmin surnames (Chatterjee/Banerjee/Mukherjee/...),surname_title,mukherjee,mukherji
+Bengali Brahmin surnames (Chatterjee/Banerjee/Mukherjee/...),surname_title,bhattacharya,bhattacharya
+Bengali Brahmin surnames (Chatterjee/Banerjee/Mukherjee/...),surname_title,bhattacharya,bhattacharjee
+Bengali Brahmin surnames (Chatterjee/Banerjee/Mukherjee/...),surname_title,bhattacharya,bhattacharyya
+Bengali Brahmin surnames (Chatterjee/Banerjee/Mukherjee/...),surname_title,ganguly,ganguly
+Bengali Brahmin surnames (Chatterjee/Banerjee/Mukherjee/...),surname_title,ganguly,gangopadhyay
+Bengali Kayastha/Baidya surnames (Bose/Sen/Mitra/Dutta),surname_title,bose,bose
+Bengali Kayastha/Baidya surnames (Bose/Sen/Mitra/Dutta),surname_title,bose,basu
+Bengali Kayastha/Baidya surnames (Bose/Sen/Mitra/Dutta),surname_title,sen,sen
+Bengali Kayastha/Baidya surnames (Bose/Sen/Mitra/Dutta),surname_title,mitra,mitra
+Bengali Kayastha/Baidya surnames (Bose/Sen/Mitra/Dutta),surname_title,dutta,dutta
+Bengali Kayastha/Baidya surnames (Bose/Sen/Mitra/Dutta),surname_title,dutta,dutt
+Bengali Kayastha/Baidya surnames (Bose/Sen/Mitra/Dutta),surname_title,dutta,datta
+Naik/Nayak,surname_title,naik,naik
+Naik/Nayak,surname_title,naik,nayak
+Acharya/Jois/Sharma/Murthy/Sastry/Kulkarni/Joshi/Dixit,surname_title,acharya,acharya
+Acharya/Jois/Sharma/Murthy/Sastry/Kulkarni/Joshi/Dixit,surname_title,acharya,achari
+Acharya/Jois/Sharma/Murthy/Sastry/Kulkarni/Joshi/Dixit,surname_title,jois,jois
+Acharya/Jois/Sharma/Murthy/Sastry/Kulkarni/Joshi/Dixit,surname_title,sharma,sharma
+Acharya/Jois/Sharma/Murthy/Sastry/Kulkarni/Joshi/Dixit,surname_title,murthy,murthy
+Acharya/Jois/Sharma/Murthy/Sastry/Kulkarni/Joshi/Dixit,surname_title,murthy,murty
+Acharya/Jois/Sharma/Murthy/Sastry/Kulkarni/Joshi/Dixit,surname_title,murthy,moorthy
+Acharya/Jois/Sharma/Murthy/Sastry/Kulkarni/Joshi/Dixit,surname_title,sastry,sastry
+Acharya/Jois/Sharma/Murthy/Sastry/Kulkarni/Joshi/Dixit,surname_title,sastry,sastri
+Acharya/Jois/Sharma/Murthy/Sastry/Kulkarni/Joshi/Dixit,surname_title,sastry,shastry
+Acharya/Jois/Sharma/Murthy/Sastry/Kulkarni/Joshi/Dixit,surname_title,sastry,shastri
+Acharya/Jois/Sharma/Murthy/Sastry/Kulkarni/Joshi/Dixit,surname_title,kulkarni,kulkarni
+Acharya/Jois/Sharma/Murthy/Sastry/Kulkarni/Joshi/Dixit,surname_title,joshi,joshi
+Acharya/Jois/Sharma/Murthy/Sastry/Kulkarni/Joshi/Dixit,surname_title,dixit,dixit
+Acharya/Jois/Sharma/Murthy/Sastry/Kulkarni/Joshi/Dixit,surname_title,dixit,dikshit

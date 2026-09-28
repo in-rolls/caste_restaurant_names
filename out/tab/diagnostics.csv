@@ -1,0 +1,12 @@
+region_id,design,raw_n,n,linked,unscorable,changed_normalization,unresolved_pairs,query_points,occupied_points,no_first_capture,capped_queries,capped_share,query_radius_m
+blr,grid,7801,7769,32,6,213,5,,,,,,
+maa,grid,4999,4961,38,2,292,14,,,,,,
+mys,grid,2192,2175,17,0,134,0,,,,,,
+blr2,sampled,3447,3447,0,0,18,0,400,298,102,103,0.2575,300
+del,sampled,4009,4009,0,1,25,0,400,347,53,120,0.3,300
+jai,sampled,1771,1771,0,0,66,0,400,238,162,30,0.075,300
+kol,sampled,3768,3768,0,2,47,0,400,349,51,212,0.53,300
+lko,sampled,1855,1855,0,0,23,0,400,264,136,29,0.0725,300
+maa2,sampled,5025,5025,0,1,155,1,400,379,21,222,0.555,300
+mys2,sampled,904,904,0,0,15,0,400,153,247,11,0.0275,300
+vns,sampled,940,940,0,0,18,0,400,167,233,19,0.0475,300

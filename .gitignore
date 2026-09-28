@@ -208,3 +208,13 @@ __marimo__/
 .DS_Store
 data/historical/in.ernet.dli.*.txt
 data/sampling/cache/
+
+.Rhistory
+.RData
+.Rproj.user/
+renv/library/
+renv/staging/
+renv/local/
+renv/cache/
+out/matches/
+out/session-info.txt
