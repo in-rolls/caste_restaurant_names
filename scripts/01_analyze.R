@@ -167,7 +167,7 @@ for (name in c(
 all_rows <- map_dfr(results, "rows")
 write_table(historical_summary("data/historical/eating_houses_1918_1928.csv"), "historical")
 lookup_path <- Sys.getenv(
-  "SURNAME_LOOKUP", "../last-name-basis/out/tab/per_name_secc_weighted.parquet"
+  "SURNAME_LOOKUP", "../caste-name-information/out/tab/per_name_secc_weighted.parquet"
 )
 if (!file.exists(lookup_path)) {
   stop("Set SURNAME_LOOKUP to the SECC surname Parquet file: ", lookup_path)
