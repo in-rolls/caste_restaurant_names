@@ -170,3 +170,7 @@ Public Culture in a South Asian World*, ed. Carol A. Breckenridge,
 Marriott, McKim. 1968. “Caste Ranking and Food Transactions: A Matrix
 Analysis.” In *Structure and Change in Indian Society*, eds. Milton
 Singer and Bernard S. Cohn, 133–171. Chicago: Aldine.
+
+<!-- adjacent:start -->
+
+<!-- adjacent:end -->
