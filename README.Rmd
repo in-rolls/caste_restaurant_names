@@ -195,4 +195,14 @@ and Bernard S. Cohn, 133–171. Chicago: Aldine.
 
 <!-- adjacent:start -->
 
+## 🔗 Adjacent Repositories
+
+- [in-rolls/caste_name_information](https://github.com/in-rolls/caste_name_information) — How much does an Indian last name tell you about caste? Guess a stranger's and you're wrong 25 times in 100; hear their surname and you're wrong 20. For 91% of people the name changes nothing.
+- [in-rolls/caste_marriage_matching](https://github.com/in-rolls/caste_marriage_matching) — Replication and analysis of caste preferences, shortlisting and marriage matching in India
+- [in-rolls/caste_water_markets](https://github.com/in-rolls/caste_water_markets) — Replication and analysis of caste, groundwater trade and crop sales in rural India
+- [in-rolls/caste_economic_overlap](https://github.com/in-rolls/caste_economic_overlap) — Economic distribution overlap and predictive information across caste groups
+- [in-rolls/anusuchi](https://github.com/in-rolls/anusuchi) — Statutory caste lists for India \(SC/ST/OBC\), stored as published and parsed into rows
+
+_Powered by [Adjacent](https://github.com/gojiplus/adjacent)_
+
 <!-- adjacent:end -->
