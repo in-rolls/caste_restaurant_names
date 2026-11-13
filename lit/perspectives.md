@@ -48,7 +48,7 @@ pole did not die; it migrated into diet words. "Pure veg" signage, and the
 2024 Zomato pure-veg-fleet controversy, are the modern descendants of
 "Hindu Restaurant" - purity semiotics without caste vocabulary. Our
 dictionary does not count "pure veg," which means our estimate of identity
-signalling is a floor: we measure the caste-worded channel and leave the
+signaling is a floor: we measure the caste-worded channel and leave the
 diet-worded channel unmeasured.
 
 ## Khare: Lucknow's hearth stays home; the trade goes to the Yadavs
